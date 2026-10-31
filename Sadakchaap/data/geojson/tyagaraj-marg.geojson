@@ -1,0 +1,316 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-28T20:55:54Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/80950040",
+      "properties": {
+        "@id": "way/80950040",
+        "highway": "tertiary",
+        "name": "Tyagaraj Marg",
+        "name:etymology:wikidata": "Q2044389",
+        "name:hi": "तेगारराज मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.199776,
+            28.6108541
+          ],
+          [
+            77.1997822,
+            28.6109143
+          ],
+          [
+            77.1998082,
+            28.6110133
+          ],
+          [
+            77.1998584,
+            28.6111644
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/782774055",
+      "properties": {
+        "@id": "way/782774055",
+        "highway": "tertiary",
+        "lanes": "4",
+        "name": "Tyagaraj Marg",
+        "name:etymology:wikidata": "Q2044389",
+        "name:hi": "त्यागराज मार्ग",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.1993109,
+            28.6108802
+          ],
+          [
+            77.1992203,
+            28.6108854
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/782774056",
+      "properties": {
+        "@id": "way/782774056",
+        "highway": "tertiary",
+        "lanes": "4",
+        "name": "Tyagaraj Marg",
+        "name:etymology:wikidata": "Q2044389",
+        "name:hi": "त्यागराज मार्ग",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.199776,
+            28.6108541
+          ],
+          [
+            77.1996429,
+            28.6108625
+          ],
+          [
+            77.1994526,
+            28.6108745
+          ],
+          [
+            77.1993109,
+            28.6108802
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/782774057",
+      "properties": {
+        "@id": "way/782774057",
+        "highway": "tertiary",
+        "lanes": "4",
+        "name": "Tyagaraj Marg",
+        "name:etymology:wikidata": "Q2044389",
+        "name:hi": "त्यागराज मार्ग",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2048589,
+            28.6079016
+          ],
+          [
+            77.2046164,
+            28.6080682
+          ],
+          [
+            77.204325,
+            28.6082359
+          ],
+          [
+            77.2038296,
+            28.6085211
+          ],
+          [
+            77.2033334,
+            28.6088067
+          ],
+          [
+            77.2028307,
+            28.609096
+          ],
+          [
+            77.2027294,
+            28.6091543
+          ],
+          [
+            77.2019531,
+            28.6096011
+          ],
+          [
+            77.2015686,
+            28.6098224
+          ],
+          [
+            77.2002889,
+            28.6105589
+          ],
+          [
+            77.1998964,
+            28.6107848
+          ],
+          [
+            77.199776,
+            28.6108541
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/782774058",
+      "properties": {
+        "@id": "way/782774058",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "Tyagaraj Marg",
+        "name:etymology:wikidata": "Q2044389",
+        "name:hi": "त्यागराज मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.204996,
+            28.6077269
+          ],
+          [
+            77.204945,
+            28.6078005
+          ],
+          [
+            77.2049115,
+            28.6078399
+          ],
+          [
+            77.2048652,
+            28.6078894
+          ],
+          [
+            77.2048589,
+            28.6079016
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/782774059",
+      "properties": {
+        "@id": "way/782774059",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "Tyagaraj Marg",
+        "name:etymology:wikidata": "Q2044389",
+        "name:hi": "त्यागराज मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2049125,
+            28.6079708
+          ],
+          [
+            77.2049371,
+            28.6079583
+          ],
+          [
+            77.2050045,
+            28.6079339
+          ],
+          [
+            77.2050429,
+            28.6079256
+          ],
+          [
+            77.2050843,
+            28.6079256
+          ],
+          [
+            77.2051658,
+            28.6079351
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1074157512",
+      "properties": {
+        "@id": "way/1074157512",
+        "highway": "tertiary",
+        "lanes": "4",
+        "name": "Tyagaraj Marg",
+        "name:etymology:wikidata": "Q2044389",
+        "name:hi": "त्यागराज मार्ग",
+        "source": "maxar"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2049125,
+            28.6079708
+          ],
+          [
+            77.2046557,
+            28.6081208
+          ],
+          [
+            77.2043643,
+            28.6082885
+          ],
+          [
+            77.2038689,
+            28.6085737
+          ],
+          [
+            77.2033727,
+            28.6088593
+          ],
+          [
+            77.20287,
+            28.6091486
+          ],
+          [
+            77.2027687,
+            28.6092069
+          ],
+          [
+            77.2019924,
+            28.6096537
+          ],
+          [
+            77.2016079,
+            28.609875
+          ],
+          [
+            77.2003282,
+            28.6106115
+          ],
+          [
+            77.1999357,
+            28.6108374
+          ],
+          [
+            77.1997822,
+            28.6109143
+          ]
+        ]
+      }
+    }
+  ]
+}

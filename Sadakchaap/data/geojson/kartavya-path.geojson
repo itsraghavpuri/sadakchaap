@@ -1,0 +1,272 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-31T21:01:48Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/278577245",
+      "properties": {
+        "@id": "way/278577245",
+        "alt_name": "Rajpath",
+        "highway": "tertiary",
+        "name": "Kartavya Path",
+        "name:hi": "कर्तव्य पथ",
+        "old_name": "Kingsway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2037158,
+            28.6141664
+          ],
+          [
+            77.2037567,
+            28.6141645
+          ],
+          [
+            77.2040452,
+            28.6141508
+          ],
+          [
+            77.2044069,
+            28.6141337
+          ],
+          [
+            77.2049305,
+            28.614109
+          ],
+          [
+            77.2053186,
+            28.6140906
+          ],
+          [
+            77.206496,
+            28.6140348
+          ],
+          [
+            77.2075373,
+            28.6139855
+          ],
+          [
+            77.2086652,
+            28.6139321
+          ],
+          [
+            77.208773,
+            28.613927
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/359757123",
+      "properties": {
+        "@id": "way/359757123",
+        "access": "no",
+        "alt_name": "Rajpath",
+        "highway": "secondary",
+        "lanes": "4",
+        "name": "Kartavya Path",
+        "name:hi": "कर्तव्य पथ",
+        "old_name": "Kingsway",
+        "surface": "asphalt",
+        "wikidata": "Q2504164",
+        "wikipedia": "en:Rajpath"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2122049,
+            28.6137551
+          ],
+          [
+            77.2184671,
+            28.6134521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/359770132",
+      "properties": {
+        "@id": "way/359770132",
+        "access": "private",
+        "alt_name": "Rajpath",
+        "highway": "corridor",
+        "indoor": "yes",
+        "name": "Kartavya Path",
+        "name:hi": "कर्तव्य पथ",
+        "old_name": "Kingsway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2015548,
+            28.6142623
+          ],
+          [
+            77.2001861,
+            28.6143264
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/359770135",
+      "properties": {
+        "@id": "way/359770135",
+        "access": "private",
+        "alt_name": "Rajpath",
+        "highway": "corridor",
+        "indoor": "yes",
+        "name": "Kartavya Path",
+        "name:hi": "कर्तव्य पथ",
+        "old_name": "Kingsway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2037158,
+            28.6141664
+          ],
+          [
+            77.2035307,
+            28.6141704
+          ],
+          [
+            77.202052,
+            28.6142368
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/537797267",
+      "properties": {
+        "@id": "way/537797267",
+        "access": "no",
+        "alt_name": "Rajpath",
+        "highway": "secondary",
+        "lane_markings": "no",
+        "name": "Kartavya Path",
+        "name:hi": "कर्तव्य पथ",
+        "old_name": "Kingsway",
+        "smoothness": "excellent",
+        "surface": "paving_stones",
+        "wikidata": "Q2504164",
+        "wikipedia": "en:Rajpath"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2184671,
+            28.6134521
+          ],
+          [
+            77.2185276,
+            28.6134493
+          ],
+          [
+            77.2247654,
+            28.6131567
+          ],
+          [
+            77.2248492,
+            28.6131528
+          ],
+          [
+            77.2276662,
+            28.6130207
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1307222666",
+      "properties": {
+        "@id": "way/1307222666",
+        "access": "no",
+        "alt_name": "Rajpath",
+        "highway": "secondary",
+        "lanes": "4",
+        "name": "Kartavya Path",
+        "name:hi": "कर्तव्य पथ",
+        "old_name": "Kingsway",
+        "surface": "asphalt",
+        "wikidata": "Q2504164",
+        "wikipedia": "en:Rajpath"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.208773,
+            28.613927
+          ],
+          [
+            77.2089826,
+            28.6139108
+          ],
+          [
+            77.2091896,
+            28.6138946
+          ],
+          [
+            77.2095113,
+            28.6138792
+          ],
+          [
+            77.2119155,
+            28.6137684
+          ],
+          [
+            77.2121071,
+            28.6137596
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1307222669",
+      "properties": {
+        "@id": "way/1307222669",
+        "access": "no",
+        "alt_name": "Rajpath",
+        "highway": "secondary",
+        "lanes": "4",
+        "name": "Kartavya Path",
+        "name:hi": "कर्तव्य पथ",
+        "old_name": "Kingsway",
+        "surface": "asphalt",
+        "wikidata": "Q2504164",
+        "wikipedia": "en:Rajpath"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2121071,
+            28.6137596
+          ],
+          [
+            77.2122049,
+            28.6137551
+          ]
+        ]
+      }
+    }
+  ]
+}

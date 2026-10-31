@@ -1,0 +1,511 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-31T20:25:06Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/24577364",
+      "properties": {
+        "@id": "way/24577364",
+        "highway": "secondary_link",
+        "lane_markings": "no",
+        "name": "Humayun Road",
+        "name:etymology:wikidata": "Q486188",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2299215,
+            28.601417
+          ],
+          [
+            77.2299747,
+            28.6015323
+          ],
+          [
+            77.2300005,
+            28.6016026
+          ],
+          [
+            77.2300018,
+            28.6016582
+          ],
+          [
+            77.2299854,
+            28.6017202
+          ],
+          [
+            77.2299505,
+            28.6017983
+          ],
+          [
+            77.2298967,
+            28.6018805
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24577365",
+      "properties": {
+        "@id": "way/24577365",
+        "highway": "secondary_link",
+        "lanes": "2",
+        "name": "Humayun Road",
+        "name:etymology:wikidata": "Q486188",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2299629,
+            28.6019451
+          ],
+          [
+            77.2301422,
+            28.60189
+          ],
+          [
+            77.2301812,
+            28.6018777
+          ],
+          [
+            77.2303678,
+            28.6018191
+          ],
+          [
+            77.230487,
+            28.6017817
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24577367",
+      "properties": {
+        "@id": "way/24577367",
+        "highway": "tertiary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "maxspeed:hgv": "40",
+        "maxspeed:type": "sign",
+        "name": "Humayun Road",
+        "name:etymology:wikidata": "Q486188",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2253631,
+            28.6041654
+          ],
+          [
+            77.2256163,
+            28.604052
+          ],
+          [
+            77.2261229,
+            28.6038085
+          ],
+          [
+            77.2263019,
+            28.6037201
+          ],
+          [
+            77.2265243,
+            28.6036133
+          ],
+          [
+            77.2267113,
+            28.6035268
+          ],
+          [
+            77.2268182,
+            28.6034687
+          ],
+          [
+            77.2270918,
+            28.6033306
+          ],
+          [
+            77.2271826,
+            28.6032807
+          ],
+          [
+            77.2275244,
+            28.6030915
+          ],
+          [
+            77.2276595,
+            28.6030172
+          ],
+          [
+            77.2279278,
+            28.602884
+          ],
+          [
+            77.2280165,
+            28.6028422
+          ],
+          [
+            77.2281963,
+            28.6027686
+          ],
+          [
+            77.2283302,
+            28.6027051
+          ],
+          [
+            77.228924,
+            28.6024301
+          ],
+          [
+            77.2289998,
+            28.6023897
+          ],
+          [
+            77.2291719,
+            28.6022981
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/732001895",
+      "properties": {
+        "@id": "way/732001895",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "Humayun Road",
+        "name:etymology:wikidata": "Q486188",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2299629,
+            28.6019451
+          ],
+          [
+            77.2301016,
+            28.6018734
+          ],
+          [
+            77.2301453,
+            28.6018366
+          ],
+          [
+            77.2302206,
+            28.6017446
+          ],
+          [
+            77.230253,
+            28.6016982
+          ],
+          [
+            77.2302767,
+            28.6016515
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/783084112",
+      "properties": {
+        "@id": "way/783084112",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "Humayun Road",
+        "name:etymology:wikidata": "Q486188",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2303171,
+            28.6015743
+          ],
+          [
+            77.2302215,
+            28.6016153
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/783084113",
+      "properties": {
+        "@id": "way/783084113",
+        "highway": "tertiary",
+        "name": "Humayun Road",
+        "name:etymology:wikidata": "Q486188",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2292687,
+            28.6022773
+          ],
+          [
+            77.2293855,
+            28.602232
+          ],
+          [
+            77.2297023,
+            28.6020746
+          ],
+          [
+            77.2299629,
+            28.6019451
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1077595194",
+      "properties": {
+        "@id": "way/1077595194",
+        "highway": "tertiary",
+        "name": "Humayun Road",
+        "name:etymology:wikidata": "Q486188",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2298967,
+            28.6018805
+          ],
+          [
+            77.2292504,
+            28.6022075
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1077595195",
+      "properties": {
+        "@id": "way/1077595195",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "Humayun Road",
+        "name:etymology:wikidata": "Q486188",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2253631,
+            28.6041654
+          ],
+          [
+            77.2251298,
+            28.6042307
+          ],
+          [
+            77.225057,
+            28.6042391
+          ],
+          [
+            77.2248167,
+            28.6042215
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1077595196",
+      "properties": {
+        "@id": "way/1077595196",
+        "highway": "tertiary",
+        "name": "Humayun Road",
+        "name:etymology:wikidata": "Q486188",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2292504,
+            28.6022075
+          ],
+          [
+            77.2291719,
+            28.6022981
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1126646522",
+      "properties": {
+        "@id": "way/1126646522",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "Humayun Road",
+        "name:etymology:wikidata": "Q486188",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2250169,
+            28.6044992
+          ],
+          [
+            77.2251371,
+            28.6043732
+          ],
+          [
+            77.2251696,
+            28.6043412
+          ],
+          [
+            77.225186,
+            28.6043243
+          ],
+          [
+            77.225216,
+            28.60429
+          ],
+          [
+            77.2252677,
+            28.6042459
+          ],
+          [
+            77.2253137,
+            28.6042101
+          ],
+          [
+            77.2253631,
+            28.6041654
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1126646523",
+      "properties": {
+        "@id": "way/1126646523",
+        "highway": "tertiary",
+        "name": "Humayun Road",
+        "name:etymology:wikidata": "Q486188",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2291719,
+            28.6022981
+          ],
+          [
+            77.2292687,
+            28.6022773
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1187268484",
+      "properties": {
+        "@id": "way/1187268484",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "Humayun Road",
+        "name:etymology:wikidata": "Q486188",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2302767,
+            28.6016515
+          ],
+          [
+            77.2303171,
+            28.6015743
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1187268488",
+      "properties": {
+        "@id": "way/1187268488",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "Humayun Road",
+        "name:etymology:wikidata": "Q486188",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2302215,
+            28.6016153
+          ],
+          [
+            77.2301522,
+            28.6016878
+          ],
+          [
+            77.2300683,
+            28.6017755
+          ],
+          [
+            77.2300271,
+            28.6018123
+          ],
+          [
+            77.2299835,
+            28.6018397
+          ],
+          [
+            77.2298967,
+            28.6018805
+          ]
+        ]
+      }
+    }
+  ]
+}

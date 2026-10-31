@@ -1,0 +1,269 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-28T20:49:51Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/24584396",
+      "properties": {
+        "@id": "way/24584396",
+        "highway": "secondary",
+        "name": "North Avenue",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2002309,
+            28.6235732
+          ],
+          [
+            77.2001741,
+            28.6234126
+          ],
+          [
+            77.2000229,
+            28.6229848
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24584397",
+      "properties": {
+        "@id": "way/24584397",
+        "highway": "secondary",
+        "name": "North Avenue",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2000229,
+            28.6229848
+          ],
+          [
+            77.1999895,
+            28.6235903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/518509858",
+      "properties": {
+        "@id": "way/518509858",
+        "access": "permissive",
+        "highway": "service",
+        "name": "North Avenue"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.1975542,
+            28.5448584
+          ],
+          [
+            77.1976763,
+            28.5448277
+          ],
+          [
+            77.1983127,
+            28.5446906
+          ],
+          [
+            77.1984356,
+            28.5446609
+          ],
+          [
+            77.1986944,
+            28.544603
+          ],
+          [
+            77.1991159,
+            28.5445087
+          ],
+          [
+            77.1995256,
+            28.5444349
+          ],
+          [
+            77.1996118,
+            28.5444054
+          ],
+          [
+            77.1996523,
+            28.5443718
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1271156420",
+      "properties": {
+        "@id": "way/1271156420",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "North Avenue",
+        "name:hi": "नॉर्थ आवन्यू",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.1997435,
+            28.6182923
+          ],
+          [
+            77.1997865,
+            28.6182239
+          ],
+          [
+            77.1997825,
+            28.6181475
+          ],
+          [
+            77.1997605,
+            28.6177242
+          ],
+          [
+            77.1997019,
+            28.6176147
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1271156421",
+      "properties": {
+        "@id": "way/1271156421",
+        "highway": "secondary",
+        "lanes": "4",
+        "name": "North Avenue",
+        "name:hi": "नॉर्थ आवन्यू",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.1999499,
+            28.6215969
+          ],
+          [
+            77.1998784,
+            28.6204528
+          ],
+          [
+            77.1997943,
+            28.6191061
+          ],
+          [
+            77.1997677,
+            28.6186785
+          ],
+          [
+            77.1997435,
+            28.6182923
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1271156422",
+      "properties": {
+        "@id": "way/1271156422",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "North Avenue",
+        "name:hi": "नॉर्थ आवन्यू",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.1997019,
+            28.6176147
+          ],
+          [
+            77.1996653,
+            28.6177299
+          ],
+          [
+            77.1996939,
+            28.6182239
+          ],
+          [
+            77.1997435,
+            28.6182923
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1551235524",
+      "properties": {
+        "@id": "way/1551235524",
+        "highway": "secondary",
+        "lanes": "4",
+        "name": "North Avenue",
+        "name:hi": "नॉर्थ आवन्यू",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2000055,
+            28.6224866
+          ],
+          [
+            77.1999499,
+            28.6215969
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1551235526",
+      "properties": {
+        "@id": "way/1551235526",
+        "highway": "secondary",
+        "lanes": "4",
+        "name": "North Avenue",
+        "name:hi": "नॉर्थ आवन्यू",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2000229,
+            28.6229848
+          ],
+          [
+            77.2000055,
+            28.6224866
+          ]
+        ]
+      }
+    }
+  ]
+}

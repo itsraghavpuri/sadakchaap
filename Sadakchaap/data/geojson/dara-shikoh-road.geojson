@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-28T15:29:23Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/708488754",
+      "properties": {
+        "@id": "way/708488754",
+        "highway": "secondary",
+        "lit": "yes",
+        "name": "Dara Shikoh Road",
+        "name:etymology:wikidata": "Q604647",
+        "name:ur": "دارا شکوہ روڈ",
+        "sidewalk": "both"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.1975628,
+            28.6112433
+          ],
+          [
+            77.1977041,
+            28.6112385
+          ],
+          [
+            77.1982187,
+            28.6112219
+          ],
+          [
+            77.1989504,
+            28.6111966
+          ],
+          [
+            77.1992757,
+            28.6111845
+          ],
+          [
+            77.1998584,
+            28.6111644
+          ],
+          [
+            77.2016135,
+            28.6110512
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1474236997",
+      "properties": {
+        "@id": "way/1474236997",
+        "highway": "secondary",
+        "lit": "yes",
+        "name": "Dara Shikoh Road",
+        "name:etymology:wikidata": "Q604647",
+        "name:ur": "دارا شکوہ روڈ",
+        "sidewalk": "both"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2029043,
+            28.6109765
+          ],
+          [
+            77.2038139,
+            28.6109323
+          ],
+          [
+            77.204494,
+            28.6108977
+          ],
+          [
+            77.2052212,
+            28.6108599
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1474236998",
+      "properties": {
+        "@id": "way/1474236998",
+        "highway": "secondary",
+        "lit": "yes",
+        "name": "Dara Shikoh Road",
+        "name:etymology:wikidata": "Q604647",
+        "name:ur": "دارا شکوہ روڈ",
+        "sidewalk": "both"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2016135,
+            28.6110512
+          ],
+          [
+            77.2029043,
+            28.6109765
+          ]
+        ]
+      }
+    }
+  ]
+}

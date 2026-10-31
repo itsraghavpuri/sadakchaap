@@ -1,0 +1,399 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-27T10:46:06Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/27422249",
+      "properties": {
+        "@id": "way/27422249",
+        "highway": "secondary",
+        "name": "Rajaji Marg",
+        "name:etymology:wikidata": "Q378404",
+        "name:hi": "राजाजी मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.205387,
+            28.6064516
+          ],
+          [
+            77.205359,
+            28.6060594
+          ],
+          [
+            77.2053255,
+            28.6054768
+          ],
+          [
+            77.205318,
+            28.6053465
+          ],
+          [
+            77.2053022,
+            28.6050101
+          ],
+          [
+            77.2051766,
+            28.6029878
+          ],
+          [
+            77.205168,
+            28.6028283
+          ],
+          [
+            77.2051175,
+            28.6020589
+          ],
+          [
+            77.2051017,
+            28.6017912
+          ],
+          [
+            77.2050997,
+            28.6016583
+          ],
+          [
+            77.2051135,
+            28.6016132
+          ],
+          [
+            77.2051447,
+            28.601559
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/44352049",
+      "properties": {
+        "@id": "way/44352049",
+        "highway": "secondary",
+        "name": "Rajaji Marg",
+        "name:etymology:wikidata": "Q378404",
+        "name:hi": "राजाजी मार्ग",
+        "name:ur": "راجاجی مارگ",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2054549,
+            28.6082539
+          ],
+          [
+            77.2054848,
+            28.6081658
+          ],
+          [
+            77.2055126,
+            28.6080852
+          ],
+          [
+            77.2055502,
+            28.6080217
+          ],
+          [
+            77.2055795,
+            28.6079882
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/708474903",
+      "properties": {
+        "@id": "way/708474903",
+        "highway": "secondary",
+        "name": "Rajaji Marg",
+        "name:etymology:wikidata": "Q378404",
+        "name:hi": "राजाजी मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2049201,
+            28.6015689
+          ],
+          [
+            77.204944,
+            28.6015789
+          ],
+          [
+            77.2049896,
+            28.6016377
+          ],
+          [
+            77.205003,
+            28.6016872
+          ],
+          [
+            77.2050082,
+            28.6017949
+          ],
+          [
+            77.2050213,
+            28.6020664
+          ],
+          [
+            77.2050352,
+            28.6022312
+          ],
+          [
+            77.2050732,
+            28.6028325
+          ],
+          [
+            77.2050995,
+            28.6032202
+          ],
+          [
+            77.2051425,
+            28.6037948
+          ],
+          [
+            77.205172,
+            28.6044094
+          ],
+          [
+            77.205205,
+            28.6049636
+          ],
+          [
+            77.2052095,
+            28.6050193
+          ],
+          [
+            77.205239,
+            28.6054314
+          ],
+          [
+            77.2052658,
+            28.6058529
+          ],
+          [
+            77.2053092,
+            28.606454
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/708474904",
+      "properties": {
+        "@id": "way/708474904",
+        "highway": "secondary",
+        "name": "Rajaji Marg",
+        "name:etymology:wikidata": "Q378404",
+        "name:hi": "राजाजी मार्ग",
+        "name:ur": "راجاجی مارگ"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2054549,
+            28.6082539
+          ],
+          [
+            77.2054727,
+            28.6088128
+          ],
+          [
+            77.205513,
+            28.6093591
+          ],
+          [
+            77.2055398,
+            28.6098089
+          ],
+          [
+            77.2055424,
+            28.6099368
+          ],
+          [
+            77.2055532,
+            28.610049
+          ],
+          [
+            77.2055639,
+            28.610301
+          ],
+          [
+            77.2055836,
+            28.6105086
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1055134025",
+      "properties": {
+        "@id": "way/1055134025",
+        "highway": "secondary",
+        "name": "Rajaji Marg",
+        "name:etymology:wikidata": "Q378404",
+        "name:hi": "राजाजी मार्ग",
+        "name:ur": "راجاجی مارگ",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2053069,
+            28.6079958
+          ],
+          [
+            77.2053601,
+            28.6080404
+          ],
+          [
+            77.2053976,
+            28.6080899
+          ],
+          [
+            77.2054191,
+            28.6081417
+          ],
+          [
+            77.2054549,
+            28.6082539
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1527443417",
+      "properties": {
+        "@id": "way/1527443417",
+        "highway": "secondary",
+        "name": "Rajaji Marg",
+        "name:etymology:wikidata": "Q378404",
+        "name:hi": "राजाजी मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2055185,
+            28.607228
+          ],
+          [
+            77.2054536,
+            28.6071598
+          ],
+          [
+            77.2054295,
+            28.6071033
+          ],
+          [
+            77.2054223,
+            28.6070427
+          ],
+          [
+            77.2054186,
+            28.6070136
+          ],
+          [
+            77.2054094,
+            28.6068134
+          ],
+          [
+            77.2053999,
+            28.6066598
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1527443418",
+      "properties": {
+        "@id": "way/1527443418",
+        "highway": "secondary",
+        "name": "Rajaji Marg",
+        "name:etymology:wikidata": "Q378404",
+        "name:hi": "राजाजी मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2053999,
+            28.6066598
+          ],
+          [
+            77.205387,
+            28.6064516
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1527443420",
+      "properties": {
+        "@id": "way/1527443420",
+        "highway": "secondary",
+        "name": "Rajaji Marg",
+        "name:etymology:wikidata": "Q378404",
+        "name:hi": "राजाजी मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2053092,
+            28.606454
+          ],
+          [
+            77.2053061,
+            28.6064675
+          ],
+          [
+            77.2053436,
+            28.6068349
+          ],
+          [
+            77.2053596,
+            28.6070463
+          ],
+          [
+            77.2053651,
+            28.6071198
+          ],
+          [
+            77.2053517,
+            28.6071857
+          ],
+          [
+            77.2052979,
+            28.6072369
+          ]
+        ]
+      }
+    }
+  ]
+}

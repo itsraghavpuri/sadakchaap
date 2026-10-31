@@ -1,0 +1,815 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-28T17:32:06Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/116046166",
+      "properties": {
+        "@id": "way/116046166",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "motorroad": "no",
+        "name": "Kasturba Gandhi Marg",
+        "name:etymology:wikidata": "Q264908",
+        "name:hi": "कस्तूरबा गाँधी मार्ग",
+        "name:ur": "کستوربا گاندھی مارگ",
+        "old_name": "Curzon Road",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2262607,
+            28.6213754
+          ],
+          [
+            77.2267514,
+            28.6205269
+          ],
+          [
+            77.226923,
+            28.6202366
+          ],
+          [
+            77.2269337,
+            28.6202184
+          ],
+          [
+            77.2270143,
+            28.6200821
+          ],
+          [
+            77.2270972,
+            28.6200444
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/116046167",
+      "properties": {
+        "@id": "way/116046167",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "motorroad": "no",
+        "name": "Kasturba Gandhi Marg",
+        "name:etymology:wikidata": "Q264908",
+        "name:hi": "कस्तूरबा गाँधी मार्ग",
+        "name:ur": "کستوربا گاندھی مارگ",
+        "old_name": "Curzon Road",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.225325,
+            28.6228308
+          ],
+          [
+            77.2252997,
+            28.6228786
+          ],
+          [
+            77.2252255,
+            28.6230189
+          ],
+          [
+            77.2250182,
+            28.6234111
+          ],
+          [
+            77.2249301,
+            28.6235643
+          ],
+          [
+            77.2247278,
+            28.6239163
+          ],
+          [
+            77.2245624,
+            28.6242039
+          ],
+          [
+            77.2245079,
+            28.6242987
+          ],
+          [
+            77.2243633,
+            28.6245505
+          ],
+          [
+            77.2242619,
+            28.6247267
+          ],
+          [
+            77.2241937,
+            28.6248477
+          ],
+          [
+            77.2235514,
+            28.6259878
+          ],
+          [
+            77.2233409,
+            28.6263783
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/116046168",
+      "properties": {
+        "@id": "way/116046168",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "motorroad": "no",
+        "name": "Kasturba Gandhi Marg",
+        "name:etymology:wikidata": "Q264908",
+        "name:hi": "कस्तूरबा गांधी मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2295382,
+            28.6155069
+          ],
+          [
+            77.228805,
+            28.6167519
+          ],
+          [
+            77.2282029,
+            28.6177744
+          ],
+          [
+            77.2278171,
+            28.6184296
+          ],
+          [
+            77.2274594,
+            28.6190176
+          ],
+          [
+            77.2274182,
+            28.6190854
+          ],
+          [
+            77.2272244,
+            28.6194337
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/116046169",
+      "properties": {
+        "@id": "way/116046169",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "motorroad": "no",
+        "name": "Kasturba Gandhi Marg",
+        "name:etymology:wikidata": "Q264908",
+        "name:hi": "कस्तूरबा गांधी मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2274453,
+            28.6195511
+          ],
+          [
+            77.2274221,
+            28.6194319
+          ],
+          [
+            77.2276189,
+            28.6190978
+          ],
+          [
+            77.2282515,
+            28.6180239
+          ],
+          [
+            77.2285039,
+            28.6175624
+          ],
+          [
+            77.228543,
+            28.6174949
+          ],
+          [
+            77.2289282,
+            28.6168262
+          ],
+          [
+            77.2296583,
+            28.6155595
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/562340243",
+      "properties": {
+        "@id": "way/562340243",
+        "highway": "secondary",
+        "lane_markings": "no",
+        "motorroad": "no",
+        "name": "Kasturba Gandhi Marg",
+        "name:etymology:wikidata": "Q264908",
+        "name:hi": "कस्तूरबा गाँधी मार्ग",
+        "old_name": "Curzon Road",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.221405,
+            28.630292
+          ],
+          [
+            77.2213818,
+            28.630257
+          ],
+          [
+            77.2213639,
+            28.6302198
+          ],
+          [
+            77.2213513,
+            28.6301809
+          ],
+          [
+            77.2213444,
+            28.6301409
+          ],
+          [
+            77.2213433,
+            28.6301005
+          ],
+          [
+            77.2213479,
+            28.6300603
+          ],
+          [
+            77.2213555,
+            28.6300312
+          ],
+          [
+            77.2213582,
+            28.6300209
+          ],
+          [
+            77.221374,
+            28.6299829
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/563679836",
+      "properties": {
+        "@id": "way/563679836",
+        "highway": "secondary",
+        "lane_markings": "no",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "motorroad": "no",
+        "name": "Kasturba Gandhi Marg",
+        "name:etymology:wikidata": "Q264908",
+        "name:hi": "कस्तूरबा गाँधी मार्ग",
+        "name:ur": "کستوربا گاندھی مارگ",
+        "old_name": "Curzon Road",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.223418,
+            28.6264024
+          ],
+          [
+            77.2235974,
+            28.626091
+          ],
+          [
+            77.2236427,
+            28.6260125
+          ],
+          [
+            77.223828,
+            28.6256909
+          ],
+          [
+            77.2239001,
+            28.6255656
+          ],
+          [
+            77.2240636,
+            28.625282
+          ],
+          [
+            77.2241429,
+            28.6251442
+          ],
+          [
+            77.2242162,
+            28.6250171
+          ],
+          [
+            77.2242894,
+            28.6248901
+          ],
+          [
+            77.2243583,
+            28.6247704
+          ],
+          [
+            77.2244561,
+            28.6245917
+          ],
+          [
+            77.2246447,
+            28.6242473
+          ],
+          [
+            77.2247783,
+            28.6240033
+          ],
+          [
+            77.224809,
+            28.6239476
+          ],
+          [
+            77.2249109,
+            28.6237706
+          ],
+          [
+            77.2250342,
+            28.623557
+          ],
+          [
+            77.2250972,
+            28.6234479
+          ],
+          [
+            77.2252223,
+            28.6232273
+          ],
+          [
+            77.2253182,
+            28.6230583
+          ],
+          [
+            77.2254223,
+            28.6228747
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/563975285",
+      "properties": {
+        "@id": "way/563975285",
+        "highway": "secondary",
+        "lane_markings": "no",
+        "motorroad": "no",
+        "name": "Kasturba Gandhi Marg",
+        "name:etymology:wikidata": "Q264908",
+        "name:hi": "कस्तूरबा गाँधी मार्ग",
+        "old_name": "Curzon Road",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.223376,
+            28.6264956
+          ],
+          [
+            77.223418,
+            28.6264024
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/570616026",
+      "properties": {
+        "@id": "way/570616026",
+        "highway": "secondary",
+        "lane_markings": "no",
+        "motorroad": "no",
+        "name": "Kasturba Gandhi Marg",
+        "name:etymology:wikidata": "Q264908",
+        "name:hi": "कस्तूरबा गाँधी मार्ग",
+        "name:ur": "کستوربا گاندھی مارگ",
+        "old_name": "Curzon Road",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.221374,
+            28.6299829
+          ],
+          [
+            77.2214174,
+            28.6299066
+          ],
+          [
+            77.2215207,
+            28.6297253
+          ],
+          [
+            77.2217071,
+            28.6293982
+          ],
+          [
+            77.2217266,
+            28.6293617
+          ],
+          [
+            77.2219121,
+            28.6290312
+          ],
+          [
+            77.2219373,
+            28.6289882
+          ],
+          [
+            77.2221341,
+            28.6286515
+          ],
+          [
+            77.2227392,
+            28.6276116
+          ],
+          [
+            77.2228478,
+            28.6274252
+          ],
+          [
+            77.2230553,
+            28.6270601
+          ],
+          [
+            77.2232575,
+            28.6267042
+          ],
+          [
+            77.223376,
+            28.6264956
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/570616027",
+      "properties": {
+        "@id": "way/570616027",
+        "highway": "secondary",
+        "lane_markings": "no",
+        "motorroad": "no",
+        "name": "Kasturba Gandhi Marg",
+        "name:etymology:wikidata": "Q264908",
+        "name:hi": "कस्तूरबा गाँधी मार्ग",
+        "old_name": "Curzon Road",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2212686,
+            28.6299754
+          ],
+          [
+            77.2212607,
+            28.6299818
+          ],
+          [
+            77.2212246,
+            28.6300107
+          ],
+          [
+            77.2211742,
+            28.6300497
+          ],
+          [
+            77.2211151,
+            28.6300775
+          ],
+          [
+            77.2210495,
+            28.6300946
+          ],
+          [
+            77.2209832,
+            28.6300947
+          ],
+          [
+            77.2209174,
+            28.6300832
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/579781481",
+      "properties": {
+        "@id": "way/579781481",
+        "highway": "secondary",
+        "lane_markings": "yes",
+        "lanes": "2",
+        "motorroad": "no",
+        "name": "Kasturba Gandhi Marg",
+        "name:etymology:wikidata": "Q264908",
+        "name:hi": "कस्तूरबा गाँधी मार्ग",
+        "name:ur": "کستوربا گاندھی مارگ",
+        "old_name": "Curzon Road",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2233409,
+            28.6263783
+          ],
+          [
+            77.2232972,
+            28.626468
+          ],
+          [
+            77.2231705,
+            28.6266901
+          ],
+          [
+            77.2230097,
+            28.6269721
+          ],
+          [
+            77.2229649,
+            28.6270506
+          ],
+          [
+            77.2229373,
+            28.6270989
+          ],
+          [
+            77.2227747,
+            28.627384
+          ],
+          [
+            77.2227547,
+            28.6274191
+          ],
+          [
+            77.2225438,
+            28.6277888
+          ],
+          [
+            77.2225051,
+            28.6278566
+          ],
+          [
+            77.2223311,
+            28.6281616
+          ],
+          [
+            77.2221173,
+            28.6285365
+          ],
+          [
+            77.2220725,
+            28.628615
+          ],
+          [
+            77.2218713,
+            28.6289678
+          ],
+          [
+            77.2216918,
+            28.6292825
+          ],
+          [
+            77.2216652,
+            28.6293291
+          ],
+          [
+            77.2213212,
+            28.6299216
+          ],
+          [
+            77.2212686,
+            28.6299754
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/579781482",
+      "properties": {
+        "@id": "way/579781482",
+        "highway": "secondary",
+        "lane_markings": "yes",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "motorroad": "no",
+        "name": "Kasturba Gandhi Marg",
+        "name:etymology:wikidata": "Q264908",
+        "name:hi": "कस्तूरबा गाँधी मार्ग",
+        "name:ur": "کستوربا گاندھی مارگ",
+        "old_name": "Curzon Road",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2269172,
+            28.6199617
+          ],
+          [
+            77.2269187,
+            28.6200543
+          ],
+          [
+            77.2268622,
+            28.6201857
+          ],
+          [
+            77.2266136,
+            28.6206294
+          ],
+          [
+            77.2263212,
+            28.6211514
+          ],
+          [
+            77.2258389,
+            28.622001
+          ],
+          [
+            77.2257896,
+            28.6220818
+          ],
+          [
+            77.2255403,
+            28.6224836
+          ],
+          [
+            77.2253716,
+            28.6227553
+          ],
+          [
+            77.225325,
+            28.6228308
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1242128092",
+      "properties": {
+        "@id": "way/1242128092",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "motorroad": "no",
+        "name": "Kasturba Gandhi Marg",
+        "name:etymology:wikidata": "Q264908",
+        "name:hi": "कस्तूरबा गाँधी मार्ग",
+        "name:ur": "کستوربا گاندھی مارگ",
+        "old_name": "Curzon Road",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2254223,
+            28.6228747
+          ],
+          [
+            77.2254662,
+            28.6227972
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1242128093",
+      "properties": {
+        "@id": "way/1242128093",
+        "highway": "secondary",
+        "lane_markings": "yes",
+        "lanes": "2",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "motorroad": "no",
+        "name": "Kasturba Gandhi Marg",
+        "name:etymology:wikidata": "Q264908",
+        "name:hi": "कस्तूरबा गाँधी मार्ग",
+        "name:ur": "کستوربا گاندھی مارگ",
+        "old_name": "Curzon Road",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2258604,
+            28.6221132
+          ],
+          [
+            77.2262607,
+            28.6213754
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1533060171",
+      "properties": {
+        "@id": "way/1533060171",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "motorroad": "no",
+        "name": "Kasturba Gandhi Marg",
+        "name:etymology:wikidata": "Q264908",
+        "name:hi": "कस्तूरबा गाँधी मार्ग",
+        "name:ur": "کستوربا گاندھی مارگ",
+        "old_name": "Curzon Road",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2254662,
+            28.6227972
+          ],
+          [
+            77.2256259,
+            28.6225202
+          ],
+          [
+            77.2258604,
+            28.6221132
+          ]
+        ]
+      }
+    }
+  ]
+}

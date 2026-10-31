@@ -1,0 +1,325 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-31T19:10:11Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/24577401",
+      "properties": {
+        "@id": "way/24577401",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Kumaraswami Kamaraj Marg",
+        "name:etymology:wikidata": "Q522048",
+        "oneway": "yes",
+        "short_name": "K. Kamaraj Marg"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2092721,
+            28.6093488
+          ],
+          [
+            77.2092345,
+            28.6092752
+          ],
+          [
+            77.2092184,
+            28.6092434
+          ],
+          [
+            77.2091688,
+            28.609161
+          ],
+          [
+            77.2091339,
+            28.6090891
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24577405",
+      "properties": {
+        "@id": "way/24577405",
+        "highway": "tertiary",
+        "name": "Kumaraswami Kamaraj Marg",
+        "name:etymology:wikidata": "Q522048",
+        "oneway": "yes",
+        "short_name": "K Kamaraj Marg"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2084105,
+            28.6087691
+          ],
+          [
+            77.2082435,
+            28.6087958
+          ],
+          [
+            77.208049,
+            28.6088316
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24577406",
+      "properties": {
+        "@id": "way/24577406",
+        "highway": "tertiary",
+        "name": "Kumaraswami Kamaraj Marg",
+        "name:etymology:wikidata": "Q522048",
+        "oneway": "yes",
+        "short_name": "K Kamaraj Marg"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2057621,
+            28.6078832
+          ],
+          [
+            77.2058386,
+            28.6078746
+          ],
+          [
+            77.2059093,
+            28.6078811
+          ],
+          [
+            77.2059699,
+            28.6078742
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31756489",
+      "properties": {
+        "@id": "way/31756489",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Kumaraswami Kamaraj Marg",
+        "name:etymology:wikidata": "Q522048",
+        "oneway": "yes",
+        "short_name": "K. Kamaraj Marg"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2089828,
+            28.6093585
+          ],
+          [
+            77.2090481,
+            28.6093517
+          ],
+          [
+            77.2091219,
+            28.6093446
+          ],
+          [
+            77.2091889,
+            28.609347
+          ],
+          [
+            77.2092721,
+            28.6093488
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/782686027",
+      "properties": {
+        "@id": "way/782686027",
+        "highway": "tertiary",
+        "name": "Kumaraswami Kamaraj Marg",
+        "name:etymology:wikidata": "Q522048",
+        "oneway": "yes",
+        "short_name": "K Kamaraj Marg"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.208049,
+            28.6088316
+          ],
+          [
+            77.2081223,
+            28.6088917
+          ],
+          [
+            77.2082053,
+            28.6089948
+          ],
+          [
+            77.2082529,
+            28.6090851
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/782686028",
+      "properties": {
+        "@id": "way/782686028",
+        "highway": "tertiary",
+        "name": "Kumaraswami Kamaraj Marg",
+        "name:etymology:wikidata": "Q522048",
+        "short_name": "K Kamaraj Marg"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.208049,
+            28.6088316
+          ],
+          [
+            77.2070601,
+            28.6083619
+          ],
+          [
+            77.2068215,
+            28.6082486
+          ],
+          [
+            77.2061382,
+            28.6079496
+          ],
+          [
+            77.2059699,
+            28.6078742
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/782686029",
+      "properties": {
+        "@id": "way/782686029",
+        "highway": "tertiary",
+        "name": "Kumaraswami Kamaraj Marg",
+        "name:etymology:wikidata": "Q522048",
+        "oneway": "yes",
+        "short_name": "K Kamaraj Marg"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2059699,
+            28.6078742
+          ],
+          [
+            77.2059347,
+            28.6078239
+          ],
+          [
+            77.2058896,
+            28.6077653
+          ],
+          [
+            77.2058778,
+            28.6076758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1053851216",
+      "properties": {
+        "@id": "way/1053851216",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Kumaraswami Kamaraj Marg",
+        "name:etymology:wikidata": "Q522048",
+        "oneway": "yes",
+        "short_name": "K. Kamaraj Marg"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2115712,
+            28.6103493
+          ],
+          [
+            77.2113592,
+            28.6102826
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1053851217",
+      "properties": {
+        "@id": "way/1053851217",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Kumaraswami Kamaraj Marg",
+        "name:etymology:wikidata": "Q522048",
+        "oneway": "yes",
+        "short_name": "K. Kamaraj Marg"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2113592,
+            28.6102826
+          ],
+          [
+            77.2115362,
+            28.6104349
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1053851218",
+      "properties": {
+        "@id": "way/1053851218",
+        "highway": "secondary",
+        "lanes": "4",
+        "name": "Kumaraswami Kamaraj Marg",
+        "name:etymology:wikidata": "Q522048",
+        "short_name": "K. Kamaraj Marg"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2092721,
+            28.6093488
+          ],
+          [
+            77.2113592,
+            28.6102826
+          ]
+        ]
+      }
+    }
+  ]
+}

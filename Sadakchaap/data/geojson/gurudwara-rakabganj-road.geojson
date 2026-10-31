@@ -1,0 +1,208 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-28T18:24:38Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/24584381",
+      "properties": {
+        "@id": "way/24584381",
+        "highway": "residential",
+        "name": "Gurudwara Rakabganj Road",
+        "name:etymology:wikidata": "Q5619976",
+        "name:hi": "गुरुद्वारा रकबागंज रोड"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2016133,
+            28.6246654
+          ],
+          [
+            77.2019221,
+            28.6241599
+          ],
+          [
+            77.2020893,
+            28.6238862
+          ],
+          [
+            77.2021643,
+            28.6237829
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24584390",
+      "properties": {
+        "@id": "way/24584390",
+        "highway": "tertiary",
+        "lanes": "1",
+        "name": "Gurudwara Rakabganj Road",
+        "name:etymology:wikidata": "Q5619976",
+        "name:hi": "गुरुद्वारा रकबागंज रोड",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2089324,
+            28.6216598
+          ],
+          [
+            77.2073714,
+            28.6209979
+          ],
+          [
+            77.2066085,
+            28.6206744
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/611866595",
+      "properties": {
+        "@id": "way/611866595",
+        "highway": "tertiary",
+        "lanes": "1",
+        "name": "Gurudwara Rakabganj Road",
+        "name:etymology:wikidata": "Q5619976",
+        "name:hi": "गुरुद्वारा रकबागंज रोड",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2065798,
+            28.620716
+          ],
+          [
+            77.2077477,
+            28.6212122
+          ],
+          [
+            77.2083757,
+            28.621479
+          ],
+          [
+            77.2086337,
+            28.6215886
+          ],
+          [
+            77.2089103,
+            28.6217061
+          ],
+          [
+            77.2089838,
+            28.6217401
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1438583474",
+      "properties": {
+        "@id": "way/1438583474",
+        "highway": "residential",
+        "name": "Gurudwara Rakabganj Road",
+        "name:etymology:wikidata": "Q5619976",
+        "name:hi": "गुरुद्वारा रकबागंज रोड"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2021014,
+            28.6229656
+          ],
+          [
+            77.2020945,
+            28.6228987
+          ],
+          [
+            77.2019082,
+            28.6200482
+          ],
+          [
+            77.2018734,
+            28.6195155
+          ],
+          [
+            77.2018638,
+            28.619369
+          ],
+          [
+            77.2018264,
+            28.6188281
+          ],
+          [
+            77.2018176,
+            28.6186244
+          ],
+          [
+            77.2018455,
+            28.6185864
+          ],
+          [
+            77.2018842,
+            28.6185336
+          ],
+          [
+            77.2020879,
+            28.6184347
+          ],
+          [
+            77.2022781,
+            28.6184202
+          ],
+          [
+            77.2023359,
+            28.6184499
+          ],
+          [
+            77.2023741,
+            28.6184908
+          ],
+          [
+            77.2024272,
+            28.6187206
+          ],
+          [
+            77.2025362,
+            28.6188451
+          ],
+          [
+            77.2027168,
+            28.6189235
+          ],
+          [
+            77.2039374,
+            28.619478
+          ],
+          [
+            77.2043678,
+            28.6196735
+          ],
+          [
+            77.2046584,
+            28.6198055
+          ],
+          [
+            77.2058538,
+            28.6203485
+          ]
+        ]
+      }
+    }
+  ]
+}

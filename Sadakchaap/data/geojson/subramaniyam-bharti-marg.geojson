@@ -1,0 +1,1247 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-31T20:54:51Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/23151254",
+      "properties": {
+        "@id": "way/23151254",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2400526,
+            28.6070982
+          ],
+          [
+            77.239874,
+            28.607055
+          ],
+          [
+            77.2397989,
+            28.6070209
+          ],
+          [
+            77.2395065,
+            28.6068613
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/370947969",
+      "properties": {
+        "@id": "way/370947969",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2299215,
+            28.601417
+          ],
+          [
+            77.2301769,
+            28.6015858
+          ],
+          [
+            77.2302215,
+            28.6016153
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/570859676",
+      "properties": {
+        "@id": "way/570859676",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "lane_markings": "no",
+        "maxspeed:type": "IN:urban",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2356102,
+            28.6048649
+          ],
+          [
+            77.2357016,
+            28.6049117
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/722082952",
+      "properties": {
+        "@id": "way/722082952",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.223175,
+            28.5973454
+          ],
+          [
+            77.2232724,
+            28.5974019
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/732001896",
+      "properties": {
+        "@id": "way/732001896",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2282809,
+            28.6004189
+          ],
+          [
+            77.2283188,
+            28.6004435
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/732001897",
+      "properties": {
+        "@id": "way/732001897",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2232724,
+            28.5974019
+          ],
+          [
+            77.2233749,
+            28.597466
+          ],
+          [
+            77.2236068,
+            28.5975988
+          ],
+          [
+            77.2237789,
+            28.5977008
+          ],
+          [
+            77.2244818,
+            28.598122
+          ],
+          [
+            77.2252285,
+            28.5985666
+          ],
+          [
+            77.2252544,
+            28.598582
+          ],
+          [
+            77.2259214,
+            28.5989789
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/732001905",
+      "properties": {
+        "@id": "way/732001905",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2303171,
+            28.6015743
+          ],
+          [
+            77.2302616,
+            28.6015367
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/732001908",
+      "properties": {
+        "@id": "way/732001908",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.228681,
+            28.6005806
+          ],
+          [
+            77.2285519,
+            28.6005083
+          ],
+          [
+            77.2283602,
+            28.600401
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/965578588",
+      "properties": {
+        "@id": "way/965578588",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2273292,
+            28.5998331
+          ],
+          [
+            77.2281795,
+            28.6003561
+          ],
+          [
+            77.2282809,
+            28.6004189
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1187268467",
+      "properties": {
+        "@id": "way/1187268467",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2394027,
+            28.6069119
+          ],
+          [
+            77.2398057,
+            28.6071438
+          ],
+          [
+            77.2399055,
+            28.6071907
+          ],
+          [
+            77.2400466,
+            28.6072771
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1187268468",
+      "properties": {
+        "@id": "way/1187268468",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2394598,
+            28.6068336
+          ],
+          [
+            77.2390379,
+            28.6066082
+          ],
+          [
+            77.239017,
+            28.6065971
+          ],
+          [
+            77.2386592,
+            28.606406
+          ],
+          [
+            77.2363421,
+            28.6051683
+          ],
+          [
+            77.2361475,
+            28.6050643
+          ],
+          [
+            77.235738,
+            28.6048456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1187268469",
+      "properties": {
+        "@id": "way/1187268469",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2395065,
+            28.6068613
+          ],
+          [
+            77.2394598,
+            28.6068336
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1187268471",
+      "properties": {
+        "@id": "way/1187268471",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "lane_markings": "no",
+        "maxspeed:type": "IN:urban",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.235738,
+            28.6048456
+          ],
+          [
+            77.2356522,
+            28.6047972
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1187268473",
+      "properties": {
+        "@id": "way/1187268473",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed:type": "IN:urban",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2356522,
+            28.6047972
+          ],
+          [
+            77.2355436,
+            28.6047314
+          ],
+          [
+            77.2351439,
+            28.6044886
+          ],
+          [
+            77.2325001,
+            28.6028835
+          ],
+          [
+            77.2321166,
+            28.6026543
+          ],
+          [
+            77.2320243,
+            28.6025991
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1187268475",
+      "properties": {
+        "@id": "way/1187268475",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2357016,
+            28.6049117
+          ],
+          [
+            77.2358336,
+            28.604983
+          ],
+          [
+            77.2361482,
+            28.6051531
+          ],
+          [
+            77.236273,
+            28.6052205
+          ],
+          [
+            77.2389665,
+            28.6066762
+          ],
+          [
+            77.2394027,
+            28.6069119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1187268476",
+      "properties": {
+        "@id": "way/1187268476",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed:type": "IN:urban",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2319718,
+            28.6026752
+          ],
+          [
+            77.2322179,
+            28.6028253
+          ],
+          [
+            77.2329856,
+            28.6032935
+          ],
+          [
+            77.2339574,
+            28.6038862
+          ],
+          [
+            77.2353517,
+            28.6047365
+          ],
+          [
+            77.2354904,
+            28.6048053
+          ],
+          [
+            77.2356102,
+            28.6048649
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1187268477",
+      "properties": {
+        "@id": "way/1187268477",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2319215,
+            28.6026445
+          ],
+          [
+            77.2319718,
+            28.6026752
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1187268478",
+      "properties": {
+        "@id": "way/1187268478",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2318801,
+            28.6026205
+          ],
+          [
+            77.2319215,
+            28.6026445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1187268480",
+      "properties": {
+        "@id": "way/1187268480",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2319418,
+            28.6025521
+          ],
+          [
+            77.2315951,
+            28.602349
+          ],
+          [
+            77.2313555,
+            28.6022038
+          ],
+          [
+            77.2306785,
+            28.6017934
+          ],
+          [
+            77.230367,
+            28.6016045
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1187268482",
+      "properties": {
+        "@id": "way/1187268482",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "lane_markings": "no",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2320243,
+            28.6025991
+          ],
+          [
+            77.2319418,
+            28.6025521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1187268483",
+      "properties": {
+        "@id": "way/1187268483",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2302767,
+            28.6016515
+          ],
+          [
+            77.230487,
+            28.6017817
+          ],
+          [
+            77.2311668,
+            28.6021972
+          ],
+          [
+            77.2315302,
+            28.6024178
+          ],
+          [
+            77.2317916,
+            28.6025691
+          ],
+          [
+            77.2318801,
+            28.6026205
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1187268485",
+      "properties": {
+        "@id": "way/1187268485",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.230367,
+            28.6016045
+          ],
+          [
+            77.2303569,
+            28.6015984
+          ],
+          [
+            77.2303171,
+            28.6015743
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1187268486",
+      "properties": {
+        "@id": "way/1187268486",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2302616,
+            28.6015367
+          ],
+          [
+            77.2295947,
+            28.6011251
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1187268487",
+      "properties": {
+        "@id": "way/1187268487",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2302215,
+            28.6016153
+          ],
+          [
+            77.2302767,
+            28.6016515
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1187268489",
+      "properties": {
+        "@id": "way/1187268489",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2295947,
+            28.6011251
+          ],
+          [
+            77.2291771,
+            28.600871
+          ],
+          [
+            77.228681,
+            28.6005806
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1187268490",
+      "properties": {
+        "@id": "way/1187268490",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2295379,
+            28.6011875
+          ],
+          [
+            77.2299215,
+            28.601417
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1187268491",
+      "properties": {
+        "@id": "way/1187268491",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2283188,
+            28.6004435
+          ],
+          [
+            77.2285117,
+            28.6005585
+          ],
+          [
+            77.2291278,
+            28.600931
+          ],
+          [
+            77.2295379,
+            28.6011875
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1187268493",
+      "properties": {
+        "@id": "way/1187268493",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2283602,
+            28.600401
+          ],
+          [
+            77.2283189,
+            28.6003728
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1187268494",
+      "properties": {
+        "@id": "way/1187268494",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2283189,
+            28.6003728
+          ],
+          [
+            77.2282141,
+            28.6003082
+          ],
+          [
+            77.228095,
+            28.6002332
+          ],
+          [
+            77.2273714,
+            28.5997778
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1187268495",
+      "properties": {
+        "@id": "way/1187268495",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2273714,
+            28.5997778
+          ],
+          [
+            77.226607,
+            28.5993033
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1187268496",
+      "properties": {
+        "@id": "way/1187268496",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2262772,
+            28.5990985
+          ],
+          [
+            77.2260146,
+            28.5989409
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1187268498",
+      "properties": {
+        "@id": "way/1187268498",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2262302,
+            28.5991626
+          ],
+          [
+            77.2273292,
+            28.5998331
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1187268500",
+      "properties": {
+        "@id": "way/1187268500",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2233193,
+            28.597319
+          ],
+          [
+            77.2232305,
+            28.5972676
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1568681037",
+      "properties": {
+        "@id": "way/1568681037",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.226374,
+            28.5991586
+          ],
+          [
+            77.2262772,
+            28.5990985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1568681038",
+      "properties": {
+        "@id": "way/1568681038",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.226607,
+            28.5993033
+          ],
+          [
+            77.226374,
+            28.5991586
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1568681039",
+      "properties": {
+        "@id": "way/1568681039",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2259214,
+            28.5989789
+          ],
+          [
+            77.2262302,
+            28.5991626
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1568681040",
+      "properties": {
+        "@id": "way/1568681040",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Subramaniyam Bharti Marg",
+        "name:etymology:wikidata": "Q256286",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2260146,
+            28.5989409
+          ],
+          [
+            77.2253159,
+            28.5985217
+          ],
+          [
+            77.2252769,
+            28.5984983
+          ],
+          [
+            77.2246123,
+            28.5980952
+          ],
+          [
+            77.2236831,
+            28.5975316
+          ],
+          [
+            77.2235827,
+            28.5974707
+          ],
+          [
+            77.223436,
+            28.5973838
+          ],
+          [
+            77.2233193,
+            28.597319
+          ]
+        ]
+      }
+    }
+  ]
+}

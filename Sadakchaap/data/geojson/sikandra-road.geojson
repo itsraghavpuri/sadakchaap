@@ -1,0 +1,224 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-31T20:16:06Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/80499271",
+      "properties": {
+        "@id": "way/80499271",
+        "highway": "secondary",
+        "lane_markings": "yes",
+        "lanes": "2",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Sikandra Road",
+        "name:hi": "सिकंदरा रोड",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2345742,
+            28.6256351
+          ],
+          [
+            77.2352877,
+            28.6256052
+          ],
+          [
+            77.2355753,
+            28.6256329
+          ],
+          [
+            77.2357578,
+            28.6256306
+          ],
+          [
+            77.2360439,
+            28.625627
+          ],
+          [
+            77.2394128,
+            28.6254143
+          ],
+          [
+            77.2395664,
+            28.6254023
+          ],
+          [
+            77.2397006,
+            28.6253917
+          ],
+          [
+            77.2397528,
+            28.6253881
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/446856065",
+      "properties": {
+        "@id": "way/446856065",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Sikandra Road",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2397528,
+            28.6253881
+          ],
+          [
+            77.240122,
+            28.6252807
+          ],
+          [
+            77.2402725,
+            28.6252369
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/446922581",
+      "properties": {
+        "@id": "way/446922581",
+        "highway": "secondary",
+        "name": "Sikandra Road",
+        "name:hi": "सिकंदरा रोड",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2401647,
+            28.6250726
+          ],
+          [
+            77.240049,
+            28.6251201
+          ],
+          [
+            77.23985,
+            28.6252026
+          ],
+          [
+            77.2398071,
+            28.6252178
+          ],
+          [
+            77.2396637,
+            28.6252427
+          ],
+          [
+            77.2395449,
+            28.6252545
+          ],
+          [
+            77.2341897,
+            28.6255564
+          ],
+          [
+            77.2328529,
+            28.6256317
+          ],
+          [
+            77.2327192,
+            28.6256379
+          ],
+          [
+            77.2326396,
+            28.6256441
+          ],
+          [
+            77.2324491,
+            28.6256369
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/447602095",
+      "properties": {
+        "@id": "way/447602095",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Sikandra Road",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2337267,
+            28.6256777
+          ],
+          [
+            77.2345742,
+            28.6256351
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/447602096",
+      "properties": {
+        "@id": "way/447602096",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Sikandra Road",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2324493,
+            28.6257763
+          ],
+          [
+            77.2326527,
+            28.6257358
+          ],
+          [
+            77.2327208,
+            28.6257307
+          ],
+          [
+            77.2333478,
+            28.6256981
+          ],
+          [
+            77.2336467,
+            28.625682
+          ],
+          [
+            77.2337267,
+            28.6256777
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-22T09:47:21Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/24577389",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Motilal Nehru Marg",
+        "name:etymology:wikidata": "Q380148",
+        "name:hi": "मोतीलाल नेहरू मार्ग",
+        "name:ur": "موتی لال نہرو مارگ",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2188187,
+            28.6068003
+          ],
+          [
+            77.2189432,
+            28.6065773
+          ],
+          [
+            77.219041,
+            28.606482
+          ],
+          [
+            77.2191546,
+            28.6064135
+          ],
+          [
+            77.2192811,
+            28.6063371
+          ],
+          [
+            77.2198739,
+            28.6059933
+          ],
+          [
+            77.2204119,
+            28.6056871
+          ],
+          [
+            77.2210649,
+            28.6053262
+          ],
+          [
+            77.2211491,
+            28.6052752
+          ],
+          [
+            77.2214376,
+            28.6051032
+          ],
+          [
+            77.2218732,
+            28.6048557
+          ],
+          [
+            77.2226248,
+            28.6044287
+          ],
+          [
+            77.2228404,
+            28.6043002
+          ],
+          [
+            77.2234037,
+            28.6039823
+          ],
+          [
+            77.2235323,
+            28.6039177
+          ],
+          [
+            77.2236798,
+            28.603867
+          ],
+          [
+            77.2238175,
+            28.6038523
+          ]
+        ]
+      },
+      "id": "way/24577389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/24577390",
+        "foot": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Motilal Nehru Marg",
+        "name:etymology:wikidata": "Q380148",
+        "name:hi": "मोतीलाल नेहरू मार्ग",
+        "name:ur": "موتی لال نہرو مارگ",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2236301,
+            28.6035906
+          ],
+          [
+            77.2235929,
+            28.6036875
+          ],
+          [
+            77.2235036,
+            28.6038129
+          ],
+          [
+            77.2233553,
+            28.6039153
+          ],
+          [
+            77.2225713,
+            28.6043632
+          ],
+          [
+            77.2218304,
+            28.6047958
+          ],
+          [
+            77.2215028,
+            28.604987
+          ],
+          [
+            77.2211061,
+            28.6052136
+          ],
+          [
+            77.221013,
+            28.6052611
+          ],
+          [
+            77.2206322,
+            28.6054847
+          ],
+          [
+            77.2204947,
+            28.6055692
+          ],
+          [
+            77.2203749,
+            28.6056372
+          ],
+          [
+            77.2191085,
+            28.6063698
+          ],
+          [
+            77.2190048,
+            28.6064357
+          ],
+          [
+            77.2189102,
+            28.6064729
+          ],
+          [
+            77.2188119,
+            28.6064844
+          ],
+          [
+            77.2186026,
+            28.606481
+          ]
+        ]
+      },
+      "id": "way/24577390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/24577393",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Motilal Nehru Marg",
+        "name:etymology:wikidata": "Q380148",
+        "name:hi": "मोतीलाल नेहरू मार्ग",
+        "name:ur": "موتی لال نہرو مارگ",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.217024,
+            28.6075882
+          ],
+          [
+            77.213805,
+            28.6094688
+          ],
+          [
+            77.2133736,
+            28.6097034
+          ],
+          [
+            77.212961,
+            28.6099278
+          ],
+          [
+            77.2124425,
+            28.6101994
+          ]
+        ]
+      },
+      "id": "way/24577393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/24577395",
+        "highway": "secondary",
+        "lanes": "1",
+        "name": "Motilal Nehru Marg",
+        "name:etymology:wikidata": "Q380148",
+        "name:hi": "मोतीलाल नेहरू मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "6"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2115846,
+            28.6107333
+          ],
+          [
+            77.2114241,
+            28.6108262
+          ],
+          [
+            77.2094455,
+            28.6119703
+          ],
+          [
+            77.2090484,
+            28.6121999
+          ]
+        ]
+      },
+      "id": "way/24577395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/758753893",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Motilal Nehru Marg",
+        "name:etymology:wikidata": "Q380148",
+        "name:hi": "मोतीलाल नेहरू मार्ग",
+        "name:ur": "موتی لال نہرو مارگ",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2124976,
+            28.6102747
+          ],
+          [
+            77.2125478,
+            28.6102327
+          ],
+          [
+            77.2129206,
+            28.6100349
+          ],
+          [
+            77.2135482,
+            28.6097006
+          ],
+          [
+            77.2137869,
+            28.609564
+          ],
+          [
+            77.214377,
+            28.6092296
+          ],
+          [
+            77.2148303,
+            28.6089895
+          ],
+          [
+            77.2153936,
+            28.608648
+          ],
+          [
+            77.2157664,
+            28.608422
+          ],
+          [
+            77.21615,
+            28.6081818
+          ],
+          [
+            77.2166274,
+            28.6079063
+          ],
+          [
+            77.2170655,
+            28.6076353
+          ],
+          [
+            77.2171765,
+            28.6075727
+          ],
+          [
+            77.2172624,
+            28.6075409
+          ],
+          [
+            77.2173482,
+            28.6075538
+          ],
+          [
+            77.217481,
+            28.6076146
+          ]
+        ]
+      },
+      "id": "way/758753893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/758753894",
+        "highway": "secondary",
+        "lane_markings": "no",
+        "name": "Motilal Nehru Marg",
+        "name:etymology:wikidata": "Q380148",
+        "name:hi": "मोतीलाल नेहरू मार्ग",
+        "name:ur": "موتی لال نہرو مارگ",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2172353,
+            28.6073393
+          ],
+          [
+            77.2171871,
+            28.6073956
+          ],
+          [
+            77.2171218,
+            28.6074916
+          ],
+          [
+            77.217024,
+            28.6075882
+          ]
+        ]
+      },
+      "id": "way/758753894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/758753895",
+        "highway": "secondary",
+        "name": "Motilal Nehru Marg",
+        "name:etymology:wikidata": "Q380148",
+        "name:hi": "मोतीलाल नेहरू मार्ग",
+        "name:ur": "موتی لال نہرو مارگ",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2123164,
+            28.6104301
+          ],
+          [
+            77.2123627,
+            28.6103919
+          ],
+          [
+            77.2124119,
+            28.6103357
+          ],
+          [
+            77.212454,
+            28.6103
+          ],
+          [
+            77.2124976,
+            28.6102747
+          ]
+        ]
+      },
+      "id": "way/758753895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/758753896",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Motilal Nehru Marg",
+        "name:etymology:wikidata": "Q380148",
+        "name:hi": "मोतीलाल नेहरू मार्ग",
+        "name:ur": "موتی لال نہرو مارگ",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2124425,
+            28.6101994
+          ],
+          [
+            77.2122189,
+            28.6102821
+          ]
+        ]
+      },
+      "id": "way/758753896"
+    }
+  ]
+}

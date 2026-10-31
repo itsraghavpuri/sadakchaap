@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-27T09:56:14Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/24577404",
+      "properties": {
+        "@id": "way/24577404",
+        "highway": "secondary",
+        "name": "Tu-Tu Marg",
+        "name:ur": "ٹو ٹو مارگ",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2082807,
+            28.6092028
+          ],
+          [
+            77.2082301,
+            28.6092861
+          ],
+          [
+            77.2081502,
+            28.609352
+          ],
+          [
+            77.2078347,
+            28.6095381
+          ],
+          [
+            77.2061046,
+            28.610536
+          ],
+          [
+            77.2060419,
+            28.6105634
+          ],
+          [
+            77.2060119,
+            28.6105765
+          ],
+          [
+            77.2059421,
+            28.610593
+          ],
+          [
+            77.2058349,
+            28.6105751
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/708474905",
+      "properties": {
+        "@id": "way/708474905",
+        "highway": "secondary",
+        "name": "Tu-Tu Marg",
+        "name:ur": "ٹو ٹو مارگ",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2059839,
+            28.6107749
+          ],
+          [
+            77.2060065,
+            28.6106895
+          ],
+          [
+            77.2060548,
+            28.6106189
+          ],
+          [
+            77.206081,
+            28.610603
+          ],
+          [
+            77.2061326,
+            28.6105718
+          ],
+          [
+            77.2064491,
+            28.6103834
+          ],
+          [
+            77.2072725,
+            28.6098983
+          ],
+          [
+            77.2081281,
+            28.6094085
+          ],
+          [
+            77.2082488,
+            28.6093662
+          ],
+          [
+            77.2083481,
+            28.6093638
+          ],
+          [
+            77.2084229,
+            28.609372
+          ]
+        ]
+      }
+    }
+  ]
+}

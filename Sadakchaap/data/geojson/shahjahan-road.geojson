@@ -1,0 +1,252 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-22T11:29:46Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/24563439",
+        "highway": "pedestrian",
+        "name": "Shahjahan Road",
+        "name:etymology:wikidata": "Q83672",
+        "name:hi": "शाहजहां रोड",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2291783,
+            28.6102956
+          ],
+          [
+            77.2292775,
+            28.6104125
+          ],
+          [
+            77.2307186,
+            28.6123137
+          ],
+          [
+            77.2307925,
+            28.6124113
+          ]
+        ]
+      },
+      "id": "way/24563439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/296963058",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Shahjahan Road",
+        "name:etymology:wikidata": "Q83672",
+        "name:hi": "शाहजहां रोड",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2243588,
+            28.6039568
+          ],
+          [
+            77.2244332,
+            28.603992
+          ],
+          [
+            77.2244815,
+            28.6040212
+          ],
+          [
+            77.224527,
+            28.6040648
+          ],
+          [
+            77.2247678,
+            28.6043831
+          ],
+          [
+            77.2248707,
+            28.6045158
+          ],
+          [
+            77.2258379,
+            28.6056938
+          ],
+          [
+            77.2260437,
+            28.6059717
+          ],
+          [
+            77.2268359,
+            28.6070346
+          ],
+          [
+            77.2271879,
+            28.6075068
+          ],
+          [
+            77.2275084,
+            28.6079368
+          ],
+          [
+            77.2277073,
+            28.608202
+          ],
+          [
+            77.2283352,
+            28.6090427
+          ],
+          [
+            77.228744,
+            28.6096529
+          ],
+          [
+            77.2289206,
+            28.6099164
+          ],
+          [
+            77.2289605,
+            28.6099832
+          ],
+          [
+            77.2289553,
+            28.6102462
+          ],
+          [
+            77.2288596,
+            28.6104817
+          ]
+        ]
+      },
+      "id": "way/296963058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/296963059",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Shahjahan Road",
+        "name:etymology:wikidata": "Q83672",
+        "name:hi": "शाहजहां रोड",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2296495,
+            28.6100182
+          ],
+          [
+            77.2293791,
+            28.6100507
+          ],
+          [
+            77.2292105,
+            28.6100324
+          ],
+          [
+            77.2290494,
+            28.6099486
+          ],
+          [
+            77.2290162,
+            28.609904
+          ],
+          [
+            77.2281535,
+            28.608671
+          ],
+          [
+            77.2278345,
+            28.608215
+          ],
+          [
+            77.2277844,
+            28.6081481
+          ],
+          [
+            77.2269798,
+            28.6070749
+          ],
+          [
+            77.2263242,
+            28.6062014
+          ],
+          [
+            77.2250169,
+            28.6044992
+          ]
+        ]
+      },
+      "id": "way/296963059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/684972730",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Shahjahan Road",
+        "name:etymology:wikidata": "Q83672",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2250169,
+            28.6044992
+          ],
+          [
+            77.2248855,
+            28.604317
+          ],
+          [
+            77.2248167,
+            28.6042215
+          ]
+        ]
+      },
+      "id": "way/684972730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/732001894",
+        "highway": "secondary",
+        "lane_markings": "no",
+        "name": "Shahjahan Road",
+        "name:etymology:wikidata": "Q83672",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2248167,
+            28.6042215
+          ],
+          [
+            77.2244183,
+            28.6037685
+          ]
+        ]
+      },
+      "id": "way/732001894"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-28T18:30:49Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/24584407",
+      "properties": {
+        "@id": "way/24584407",
+        "access": "no",
+        "highway": "service",
+        "name": "Lok Sabha Marg",
+        "name:etymology:wikidata": "Q230003",
+        "name:hi": "लोक सभा मार्ग"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2089567,
+            28.6185741
+          ],
+          [
+            77.2088427,
+            28.6185246
+          ],
+          [
+            77.2085326,
+            28.6183899
+          ],
+          [
+            77.2081884,
+            28.6182405
+          ],
+          [
+            77.2079145,
+            28.6181216
+          ],
+          [
+            77.2074481,
+            28.617919
+          ],
+          [
+            77.2063633,
+            28.6174478
+          ]
+        ]
+      }
+    }
+  ]
+}

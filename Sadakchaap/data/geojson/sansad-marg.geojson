@@ -1,0 +1,889 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-28T11:52:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/23134746",
+      "properties": {
+        "@id": "way/23134746",
+        "alt_name": "Parliament Street",
+        "highway": "tertiary",
+        "name": "Sansad Marg",
+        "name:etymology:wikidata": "Q15275136",
+        "name:hi": "संसद मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2094715,
+            28.6190168
+          ],
+          [
+            77.2096351,
+            28.6192383
+          ],
+          [
+            77.2098801,
+            28.61957
+          ],
+          [
+            77.2102472,
+            28.6200822
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24577478",
+      "properties": {
+        "@id": "way/24577478",
+        "alt_name": "Parliament Street",
+        "highway": "secondary",
+        "name": "Sansad Marg",
+        "name:etymology:wikidata": "Q15275136",
+        "name:hi": "संसद मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2165741,
+            28.6283967
+          ],
+          [
+            77.2164816,
+            28.6282755
+          ],
+          [
+            77.2158122,
+            28.6274574
+          ],
+          [
+            77.2155913,
+            28.6271877
+          ],
+          [
+            77.2154732,
+            28.6270431
+          ],
+          [
+            77.2154323,
+            28.6269871
+          ],
+          [
+            77.2153661,
+            28.6269024
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24583327",
+      "properties": {
+        "@id": "way/24583327",
+        "alt_name": "Parliament Street",
+        "highway": "secondary",
+        "name": "Sansad Marg",
+        "name:etymology:wikidata": "Q15275136",
+        "name:hi": "संसद मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2129097,
+            28.6237991
+          ],
+          [
+            77.2130542,
+            28.6238697
+          ],
+          [
+            77.2131117,
+            28.6239194
+          ],
+          [
+            77.2131561,
+            28.6239756
+          ],
+          [
+            77.2133154,
+            28.6241953
+          ],
+          [
+            77.2133939,
+            28.6243036
+          ],
+          [
+            77.2134541,
+            28.6243867
+          ],
+          [
+            77.213741,
+            28.6247825
+          ],
+          [
+            77.2138113,
+            28.6248795
+          ],
+          [
+            77.2139809,
+            28.6251135
+          ],
+          [
+            77.2142151,
+            28.6254366
+          ],
+          [
+            77.2142769,
+            28.6255219
+          ],
+          [
+            77.2146413,
+            28.6260718
+          ],
+          [
+            77.2149372,
+            28.6265184
+          ],
+          [
+            77.2149546,
+            28.6265389
+          ],
+          [
+            77.2150807,
+            28.6266867
+          ],
+          [
+            77.2152509,
+            28.6268862
+          ],
+          [
+            77.2152956,
+            28.6269395
+          ],
+          [
+            77.2153592,
+            28.6270239
+          ],
+          [
+            77.2154047,
+            28.6270801
+          ],
+          [
+            77.2155756,
+            28.6272785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/447141137",
+      "properties": {
+        "@id": "way/447141137",
+        "alt_name": "Parliament Street",
+        "highway": "tertiary",
+        "name": "Sansad Marg",
+        "name:etymology:wikidata": "Q15275136",
+        "name:hi": "संसद मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2113545,
+            28.6216028
+          ],
+          [
+            77.2114059,
+            28.6216734
+          ],
+          [
+            77.2114709,
+            28.6217626
+          ],
+          [
+            77.211544,
+            28.621863
+          ],
+          [
+            77.2115722,
+            28.6219018
+          ],
+          [
+            77.2116058,
+            28.621948
+          ],
+          [
+            77.211672,
+            28.6220388
+          ],
+          [
+            77.2117025,
+            28.6220807
+          ],
+          [
+            77.211709,
+            28.6220897
+          ],
+          [
+            77.2118284,
+            28.6222536
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/570616028",
+      "properties": {
+        "@id": "way/570616028",
+        "alt_name": "Parliament Street",
+        "highway": "secondary",
+        "name": "Sansad Marg",
+        "name:etymology:wikidata": "Q15275136",
+        "name:hi": "संसद मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2181923,
+            28.6302174
+          ],
+          [
+            77.2181247,
+            28.6302198
+          ],
+          [
+            77.218057,
+            28.6302159
+          ],
+          [
+            77.2179911,
+            28.6302022
+          ],
+          [
+            77.2179285,
+            28.6301792
+          ],
+          [
+            77.2178711,
+            28.6301476
+          ],
+          [
+            77.2178204,
+            28.6301081
+          ],
+          [
+            77.2177886,
+            28.6300736
+          ],
+          [
+            77.2177778,
+            28.6300619
+          ],
+          [
+            77.2177443,
+            28.6300101
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/570616029",
+      "properties": {
+        "@id": "way/570616029",
+        "alt_name": "Parliament Street",
+        "highway": "secondary",
+        "lane_markings": "no",
+        "name": "Sansad Marg",
+        "name:etymology:wikidata": "Q15275136",
+        "name:hi": "संसद मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2176728,
+            28.6300813
+          ],
+          [
+            77.2176977,
+            28.6301219
+          ],
+          [
+            77.2177049,
+            28.6301337
+          ],
+          [
+            77.2177282,
+            28.6301897
+          ],
+          [
+            77.2177421,
+            28.6302479
+          ],
+          [
+            77.2177465,
+            28.6303074
+          ],
+          [
+            77.2177413,
+            28.6303667
+          ],
+          [
+            77.2177264,
+            28.6304249
+          ],
+          [
+            77.2177023,
+            28.6304805
+          ],
+          [
+            77.2176681,
+            28.6305317
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/749606293",
+      "properties": {
+        "@id": "way/749606293",
+        "alt_name": "Parliament Street",
+        "highway": "tertiary",
+        "name": "Sansad Marg",
+        "name:etymology:wikidata": "Q15275136",
+        "name:hi": "संसद मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2103967,
+            28.6202874
+          ],
+          [
+            77.2105484,
+            28.6204928
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/758753881",
+      "properties": {
+        "@id": "way/758753881",
+        "alt_name": "Parliament Street",
+        "highway": "tertiary",
+        "name": "Sansad Marg",
+        "name:etymology:wikidata": "Q15275136",
+        "name:hi": "संसद मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2118284,
+            28.6222536
+          ],
+          [
+            77.2120976,
+            28.6226383
+          ],
+          [
+            77.2123534,
+            28.6230038
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/758753882",
+      "properties": {
+        "@id": "way/758753882",
+        "alt_name": "Parliament Street",
+        "highway": "tertiary",
+        "name": "Sansad Marg",
+        "name:etymology:wikidata": "Q15275136",
+        "name:hi": "संसद मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2123534,
+            28.6230038
+          ],
+          [
+            77.2123644,
+            28.6230955
+          ],
+          [
+            77.2123674,
+            28.6231471
+          ],
+          [
+            77.2123622,
+            28.6232067
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/758753883",
+      "properties": {
+        "@id": "way/758753883",
+        "alt_name": "Parliament Street",
+        "highway": "tertiary",
+        "name": "Sansad Marg",
+        "name:etymology:wikidata": "Q15275136",
+        "name:hi": "संसद मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2126312,
+            28.6230299
+          ],
+          [
+            77.212561,
+            28.6230197
+          ],
+          [
+            77.2124939,
+            28.6229988
+          ],
+          [
+            77.2124319,
+            28.622968
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/763520419",
+      "properties": {
+        "@id": "way/763520419",
+        "alt_name": "Parliament Street",
+        "highway": "tertiary",
+        "name": "Sansad Marg",
+        "name:etymology:wikidata": "Q15275136",
+        "name:hi": "संसद मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2102472,
+            28.6200822
+          ],
+          [
+            77.2103276,
+            28.6201926
+          ],
+          [
+            77.2103967,
+            28.6202874
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/778199266",
+      "properties": {
+        "@id": "way/778199266",
+        "alt_name": "Parliament Street",
+        "highway": "tertiary",
+        "name": "Sansad Marg",
+        "name:etymology:wikidata": "Q15275136",
+        "name:hi": "संसद मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2114998,
+            28.6216993
+          ],
+          [
+            77.210699,
+            28.6205823
+          ],
+          [
+            77.2106333,
+            28.6204906
+          ],
+          [
+            77.2104364,
+            28.6202286
+          ],
+          [
+            77.2102101,
+            28.6199091
+          ],
+          [
+            77.2101001,
+            28.6197539
+          ],
+          [
+            77.2099357,
+            28.6195218
+          ],
+          [
+            77.2097058,
+            28.6191968
+          ],
+          [
+            77.2095424,
+            28.6189657
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/996679779",
+      "properties": {
+        "@id": "way/996679779",
+        "alt_name": "Parliament Street",
+        "highway": "secondary",
+        "name": "Sansad Marg",
+        "name:etymology:wikidata": "Q15275136",
+        "name:hi": "संसद मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2153661,
+            28.6269024
+          ],
+          [
+            77.2153221,
+            28.6268468
+          ],
+          [
+            77.2151697,
+            28.6266478
+          ],
+          [
+            77.215048,
+            28.6264888
+          ],
+          [
+            77.2150364,
+            28.6264736
+          ],
+          [
+            77.2149337,
+            28.6263101
+          ],
+          [
+            77.2146385,
+            28.62584
+          ],
+          [
+            77.2145456,
+            28.6256919
+          ],
+          [
+            77.2142058,
+            28.6252021
+          ],
+          [
+            77.2138409,
+            28.6247208
+          ],
+          [
+            77.213487,
+            28.624254
+          ],
+          [
+            77.2132512,
+            28.623943
+          ],
+          [
+            77.2131615,
+            28.6237755
+          ],
+          [
+            77.2131594,
+            28.6235884
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/997761544",
+      "properties": {
+        "@id": "way/997761544",
+        "alt_name": "Parliament Street",
+        "highway": "secondary",
+        "name": "Sansad Marg",
+        "name:etymology:wikidata": "Q15275136",
+        "name:hi": "संसद मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.216396,
+            28.6283808
+          ],
+          [
+            77.2167229,
+            28.6288256
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/997761545",
+      "properties": {
+        "@id": "way/997761545",
+        "alt_name": "Parliament Street",
+        "highway": "secondary",
+        "name": "Sansad Marg",
+        "name:etymology:wikidata": "Q15275136",
+        "name:hi": "संसद मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2155756,
+            28.6272785
+          ],
+          [
+            77.215768,
+            28.6275177
+          ],
+          [
+            77.216396,
+            28.6283808
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/997761546",
+      "properties": {
+        "@id": "way/997761546",
+        "alt_name": "Parliament Street",
+        "highway": "secondary",
+        "name": "Sansad Marg",
+        "name:etymology:wikidata": "Q15275136",
+        "name:hi": "संसद मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2167229,
+            28.6288256
+          ],
+          [
+            77.2171227,
+            28.6293694
+          ],
+          [
+            77.2176728,
+            28.6300813
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1066077570",
+      "properties": {
+        "@id": "way/1066077570",
+        "alt_name": "Parliament Street",
+        "highway": "tertiary",
+        "name": "Sansad Marg",
+        "name:etymology:wikidata": "Q15275136",
+        "name:hi": "संसद मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2105484,
+            28.6204928
+          ],
+          [
+            77.2108585,
+            28.6209198
+          ],
+          [
+            77.2112947,
+            28.6215204
+          ],
+          [
+            77.2113545,
+            28.6216028
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1248777180",
+      "properties": {
+        "@id": "way/1248777180",
+        "alt_name": "Parliament Street",
+        "highway": "tertiary",
+        "name": "Sansad Marg",
+        "name:etymology:wikidata": "Q15275136",
+        "name:hi": "संसद मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2124319,
+            28.622968
+          ],
+          [
+            77.2122413,
+            28.6227097
+          ],
+          [
+            77.211673,
+            28.6219354
+          ],
+          [
+            77.2116577,
+            28.6219145
+          ],
+          [
+            77.211626,
+            28.6218713
+          ],
+          [
+            77.2114998,
+            28.6216993
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1278775920",
+      "properties": {
+        "@id": "way/1278775920",
+        "alt_name": "Parliament Street",
+        "highway": "secondary",
+        "name": "Sansad Marg",
+        "name:etymology:wikidata": "Q15275136",
+        "name:hi": "संसद मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2169405,
+            28.6288764
+          ],
+          [
+            77.2165741,
+            28.6283967
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1278775921",
+      "properties": {
+        "@id": "way/1278775921",
+        "alt_name": "Parliament Street",
+        "highway": "secondary",
+        "name": "Sansad Marg",
+        "name:etymology:wikidata": "Q15275136",
+        "name:hi": "संसद मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2177443,
+            28.6300101
+          ],
+          [
+            77.2172711,
+            28.6293363
+          ],
+          [
+            77.2172213,
+            28.6292699
+          ],
+          [
+            77.2169405,
+            28.6288764
+          ]
+        ]
+      }
+    }
+  ]
+}

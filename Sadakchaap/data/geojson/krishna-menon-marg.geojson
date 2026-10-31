@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-28T11:57:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/37222923",
+      "properties": {
+        "@id": "way/37222923",
+        "highway": "secondary",
+        "name": "Krishna Menon Marg",
+        "name:etymology:wikidata": "Q3595860",
+        "name:hi": "कृष्णा मेनन मार्ग",
+        "name:ur": "کرشنا مینن مارگ"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2091333,
+            28.608342
+          ],
+          [
+            77.2094532,
+            28.6078147
+          ],
+          [
+            77.2097729,
+            28.6073056
+          ],
+          [
+            77.2101135,
+            28.6066745
+          ],
+          [
+            77.2103029,
+            28.6063485
+          ],
+          [
+            77.2105266,
+            28.6059633
+          ],
+          [
+            77.2107799,
+            28.6054901
+          ],
+          [
+            77.2108128,
+            28.6054324
+          ],
+          [
+            77.2108449,
+            28.6053697
+          ],
+          [
+            77.2108946,
+            28.6052802
+          ],
+          [
+            77.2111398,
+            28.6048393
+          ],
+          [
+            77.2111529,
+            28.6048072
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1005501931",
+      "properties": {
+        "@id": "way/1005501931",
+        "highway": "secondary",
+        "name": "Krishna Menon Marg",
+        "name:etymology:wikidata": "Q3595860",
+        "name:ur": "کرشنا مینن مارگ",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2112278,
+            28.6043281
+          ],
+          [
+            77.2112309,
+            28.604419
+          ],
+          [
+            77.2112207,
+            28.6045264
+          ],
+          [
+            77.2112129,
+            28.6046232
+          ],
+          [
+            77.2111827,
+            28.6047301
+          ],
+          [
+            77.2111529,
+            28.6048072
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1005501932",
+      "properties": {
+        "@id": "way/1005501932",
+        "highway": "secondary",
+        "name": "Krishna Menon Marg",
+        "name:etymology:wikidata": "Q3595860",
+        "name:ur": "کرشنا مینن مارگ",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2111529,
+            28.6048072
+          ],
+          [
+            77.2112686,
+            28.6047086
+          ],
+          [
+            77.2113,
+            28.6046761
+          ],
+          [
+            77.2113731,
+            28.6046105
+          ],
+          [
+            77.2114883,
+            28.6044481
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1005501933",
+      "properties": {
+        "@id": "way/1005501933",
+        "highway": "secondary",
+        "name": "Krishna Menon Marg",
+        "name:etymology:wikidata": "Q3595860",
+        "name:ur": "کرشنا مینن مارگ",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2089983,
+            28.6087861
+          ],
+          [
+            77.2090414,
+            28.6086073
+          ],
+          [
+            77.2090905,
+            28.6084768
+          ],
+          [
+            77.2091333,
+            28.608342
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1005501934",
+      "properties": {
+        "@id": "way/1005501934",
+        "highway": "secondary",
+        "name": "Krishna Menon Marg",
+        "name:etymology:wikidata": "Q3595860",
+        "name:ur": "کرشنا مینن مارگ",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2091333,
+            28.608342
+          ],
+          [
+            77.2089324,
+            28.6085581
+          ],
+          [
+            77.2087481,
+            28.6086818
+          ]
+        ]
+      }
+    }
+  ]
+}

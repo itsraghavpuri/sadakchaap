@@ -1,0 +1,406 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-28T21:01:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/24563440",
+      "properties": {
+        "@id": "way/24563440",
+        "highway": "pedestrian",
+        "name": "Doctor Zakir Hussain Marg",
+        "name:etymology:wikidata": "Q144732",
+        "name:hi": "डॉक्टर ज़ाकिर हुसैन मार्ग",
+        "name:ur": "ڈاکٹر ذاکر حسین مارگ",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2313717,
+            28.612377
+          ],
+          [
+            77.2314289,
+            28.6122799
+          ],
+          [
+            77.2321781,
+            28.611007
+          ],
+          [
+            77.2327051,
+            28.6100934
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/44831985",
+      "properties": {
+        "@id": "way/44831985",
+        "highway": "secondary",
+        "lanes": "2",
+        "motorroad": "no",
+        "name": "Doctor Zakir Hussain Marg",
+        "name:etymology:wikidata": "Q144732",
+        "name:hi": "डॉक्टर ज़ाकिर हुसैन मार्ग",
+        "name:ur": "ڈاکٹر ذاکر حسین مارگ",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "wikidata": "Q59510451"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.232948,
+            28.6102259
+          ],
+          [
+            77.2328476,
+            28.6100881
+          ],
+          [
+            77.2328449,
+            28.6100848
+          ],
+          [
+            77.2328114,
+            28.6100111
+          ],
+          [
+            77.232817,
+            28.6099596
+          ],
+          [
+            77.2336525,
+            28.6085317
+          ],
+          [
+            77.2347676,
+            28.6065582
+          ],
+          [
+            77.2349685,
+            28.6061942
+          ],
+          [
+            77.2354201,
+            28.6054216
+          ],
+          [
+            77.2356376,
+            28.6050251
+          ],
+          [
+            77.2357016,
+            28.6049117
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/77349485",
+      "properties": {
+        "@id": "way/77349485",
+        "highway": "secondary",
+        "lanes": "2",
+        "motorroad": "no",
+        "name": "Doctor Zakir Hussain Marg",
+        "name:etymology:wikidata": "Q144732",
+        "name:hi": "डॉक्टर ज़ाकिर हुसैन मार्ग",
+        "name:ur": "ڈاکٹر ذاکر حسین مارگ",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2356102,
+            28.6048649
+          ],
+          [
+            77.2355447,
+            28.6049834
+          ],
+          [
+            77.2354262,
+            28.6051983
+          ],
+          [
+            77.2349701,
+            28.606008
+          ],
+          [
+            77.2341299,
+            28.6074994
+          ],
+          [
+            77.2334944,
+            28.6085875
+          ],
+          [
+            77.2327403,
+            28.6099259
+          ],
+          [
+            77.2326471,
+            28.6099587
+          ],
+          [
+            77.2324243,
+            28.6099722
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/570859682",
+      "properties": {
+        "@id": "way/570859682",
+        "highway": "secondary",
+        "lanes": "3",
+        "motorroad": "no",
+        "name": "Doctor Zakir Hussain Marg",
+        "name:etymology:wikidata": "Q144732",
+        "name:hi": "डॉक्टर ज़ाकिर हुसैन मार्ग",
+        "name:ur": "ڈاکٹر ذاکر حسین مارگ",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2385762,
+            28.600453
+          ],
+          [
+            77.238237,
+            28.6008996
+          ],
+          [
+            77.2374727,
+            28.6020004
+          ],
+          [
+            77.237457,
+            28.6020245
+          ],
+          [
+            77.2372356,
+            28.6023646
+          ],
+          [
+            77.2359089,
+            28.6044028
+          ],
+          [
+            77.2358725,
+            28.6044588
+          ],
+          [
+            77.2357597,
+            28.604632
+          ],
+          [
+            77.2356522,
+            28.6047972
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/745652418",
+      "properties": {
+        "@id": "way/745652418",
+        "highway": "residential",
+        "name": "Doctor Zakir Hussain Marg",
+        "name:etymology:wikidata": "Q144732",
+        "name:hi": "डॉक्टर ज़ाकिर हुसैन मार्ग",
+        "name:ur": "ڈاکٹر ذاکر حسین مارگ",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2328476,
+            28.6100881
+          ],
+          [
+            77.2328731,
+            28.6100436
+          ],
+          [
+            77.232892,
+            28.6100108
+          ],
+          [
+            77.2329227,
+            28.6099573
+          ],
+          [
+            77.2337214,
+            28.608565
+          ],
+          [
+            77.2339073,
+            28.6082409
+          ],
+          [
+            77.2342094,
+            28.6077144
+          ],
+          [
+            77.2348495,
+            28.6065988
+          ],
+          [
+            77.2351042,
+            28.6061549
+          ],
+          [
+            77.2354826,
+            28.6054953
+          ],
+          [
+            77.2359156,
+            28.6056868
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1187268470",
+      "properties": {
+        "@id": "way/1187268470",
+        "highway": "secondary",
+        "lanes": "3",
+        "motorroad": "no",
+        "name": "Doctor Zakir Hussain Marg",
+        "name:etymology:wikidata": "Q144732",
+        "name:hi": "डॉक्टर ज़ाकिर हुसैन मार्ग",
+        "name:ur": "ڈاکٹر ذاکر حسین مارگ",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "wikidata": "Q59510451"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.235738,
+            28.6048456
+          ],
+          [
+            77.2358467,
+            28.6046772
+          ],
+          [
+            77.2359603,
+            28.6045011
+          ],
+          [
+            77.2360485,
+            28.6043643
+          ],
+          [
+            77.2375412,
+            28.6020505
+          ],
+          [
+            77.2381255,
+            28.6012198
+          ],
+          [
+            77.2383493,
+            28.6009553
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1199333276",
+      "properties": {
+        "@id": "way/1199333276",
+        "highway": "secondary",
+        "motorroad": "no",
+        "name": "Doctor Zakir Hussain Marg",
+        "name:etymology:wikidata": "Q144732",
+        "name:hi": "डॉक्टर ज़ाकिर हुसैन मार्ग",
+        "name:ur": "ڈاکٹر ذاکر حسین مارگ",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "wikidata": "Q59510451"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2383493,
+            28.6009553
+          ],
+          [
+            77.2386967,
+            28.6004876
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1312526361",
+      "properties": {
+        "@id": "way/1312526361",
+        "highway": "residential",
+        "name": "Doctor Zakir Hussain Marg",
+        "name:etymology:wikidata": "Q144732",
+        "name:hi": "डॉक्टर ज़ाकिर हुसैन मार्ग",
+        "name:ur": "ڈاکٹر ذاکر حسین مارگ",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2352694,
+            28.6052673
+          ],
+          [
+            77.234904,
+            28.6059808
+          ],
+          [
+            77.2334069,
+            28.6085507
+          ],
+          [
+            77.2326471,
+            28.6099587
+          ]
+        ]
+      }
+    }
+  ]
+}

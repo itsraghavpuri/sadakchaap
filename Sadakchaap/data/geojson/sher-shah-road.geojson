@@ -1,0 +1,291 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-28T19:25:34Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/24563446",
+      "properties": {
+        "@id": "way/24563446",
+        "highway": "secondary",
+        "name": "Sher Shah Road",
+        "name:etymology:wikidata": "Q83680",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2344893,
+            28.6113669
+          ],
+          [
+            77.2345222,
+            28.6112277
+          ],
+          [
+            77.2346759,
+            28.610991
+          ],
+          [
+            77.2347039,
+            28.6109478
+          ],
+          [
+            77.2349343,
+            28.6107363
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24563447",
+      "properties": {
+        "@id": "way/24563447",
+        "highway": "secondary",
+        "lane_markings": "no",
+        "name": "Sher Shah Road",
+        "name:etymology:wikidata": "Q83680",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2348948,
+            28.6106532
+          ],
+          [
+            77.2346772,
+            28.6107286
+          ],
+          [
+            77.2345491,
+            28.6107605
+          ],
+          [
+            77.2344324,
+            28.6107681
+          ],
+          [
+            77.2340546,
+            28.6107005
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43540281",
+      "properties": {
+        "@id": "way/43540281",
+        "highway": "secondary",
+        "name": "Sher Shah Road",
+        "name:etymology:wikidata": "Q83680",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2349343,
+            28.6107363
+          ],
+          [
+            77.2350477,
+            28.6106649
+          ],
+          [
+            77.2353237,
+            28.6105112
+          ],
+          [
+            77.2357568,
+            28.6102827
+          ],
+          [
+            77.2368885,
+            28.6097411
+          ],
+          [
+            77.2371263,
+            28.6096273
+          ],
+          [
+            77.2375757,
+            28.6095162
+          ],
+          [
+            77.2377825,
+            28.609478
+          ],
+          [
+            77.238177,
+            28.609405
+          ],
+          [
+            77.2386612,
+            28.6093611
+          ],
+          [
+            77.2387028,
+            28.6093573
+          ],
+          [
+            77.2387846,
+            28.6093499
+          ],
+          [
+            77.2393713,
+            28.609342
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/677663227",
+      "properties": {
+        "@id": "way/677663227",
+        "highway": "secondary",
+        "name": "Sher Shah Road",
+        "name:etymology:wikidata": "Q83680",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2394456,
+            28.6092853
+          ],
+          [
+            77.2393417,
+            28.60929
+          ],
+          [
+            77.238755,
+            28.6092979
+          ],
+          [
+            77.2381473,
+            28.609353
+          ],
+          [
+            77.2379449,
+            28.6093904
+          ],
+          [
+            77.237546,
+            28.6094642
+          ],
+          [
+            77.2371701,
+            28.6095572
+          ],
+          [
+            77.2370967,
+            28.6095753
+          ],
+          [
+            77.2369394,
+            28.6096506
+          ],
+          [
+            77.2368589,
+            28.6096891
+          ],
+          [
+            77.2357228,
+            28.6102331
+          ],
+          [
+            77.2352847,
+            28.610451
+          ],
+          [
+            77.2350023,
+            28.6105917
+          ],
+          [
+            77.2348948,
+            28.6106532
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1210584406",
+      "properties": {
+        "@id": "way/1210584406",
+        "highway": "secondary",
+        "name": "Sher Shah Road",
+        "name:etymology:wikidata": "Q83680",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2393713,
+            28.609342
+          ],
+          [
+            77.2397816,
+            28.6093319
+          ],
+          [
+            77.2398077,
+            28.6093313
+          ],
+          [
+            77.2398721,
+            28.6093297
+          ],
+          [
+            77.2399404,
+            28.609328
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1210584407",
+      "properties": {
+        "@id": "way/1210584407",
+        "highway": "secondary",
+        "name": "Sher Shah Road",
+        "name:etymology:wikidata": "Q83680",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2399434,
+            28.6092704
+          ],
+          [
+            77.2398064,
+            28.6092706
+          ],
+          [
+            77.2397821,
+            28.6092706
+          ],
+          [
+            77.2394456,
+            28.6092853
+          ]
+        ]
+      }
+    }
+  ]
+}

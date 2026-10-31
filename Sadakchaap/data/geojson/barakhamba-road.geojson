@@ -1,0 +1,492 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-28T19:29:35Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/291265303",
+      "properties": {
+        "@id": "way/291265303",
+        "addr:country": "IN",
+        "addr:district": "New Delhi",
+        "addr:housename": "Modern School Barakhamba Road",
+        "addr:state": "DL",
+        "addr:street": "Barakhamba Road",
+        "amenity": "school",
+        "min_age": "10",
+        "name": "Modern School Barakhamba Road",
+        "name:hi": "मॉडर्न स्कूल बाराखंभा रोड",
+        "nohousenumber": "yes",
+        "operator:type": "private",
+        "school:gender": "mixed",
+        "start_date": "1920",
+        "website": "https://modernschool.net",
+        "wikidata": "Q6888864",
+        "wikipedia": "en:Modern School (New Delhi)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2298852,
+              28.6271174
+            ],
+            [
+              77.231378,
+              28.6291305
+            ],
+            [
+              77.228266,
+              28.6309461
+            ],
+            [
+              77.2267517,
+              28.6289214
+            ],
+            [
+              77.2298852,
+              28.6271174
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351561090",
+      "properties": {
+        "@id": "way/351561090",
+        "amenity": "fire_station",
+        "building": "yes",
+        "check_date": "2026-04-08",
+        "name": "Barakhamba Road Fire Station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2231208,
+              28.6323514
+            ],
+            [
+              77.2229582,
+              28.6318518
+            ],
+            [
+              77.2236727,
+              28.6316726
+            ],
+            [
+              77.2236974,
+              28.6317485
+            ],
+            [
+              77.2231066,
+              28.6318967
+            ],
+            [
+              77.2232011,
+              28.6321868
+            ],
+            [
+              77.2237109,
+              28.632059
+            ],
+            [
+              77.2237543,
+              28.6321925
+            ],
+            [
+              77.2231208,
+              28.6323514
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/80499778",
+      "properties": {
+        "@id": "way/80499778",
+        "highway": "secondary",
+        "name": "Barakhamba Road",
+        "name:hi": "बाराखंभा रोड",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2264166,
+            28.6288475
+          ],
+          [
+            77.2263068,
+            28.6289171
+          ],
+          [
+            77.2261345,
+            28.6290186
+          ],
+          [
+            77.2257948,
+            28.6292208
+          ],
+          [
+            77.2251378,
+            28.6295894
+          ],
+          [
+            77.2240555,
+            28.6302257
+          ],
+          [
+            77.2238678,
+            28.6303372
+          ],
+          [
+            77.2237855,
+            28.6303821
+          ],
+          [
+            77.2236052,
+            28.630485
+          ],
+          [
+            77.2232549,
+            28.6306849
+          ],
+          [
+            77.2227,
+            28.63101
+          ],
+          [
+            77.2226401,
+            28.6310426
+          ],
+          [
+            77.2226098,
+            28.6310541
+          ],
+          [
+            77.2225727,
+            28.6310647
+          ],
+          [
+            77.2225349,
+            28.6310656
+          ],
+          [
+            77.2223791,
+            28.6310419
+          ],
+          [
+            77.222269,
+            28.6310064
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/523568284",
+      "properties": {
+        "@id": "way/523568284",
+        "highway": "secondary",
+        "lane_markings": "yes",
+        "lanes": "2",
+        "maxspeed": "50",
+        "maxspeed:hgv": "40",
+        "name": "Barakhamba Road",
+        "name:hi": "बाराखंभा रोड",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2264549,
+            28.6289144
+          ],
+          [
+            77.2265345,
+            28.6288703
+          ],
+          [
+            77.2266267,
+            28.6288245
+          ],
+          [
+            77.2267739,
+            28.6287386
+          ],
+          [
+            77.2282648,
+            28.627922
+          ],
+          [
+            77.228964,
+            28.6275195
+          ],
+          [
+            77.22995,
+            28.6269519
+          ],
+          [
+            77.2313071,
+            28.6261691
+          ],
+          [
+            77.2313394,
+            28.6261505
+          ],
+          [
+            77.2314225,
+            28.6260996
+          ],
+          [
+            77.2315205,
+            28.6260627
+          ],
+          [
+            77.2316293,
+            28.6260271
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/562439576",
+      "properties": {
+        "@id": "way/562439576",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Barakhamba Road",
+        "name:hi": "बाराखंभा रोड",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2288976,
+            28.6274035
+          ],
+          [
+            77.2267907,
+            28.6286688
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/578543603",
+      "properties": {
+        "@id": "way/578543603",
+        "highway": "secondary",
+        "lane_markings": "yes",
+        "lanes": "2",
+        "maxspeed": "50",
+        "maxspeed:hgv": "40",
+        "name": "Barakhamba Road",
+        "name:hi": "बाराखंभा रोड",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2225605,
+            28.631405
+          ],
+          [
+            77.2225942,
+            28.6312649
+          ],
+          [
+            77.2226091,
+            28.6312208
+          ],
+          [
+            77.222632,
+            28.6311723
+          ],
+          [
+            77.222658,
+            28.6311245
+          ],
+          [
+            77.2227449,
+            28.6310743
+          ],
+          [
+            77.223352,
+            28.6307237
+          ],
+          [
+            77.2235256,
+            28.6306258
+          ],
+          [
+            77.2235899,
+            28.6305895
+          ],
+          [
+            77.2236585,
+            28.6305508
+          ],
+          [
+            77.2238139,
+            28.6304632
+          ],
+          [
+            77.2238821,
+            28.6304248
+          ],
+          [
+            77.2239182,
+            28.6304042
+          ],
+          [
+            77.2251209,
+            28.6297162
+          ],
+          [
+            77.2258554,
+            28.6292961
+          ],
+          [
+            77.2260813,
+            28.6291518
+          ],
+          [
+            77.2263538,
+            28.628979
+          ],
+          [
+            77.2263907,
+            28.6289525
+          ],
+          [
+            77.2264549,
+            28.6289144
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/996679781",
+      "properties": {
+        "@id": "way/996679781",
+        "highway": "secondary",
+        "name": "Barakhamba Road",
+        "name:hi": "बाराखंभा रोड",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2267907,
+            28.6286688
+          ],
+          [
+            77.2265844,
+            28.6287685
+          ],
+          [
+            77.2265461,
+            28.6287895
+          ],
+          [
+            77.2264973,
+            28.6288098
+          ],
+          [
+            77.2264166,
+            28.6288475
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1076627689",
+      "properties": {
+        "@id": "way/1076627689",
+        "highway": "secondary",
+        "lane_markings": "yes",
+        "lanes": "2",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Barakhamba Road",
+        "name:hi": "बाराखंभा रोड",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2314813,
+            28.6258484
+          ],
+          [
+            77.2314405,
+            28.6259076
+          ],
+          [
+            77.2313858,
+            28.6259545
+          ],
+          [
+            77.2312497,
+            28.6260382
+          ],
+          [
+            77.2298482,
+            28.626853
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1076627690",
+      "properties": {
+        "@id": "way/1076627690",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Barakhamba Road",
+        "name:hi": "बाराखंभा रोड",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2298482,
+            28.626853
+          ],
+          [
+            77.2288976,
+            28.6274035
+          ]
+        ]
+      }
+    }
+  ]
+}

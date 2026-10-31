@@ -1,0 +1,198 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-27T10:22:51Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/562202340",
+      "properties": {
+        "@id": "way/562202340",
+        "highway": "secondary",
+        "lane_markings": "yes",
+        "name": "Purana Quila Road",
+        "name:etymology:wikidata": "Q1151529",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.234069,
+            28.6147822
+          ],
+          [
+            77.2343749,
+            28.6146544
+          ],
+          [
+            77.2345841,
+            28.6145826
+          ],
+          [
+            77.234686,
+            28.6145579
+          ],
+          [
+            77.2347651,
+            28.6145496
+          ],
+          [
+            77.2347861,
+            28.6145503
+          ],
+          [
+            77.2348644,
+            28.6145531
+          ],
+          [
+            77.2350025,
+            28.6145826
+          ],
+          [
+            77.2360138,
+            28.6150017
+          ],
+          [
+            77.2363072,
+            28.6151337
+          ],
+          [
+            77.2365892,
+            28.6152606
+          ],
+          [
+            77.2368511,
+            28.6153784
+          ],
+          [
+            77.2376983,
+            28.6157357
+          ],
+          [
+            77.2379217,
+            28.6158289
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1248027223",
+      "properties": {
+        "@id": "way/1248027223",
+        "highway": "secondary",
+        "lane_markings": "yes",
+        "name": "Purana Quila Road",
+        "name:etymology:wikidata": "Q1151529",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2379651,
+            28.6157326
+          ],
+          [
+            77.2365917,
+            28.6151241
+          ],
+          [
+            77.235563,
+            28.6146967
+          ],
+          [
+            77.234977,
+            28.6144696
+          ],
+          [
+            77.234916,
+            28.6144154
+          ],
+          [
+            77.2348882,
+            28.6143841
+          ],
+          [
+            77.2348601,
+            28.6143572
+          ],
+          [
+            77.2348094,
+            28.6142953
+          ],
+          [
+            77.2347633,
+            28.6142284
+          ],
+          [
+            77.2347234,
+            28.6141586
+          ],
+          [
+            77.2346901,
+            28.6140861
+          ],
+          [
+            77.2346634,
+            28.6140115
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1512381487",
+      "properties": {
+        "@id": "way/1512381487",
+        "highway": "secondary",
+        "lane_markings": "yes",
+        "name": "Purana Quila Road",
+        "name:etymology:wikidata": "Q1151529",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2376983,
+            28.6157357
+          ],
+          [
+            77.2377975,
+            28.6158947
+          ],
+          [
+            77.2378685,
+            28.6159268
+          ],
+          [
+            77.2397992,
+            28.6168004
+          ],
+          [
+            77.2399437,
+            28.6169884
+          ],
+          [
+            77.2400814,
+            28.6171242
+          ],
+          [
+            77.240123,
+            28.617189
+          ],
+          [
+            77.2402147,
+            28.6173322
+          ]
+        ]
+      }
+    }
+  ]
+}

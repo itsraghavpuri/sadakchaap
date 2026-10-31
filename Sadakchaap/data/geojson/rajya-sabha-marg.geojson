@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-28T18:39:52Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/24584403",
+      "properties": {
+        "@id": "way/24584403",
+        "access": "no",
+        "highway": "service",
+        "name": "Rajya Sabha Marg",
+        "name:etymology:wikidata": "Q244730",
+        "name:hi": "राज्य सभा मार्ग"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2088934,
+            28.6156274
+          ],
+          [
+            77.207958,
+            28.6161743
+          ],
+          [
+            77.2079427,
+            28.6161833
+          ],
+          [
+            77.2077213,
+            28.6163136
+          ],
+          [
+            77.2073379,
+            28.6165392
+          ],
+          [
+            77.2071596,
+            28.6166441
+          ],
+          [
+            77.2063514,
+            28.6171212
+          ]
+        ]
+      }
+    }
+  ]
+}

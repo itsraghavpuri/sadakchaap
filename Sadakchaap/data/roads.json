@@ -1,0 +1,1103 @@
+[
+    {
+        "id": "ashoka-road",
+
+        "roadName": "Ashoka Road",
+
+        "namedAfter": "Emperor Ashoka",
+
+        "title": "Mauryan Emperor",
+
+        "bio": "Ashoka (304–232 BCE) was Emperor of Magadha and the third Mauryan ruler. His empire covered a large part of the Indian subcontinent, stretching from present-day Afghanistan in the west to present-day Bangladesh in the east, with its capital at Pataliputra. He is credited with an important role in the spread of Buddhism across ancient Asia.",
+
+        "interestingFact": "Ancient Empire, Emperor/King/Prince",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/ashoka-road.geojson"
+    }
+
+    ,{
+        "id": "akbar-road",
+
+        "roadName": "Akbar Road",
+
+        "namedAfter": "Emperor Akbar",
+
+        "title": "Mughal Emperor",
+
+        "bio": "Akbar (1542-1605) was the third Mughal emperor.Akbar succeeded his father, Humayun, under a regent, Bairam Khan, who helped the young emperor expand and consolidate Mughal domains in the Indian subcontinent. He is generally considered one of the greatest Mughal emperors.",
+
+        "interestingFact": "Medivial Empire, Emperor/King/Prince",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/akbar-road.geojson"
+    }
+
+    ,{
+        "id": "man-singh-road",
+
+        "roadName": "Man Singh Road",
+
+        "namedAfter": "Raja Man Singh 1",
+
+        "title": "King of Amber and under the Mughals, Subhadar (Governor) of Bihar, Bengal and Kabul Subha (province)",
+
+        "bio": "Man Singh 1 (1550-1614) was the 24th King of the Kingdom of Amber. He served in the imperial Mughal Army under Emperor Akbar. Man Singh fought sixty-seven important battles in Kabul, Balkh, Bukhara, Bengal and Central and Southern India. He was well versed in the battle tactics of both the Rajputs as well as the Mughals.[3] He is commonly considered to be one of the Navaratnas, or the nine (nava) gems (ratna) of the royal court of Akbar.",
+
+        "interestingFact": "Medivial Empire, Emperor/King/Prince, Governor",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/man-singh-road.geojson"
+    }
+
+    ,{
+        "id": "maulana-azad-road",
+
+        "roadName": "Maulana Azad Road",
+
+        "namedAfter": "Abul Kalam Ghulam Muhiyuddin aka Maulana Azad",
+
+        "title": "Indian Freedom Fighter, First and longest serving Education Minister and ex-Congress President",
+
+        "bio": "Maulana Azad (1888-1958) was an Indian journalist, freedom fighter and statesman. In 1923, at 35, he became the youngest person to be elected as the Congress President. Azad was one of the main organizers of the Dharasana Satyagraha in 1931, and emerged as one of the most important national leaders of the time, prominently leading the causes of Hindu–Muslim unity as well as espousing secularism and socialism. He served as Congress president from 1940 to 1945, during which the Quit India rebellion was launched. Following India's independence, he became the first and the longest serving Minister of Education. His contribution to establishing the education foundation in India is recognised by celebrating his birthday as National Education Day across India.",
+
+        "interestingFact": "Freedom Fighter, Cabinet Minister, Writer, Journalist",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/maulana-azad.geojson"
+    }
+
+    ,{
+        "id": "dr-rajendra-prasad-road",
+
+        "roadName": "Doctor Rajendra Prasad Road + Lane",
+
+        "namedAfter": "Rajendra Prasad",
+
+        "title": "Indian Freedom Fighter, First President, President of Constituent Assembly and First Minister of Food and Agriculture",
+
+        "bio": "Rajendra Prasad (1884-1963) was the first Minister of Food and Agriculture from 1947-48. He was the President of the Constituent Assembly of India which in 1950 elected him as the President of the country. 1952 onwards, he served as the first elected President of India. As president, Prasad established a tradition for non-partisanship and independence for the office-bearer and retired from Congress party politics. Although a ceremonial head of state, Prasad encouraged the development of education in India and advised government on several occasions. Prasad stayed in office for the longest term of around 12 years. Post the completion of his tenure, he quit the Congress and set up new guidelines for parliamentarians which are still followed.",
+
+        "interestingFact": "Freedom Fighter, President, Cabinet Minister, Lawyer, Professor/Teacher",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/doctor-rajendra-prasad-road.geojson"
+    }
+
+    ,{
+        "id": "janpath",
+
+        "roadName": "Janpath Road + Lane",
+
+        "namedAfter": "",
+
+        "title": "Renamed post independance",
+
+        "bio": "Janpath translates to People's (Jan) Path in English. Under the colonial government, this road was called Queensway. Fun fact - in 1976 Akhileshwar Jha published his book called Janpath Kiss.",
+
+        "interestingFact": "Post Colonial Renaming Project",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/janpath.geojson"
+    }
+
+    ,{
+        "id": "motilal-nehru-marg",
+
+        "roadName": "Motilal Nehru Marg",
+
+        "namedAfter": "Motilal Nehru",
+
+        "title": "Indian Freedom Fighter, ex-Congress President (twice), Member of Swaraj Party, Lawyer",
+
+        "bio": "Motilal Nehru (1861–1931) was a freedom fighter and lawyer. He served as the Congress President twice. He chaired the famous Nehru Commission in 1928, a counter to the all-British Simon Commission. The Nehru Report, the first constitution written only by Indians, envisioned a dominion status for India within the Empire, similar to Australia, New Zealand and Canada.",
+
+        "interestingFact": "Freedom Fighter, Lawyer",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/motilal-nehru-marg.geojson"
+    }
+
+    ,{
+        "id": "apj-abdul-kalam-road",
+
+        "roadName": "Doctor A.P.J Abdul Kalam Road",
+
+        "namedAfter": "A.P.J Abdul Kalam Road",
+
+        "title": "Indian President, Scientist, Engineer",
+
+        "bio": "A.P.J Abdul Kalam (1931-2015) was was an Indian aerospace engineer and science administrator who served as president of India from 2002 to 2007. In 1997, he was awarded the Bharat Ratna, for his contribution to the scientific research and modernisation of defence technology in India. He spent four decades as a scientist and science administrator, mainly at the Defence Research and Development Organisation (DRDO) and Indian Space Research Organisation (ISRO). He is popularly known as the Missile Man of India for his work on the development of ballistic missile and launch vehicle technology. He also played a pivotal organisational, technical, and political role in Pokhran-II nuclear tests in 1998.",
+
+        "interestingFact": "Scientist, Indian President, Hinduta Renaming Project",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/apj-abdul-kalam-road.geojson"
+    }
+
+    ,{
+        "id": "tees-january-road",
+
+        "roadName": "Tees January Road",
+
+        "namedAfter": "Date of the assassination of Mahatama Gandhi",
+
+        "title": "",
+
+        "bio": "Tees January translates to 30th January which was the day in 1948 when Gandhi was assassinated by Nathuram Godse. It was formerly called Albuquerque Road.",
+
+        "interestingFact": "Event Spot, Post Colonial Renaming Project",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/tees-january-road.geojson"
+    }
+
+    ,{
+        "id": "tughlaq-road",
+
+        "roadName": "Tughlaq Road",
+
+        "namedAfter": "A medivial dynasty",
+
+        "title": "Delhi Sultanate Dynasty",
+
+        "bio": "The Tughlaq dynasty was the third dynasty to rule over the Delhi Sultanate. The dynasty came to power in 1320 when Ghazi Malik assumed the throne in Delhi under the title of Ghiyath al-Din Tughluq, and ended in 1413. The Tughlaq dynasty reached its territorial zenith through the military campaigns led by Muhammad bin Tughluq between 1330 and 1335. It ruled most of the Indian subcontinent until its decline in the late 14th-century. After the disastrous invasion of Timur in 1398–99, the last Tughlaq sultan was eventually deposed by Khizr Khan, who established Sayyid dynasty.",
+
+        "interestingFact": "Medivial Kingdom",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/tughlaq-road.geojson"
+    }
+
+    ,{
+        "id": "firoz-shah-road",
+
+        "roadName": "Firoz Shah Road",
+
+        "namedAfter": "Firoz Shah Tuglaq",
+
+        "title": "Indian King",
+
+        "bio": "He was the Sultan of Delhi from 1351 until his death in 1388. He has been accredited with the construction of cities and irrigation projects and has been regarded as a great builder with the creation of Firozpur, Hisar and Fatehabad in the Punjab and Haryana regions. It has been noted that he successfully repelled a Mongol attack.",
+
+        "interestingFact": "Medivial Kingdom, Emperor/King/Prince/Prince",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/firoz-shah-road.geojson"
+    }
+
+    ,{
+        "id": "shahjahan-road",
+
+        "roadName": "Shah Jahan Road",
+
+        "namedAfter": "Shah Jahan",
+
+        "title": "Indian Emperor",
+
+        "bio": "Shah Jahan's (1592-1666) actual name was Khurram. He was the fifth Mughal Emperor from 1628 until his deposition in 1658. His reign marked the zenith of Mughal architectural and cultural achievements. ",
+
+        "interestingFact": "Medivial Kingdom, Emperor/King/Prince",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/shahjahan-road.geojson"
+    }
+
+    ,{
+        "id": "tilak-marg",
+
+        "roadName": "Tilak Marg",
+
+        "namedAfter": "Bal Gangadhar Tilak",
+
+        "title": "Indian Freedom Fighter and Author",
+
+        "bio": "Bal Gangadhar Tilak (1856-1920) was an Indian freedom fighter. He was one third of the Lal Bal Pal triumvirate. Tilak was one of the first and strongest advocates of Swaraj ('self-rule') and is known for his quote in Marathi: 'Swaraj is my birthright and I shall have it!'. He formed a close alliance with the leaders of the 'New Party' (Nationalists), joining forces with Bipin Chandra Pal, Lala Lajpat Rai, and Aurobindo Ghose to advocate for self-rule. He also worked with V. O. Chidambaram Pillai and Muhammad Ali Jinnah who later oversaw Pakistan's independence from British rule.",
+
+        "interestingFact": "Freedom Fighter, Author, Journalist",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/tilak-marg.geojson"
+    }
+
+    ,{
+        "id": "tu-tu-marg",
+
+        "roadName": "Tu Tu Marg",
+
+        "namedAfter": "Desmond Tutu",
+
+        "title": "South African Human Rights Activist, Anti-Apartheid Figure and Nobel Prize Winner",
+
+        "bio": "Desmond Tutu (1931-2021)was a South African Anglican bishop and theologian, known for his work as an anti-apartheid and human rights activist. Theologically, he sought to fuse ideas from black theology with African theology. Tutu attracted controversy throughout his career. He was popular among South Africa's black majority and was internationally praised for his anti-apartheid activism, for which he won the Nobel Peace Prize and other international awards.",
+
+        "interestingFact": "International Figure",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/tu-tu-marg.geojson"
+    }
+
+    ,{
+        "id": "jai-singh-road",
+
+        "roadName": "Jai Singh Road",
+
+        "namedAfter": "Raja Jai Singh 1",
+
+        "title": "Indian King",
+
+        "bio": "Mirza Raja Jai Singh I (1611-1667) was the ruler of the Kingdom of Amber as well as a senior most general and a high-ranking mansabdar at the imperial court of Mughal Empire. His predecessor was his grand uncle, Mirza Raja Bhau Singh, the younger son of Mirza Raja Man Singh I.",
+
+        "interestingFact": "Emperor/King/Prince",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/jai-singh-road.geojson"
+    }
+
+    ,{
+        "id": "tolstoy-marg",
+
+        "roadName": "Tolstoy Marg",
+
+        "namedAfter": "Leo Tolstoy",
+
+        "title": "Russian Author and Nobel Prize Winner",
+
+        "bio": "Leo Tolstoy (1828-1910) was a Russian writer. He is regarded as one of the greatest and most influential authors of all time. Born to an aristocratic family, Tolstoy achieved acclaim in his twenties with his semi-autobiographical trilogy, Childhood, Boyhood and Youth, and with Sevastopol Sketches, based on his experiences in the Crimean War. His books War and Peace, Anna Karenina, and Resurrection are often cited as pinnacles of realist fiction and three of the greatest novels ever written.",
+
+        "interestingFact": "International Figure",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/tu-tu-marg.geojson"
+    }
+
+    ,{
+        "id": "tolstoy-marg",
+
+        "roadName": "Tolstoy Marg",
+
+        "namedAfter": "Leo Tolstoy",
+
+        "title": "Russian Author and Nobel Prize Winner",
+
+        "bio": "Leo Tolstoy (1828-1910) was a Russian writer. He is regarded as one of the greatest and most influential authors of all time. Born to an aristocratic family, Tolstoy achieved acclaim in his twenties with his semi-autobiographical trilogy, Childhood, Boyhood and Youth, and with Sevastopol Sketches, based on his experiences in the Crimean War. His books War and Peace, Anna Karenina, and Resurrection are often cited as pinnacles of realist fiction and three of the greatest novels ever written.",
+
+        "interestingFact": "International Figure",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/tolstoy-marg.geojson"
+    }
+
+    ,{
+        "id": "purana-quila-road",
+
+        "roadName": "Purana Quila Road",
+
+        "namedAfter": "Purana Quila (Old Fort) in Delhi",
+
+        "title": "Monument",
+
+        "bio": "Purana Qila was built by Mughal Emperor Humayun and Surid Sultan Sher Shah Suri. The fort forms the inner citadel of the city of Dinpanah.",
+
+        "interestingFact": "Monument",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/purana-quila-road.geojson"
+    }
+
+    ,{
+        "id": "jantar-mantar-road",
+
+        "roadName": "Jantar Mantar Road",
+
+        "namedAfter": "Jantar Mantar in Delhi",
+
+        "title": "Monument",
+
+        "bio": "The Jantar Mantar is an observatory designed to be used with the naked eye. It is one of five Jantar Mantars in India. Jantar Mantar means 'instruments for measuring the harmony of the heavens'.[1] It consists of 13 architectural astronomical instruments. The site is one of five built by Sawai Jai Singh of Jaipur",
+
+        "interestingFact": "Monument",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/jantar-mantar-road.geojson"
+    }
+
+    ,{
+        "id": "rajaji-marg",
+
+        "roadName": "Rajaji Marg",
+
+        "namedAfter": "Chakravarti Rajagopalachari",
+
+        "title": "Indian Freedom Fighter, Last Governor General, Chief Minister, Cabinet Minister, Lawyer and Author",
+
+        "bio": "Rajaji or C. Rajagopalachari (1878-1972) was the last Governor-General of India, serving until the abolition of that office upon India becoming a republic in 1950. He was the only Indian-born Governor-General or Viceroy of India. He vehemently opposed the use of nuclear weapons, and was a proponent of world peace and disarmament. He was one of the first awardees of the Bharat Ratna. He was the Chief Minister of the Madras State and in 1959 founded the Swatantra Party in 1959.",
+
+        "interestingFact": "Freedom Fighter, Cabinet Minister, Lawyer, Author",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/rajaji-marg.geojson"
+    }
+
+    ,{
+        "id": "baba-kharak-singh-marg",
+
+        "roadName": "Baba Kharak Singh Marg",
+
+        "namedAfter": "Baba Kharak Singh",
+
+        "title": "Playwright and Indian Freedom Fighter",
+
+        "bio": "Baba Kharak Singh (1867-1963) was a Sikh playwright born at Sialkot in British India. He was involved in the Indian independence movement and was president of the Central Sikh League. He was also one of the founders of the Shiromani Gurdwara Parbandhak Committee. He was among the first batch of students who graduated from Punjab University, Lahore.",
+
+        "interestingFact": "Freedom Fighter, Author",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/baba-kharak-singh-marg.geojson"
+    }
+
+    ,{
+        "id": "sansad-marg",
+
+        "roadName": "Sansad Marg",
+
+        "namedAfter": "Parliament House",
+
+        "title": "Monument",
+
+        "bio": "Sansad Marg translates to Parliament Road. At the end of the road, there both the Old and New Parliaments are located.",
+
+        "interestingFact": "Monument",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/sansad-marg.geojson"
+    }
+
+    ,{
+        "id": "krishna-menon-marg",
+
+        "roadName": "Krishna Menon Marg",
+
+        "namedAfter": "V.K Krishna Menon",
+
+        "title": "Indian Freedom Fighter, Defence Minister, Ambassador, Lawyer and Academic",
+
+        "bio": "V.K Krishna Menon (1896-1974) founded the India League in London to demand total independence from the British rule in the Indian subcontinent. He was among the major architects of Indian foreign policy. Towards the end of the 1940s, he presided Indo-British matters and caused the selection of the last British Viceroy of India, Louis Mountbatten. After the independence of India, he facilitated international diplomacy and resolutions in situations such as the Suez Crisis, Korean War, invasion of Hungary, Cyprus, Indochina, Taiwan, and the Chinese capture of American airmen, while supporting the anti-colonial ethos of what he would eventually name the Non-Aligned Movement. As a Defence minister, he played a role in military conflicts such as Congo Crisis, Annexation of Goa, and Sino-Indian War. During his tenure as defence minister, India saw establishment of domestic military-industrial complex and educational systems, the Sainik Schools, the Defence Research and Development Organization (DRDO), and other defence and military institutions, while professionalizing the National Cadet Corps and similar entities.",
+
+        "interestingFact": "Freedom Fighter, Cabinet Minister, Lawyer, Ambassador",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/krishna-menon-marg.geojson"
+    }
+
+    ,{
+        "id": "prithviraj-road",
+
+        "roadName": "Prithviraj Road",
+
+        "namedAfter": "Prithviraj Chauhan",
+
+        "title": "Indian Medivial King",
+
+        "bio": "Prithviraj Chauhan (1166-1192) was a king from the Chauhan (Chahamana) dynasty who ruled the territory of Sapadalaksha, with his capital at Ajmer in present-day Rajasthan in north-western India. Ascending the throne as a minor in 1177 CE, Prithviraj inherited a kingdom which stretched from Thanesar in the north to Jahazpur (Mewar) in the south, which he aimed to expand by military actions against neighbouring kingdoms, most notably defeating the Chandelas. Prithviraj led a coalition of several Rajput kings and defeated the Ghurid army led by Muhammad of Ghor near Taraori in 1191 However, in 1192, Muhammad returned with an army of Turkish mounted archers and defeated the Rajput army on the same battlefield. Prithviraj was captured and summarily executed, although his minor son Govindaraja was reinstated by Muhammad as his puppet ruler in Ajmer.",
+
+        "interestingFact": "Emperor/King/Prince",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/prithviraj-road.geojson"
+    }
+
+    ,{
+        "id": "bhagwan-das-road",
+
+        "roadName": "Bhagwan Das Road",
+
+        "namedAfter": "Bhagwan Das",
+
+        "title": "Indian Freedom Fighter and Religious Figure",
+
+        "bio": "Bhagwan Das (1869-1958) was an Indian Theosophist and freedom fighter. For a time he served in the Central Legislative Assembly of British India. He became allied with the Hindustani Culture Society and was active in opposing rioting as a form of protest. As an advocate for national freedom from the British rule, he was often in danger of reprisals from the Colonial government.",
+
+        "interestingFact": "Freedom Fighter, Religious Figure",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/bhagwan-das-road.geojson"
+    }
+
+    ,{
+        "id": "rajesh-pilot-marg",
+
+        "roadName": "Rajesh Pilot Marg",
+
+        "namedAfter": "Rajesh Pilot",
+
+        "title": "Cabinet Minister, Minister of State, Member of Defence Forces",
+
+        "bio": "Rajesh Pilot (1945-2000) was an Indian politician, a minister in the Government of India and a former Indian Air Force officer. He was a squadron leader.",
+
+        "interestingFact": "Cabinet Minister, Defence Force Member",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/rajesh-pilot-marg.geojson"
+    }
+
+    ,{
+        "id": "dara-shikoh-road",
+
+        "roadName": "Dara Shikoh Road",
+
+        "namedAfter": "Dara Shikoh",
+
+        "title": "Mughal Prince",
+
+        "bio": "Dara Shikoh (1615-1659) was the eldest son and heir-apparent of the Mughal emperor Shah Jahan. Dara was designated with the title Padshahzada-i-Buzurg Martaba (lit. 'Prince of High Rank')and was favoured as a successor by his father and his elder sister, Princess Jahanara Begum. He had been given the title of 'Shah-e-Buland Iqbal' by Shah Jahan. In the war of succession, Dara was defeated by his younger brother Aurangzeb. He was executed in 1659 on Aurangzeb's orders. Dara was open to Hindu thought; he authored the work The Confluence of the Two Seas, which argues for the harmony of Sufi philosophy in Islam and Vedanta philosophy in Hinduism. A great patron of the arts, he was also more inclined towards philosophy and mysticism rather than military pursuits.",
+
+        "interestingFact": "Medivial Empire, Emperor/King/Prince",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/dara-shikoh-road.geojson"
+    }
+
+    ,{
+        "id": "pandit-pant-marg",
+
+        "roadName": "Pandit Pant Marg",
+
+        "namedAfter": "Govind Ballabh Pant",
+
+        "title": "Indian Freedom Fighter, Home Minister, Chief Minister, Lawyer",
+
+        "bio": "Govind Ballabh Pant (1887-1961) was a freedom fighter, home affairs minister and the first Chief Minister of Uttar Pradesh. Pant was appointed by the Congress party to initially represent Ramprasad Bismill, Ashfaqulla Khan and other revolutionaries involved in the Kakori case in the mid 1920s.",
+
+        "interestingFact": "",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/pandit-pant-marg.geojson"
+    }
+
+    ,{
+        "id": "teen-murti-marg",
+
+        "roadName": "Teen Murti Marg",
+
+        "namedAfter": "Teen Murti Bhawan",
+
+        "title": "Museum and former residence of Jawaharlal Nehru",
+
+        "bio": "This road under the colonial government was called Roberts Road after Robert Tor Russell designer of the house, Connaught Place and of the Eastern and Western Courts on Janpath. Teen Murti Marg is named after Teen Murti Bhawan. It was formerly called Flagstaff House.",
+
+        "interestingFact": "Museum, Post Colonial Renaming Project",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/teen-murti-marg.geojson"
+    }
+
+    ,{
+        "id": "kushak-road",
+
+        "roadName": "Kushak Road",
+
+        "namedAfter": "Kushal Mahal",
+
+        "title": "Monument",
+
+        "bio": "Kushak Road is named after Kushak Mahal.",
+
+        "interestingFact": "Monument",
+
+        "sources": [
+            "Proximity to the monument"
+        ],
+
+        "geojson": "data/geojson/kushak-road.geojson"
+    }
+
+    ,{
+        "id": "mother-teresa-crescent",
+
+        "roadName": "Mother Teresa Crescent",
+
+        "namedAfter": "Mother Teresa",
+
+        "title": "Religious Figure and Social Worker",
+
+        "bio": "This road was previously called Willingdon Crescent. Anjezë Gonxhe Bojaxhiu or Mother Teresa (1910-1997) was an Albanian-Indian Catholic nun, founder of the Missionaries of Charity and a Catholic saint. In 1950, Mother Teresa established the Missionaries of Charity, a religious congregation that was initially dedicated to serving 'the poorest of the poor' in the slums of Calcutta. On 4 September 2016, she was canonised by the Catholic Church as Saint Teresa of Calcutta. Her death anniversary (5 September) is now observed as her feast day.",
+
+        "interestingFact": "Religious Figure, Nobel Prize Winner, Post Colonial Renaming Project",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/mother-teresa-crescent.geojson"
+    }
+
+    ,{
+        "id": "kasturba-gandhi-marg",
+
+        "roadName": "Kasturba Gandhi Marg",
+
+        "namedAfter": "Kasturba Gandhi",
+
+        "title": "Indian Freedom Fighter and Social Reformer",
+
+        "bio": "Kasturba Gandhi(18-1944) was an Indian freedom fighter and social reformer. She was married to Mohandas Karamchand Gandhi, commonly known as Mahatma Gandhi. National Safe Motherhood Day is observed in India annually on 11 April, coinciding with Kasturba's birthday.",
+
+        "interestingFact": "Freedom Fighter, Social Reformer",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/kasturba-gandhi-marg.geojson"
+    }
+
+    ,{
+        "id": "talkatora-road",
+
+        "roadName": "Talkatora Road",
+
+        "namedAfter": "Talkatora Garden",
+
+        "title": "Monument, Park/Garden",
+
+        "bio": "It is named after the Talkatora Gardens which is a Mughal-era garden.",
+
+        "interestingFact": "Monument, Park/Garden",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/talkatora-road.geojson"
+    }
+
+    ,{
+        "id": "red-cross-road",
+
+        "roadName": "Red Cross Road",
+
+        "namedAfter": "Indian Red Cross Society",
+
+        "title": "Voluntary humanitarian organization",
+
+        "bio": "This road is named so as the headquarters of the Indian Red Cross Society.",
+
+        "interestingFact": "",
+
+        "sources": [
+            "Indian Red Cross Website"
+        ],
+
+        "geojson": "data/geojson/red-cross-road.geojson"
+    }
+
+    ,{
+        "id": "church-road",
+
+        "roadName": "Church Road",
+
+        "namedAfter": "Cathedral Church of The Redemption",
+
+        "title": "Place of Worship",
+
+        "bio": "This road is called so due to the presence of the British era Cathedral Church of The Redemption on the road.",
+
+        "interestingFact": "Place of Worship",
+
+        "sources": [
+            "Proximity to the monument"
+        ],
+
+        "geojson": "data/geojson/church-road.geojson"
+    }
+
+    ,{
+        "id": "gurudwara-rakabganj-road",
+
+        "roadName": "Gurudwara Rakabganj Road",
+
+        "namedAfter": "Gurudwara Rakab Ganj Sahib",
+
+        "title": "Place of Worship",
+
+        "bio": "This road is named after Gurudwara Rakab Ganj Sahib.",
+
+        "interestingFact": "Place of Worship",
+
+        "sources": [
+            "Proximity to the monument"
+        ],
+
+        "geojson": "data/geojson/gurudwara-rakabganj-road.geojson"
+    }
+
+    ,{
+        "id": "lok-sabha-marg",
+
+        "roadName": "Lok Sabha Marg",
+
+        "namedAfter": "Lok Sabha",
+
+        "title": "Lower house of the National Government",
+
+        "bio": "Baba Kharak Singh (1867-1963)",
+
+        "interestingFact": "",
+
+        "sources": [
+            "Proximity to the monument"
+        ],
+
+        "geojson": "data/geojson/lok-sabha-marg.geojson"
+    }
+
+    ,{
+        "id": "rajya-sabha-marg",
+
+        "roadName": "Rajya Sabha Marg",
+
+        "namedAfter": "Rajya Sabha",
+
+        "title": "Upper house of the National Government",
+
+        "bio": "Baba Kharak Singh (1867-1963)",
+
+        "interestingFact": "",
+
+        "sources": [
+            "Proximity to the monument"
+        ],
+
+        "geojson": "data/geojson/rajya-sabha-marg.geojson"
+    }
+
+    ,{
+        "id": "rafi-ahmed-kidwai-marg",
+
+        "roadName": "Rafi Ahmed Kidwai Marg",
+
+        "namedAfter": "Rafi Ahmed Kidwai",
+
+        "title": "Indian Freedom Fighter, Communications and Food and Agriculture Minister",
+
+        "bio": "Rafi Ahmed Kidwai (1894-1954) was a freedom fighter and a socialist. Kidwai served as Minister of Agriculture in the interim government of India and as first Minister of Communications in the first cabinet of independent India. He was also the first Member of Parliament for Bahraich and before that a member of the Constituent Assembly.",
+
+        "interestingFact": "Freedom Fighter, Cabinet Minister",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/rafi-ahmed-kidwai-marg.geojson"
+    } 
+
+    ,{
+        "id": "sher-shah-road",
+
+        "roadName": "Sher Shah Road",
+
+        "namedAfter": "Sher Shah Suri",
+
+        "title": "Indian Emperor",
+
+        "bio": "Sher Shah Suri (1472/1486-1545) was the Sultan of Hindustan also known by his title Sultan Adil (lit. 'the Just King'), as the first Sur Emperor, from 1540 until his death in 1545. He established the Sur Empire after defeating the Mughal Empire and declaring Delhi his seat of power. The influence of his innovations and reforms extended far beyond his brief reign, being recognized as one of the greatest administrative rulers in India. While the term rūpya had previously been used as a generic term for any silver coin, during his rule the term rūpee came to be used as the name for a silver coin of a standard weight of 178 grains, which was the precursor of the modern rupee. Rupee is the national cuurency in India, Indonesia, the Maldives, Mauritius, Nepal, Pakistan, the Seychelles, and Sri Lanka.",
+
+        "interestingFact": "Medivial Empire, Emperor/King/Prince",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/sher-shah-road.geojson"
+    }
+
+    ,{
+        "id": "barakhamba-road",
+
+        "roadName": "Barakhamba Road",
+
+        "namedAfter": "Barakhamba Monument (Lost)",
+
+        "title": "Monument",
+
+        "bio": "There is a Barakhamba monument in Nizamuddin area of Delhi. However, it is suspected that there was a house of an important nobel built during the Tuglaq Dynasty but was lost due to urban construction. The lost history!!",
+
+        "interestingFact": "Monument",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/barakhamba-road.geojson"
+    }
+
+    ,{
+        "id": "copernicus-marg",
+
+        "roadName": "Copernicus Marg",
+
+        "namedAfter": "Nicolaus Copernicus",
+
+        "title": "Academic",
+
+        "bio": "Nicolaus Copernicus (1473-1543) was a Renaissance polymath who formulated a model of the universe that placed the Sun rather than Earth at its center. The publication of Copernicus's model in his book De revolutionibus orbium coelestium (On the Revolutions of the Celestial Spheres), just before his death in 1543, was a major event in the history of science, triggering the Copernican Revolution and making a pioneering contribution to the Scientific Revolution.",
+
+        "interestingFact": "Academic",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/copernicus-marg.geojson"
+    }
+
+    ,{
+        "id": "pandara-road",
+
+        "roadName": "Pandara Road",
+
+        "namedAfter": "Pandav family from the Hindu epic Mahabharat",
+
+        "title": "Colonial Name",
+
+        "bio": "Apparently, this road was supposed to be named Pandava Road by the British Government but by mistake was named Pandara Road. (Honestly, what a great mistake, hope it never changes!)",
+
+        "interestingFact": "Colonial Name",
+
+        "sources": [
+            "Indian Express"
+        ],
+
+        "geojson": "data/geojson/pandara-road.geojson"
+    }
+
+    ,{
+        "id": "south-avenue",
+
+        "roadName": "South Avenue",
+
+        "namedAfter": "Direction",
+
+        "title": "Directional Name",
+
+        "bio": "This road is on the south side of the Rashtrapati Bhavan and houses the South Block (government offices).",
+
+        "interestingFact": "Monument",
+
+        "sources": [
+            "Proximity to the monument"
+        ],
+
+        "geojson": "data/geojson/south-avenue.geojson"
+    }
+
+    ,{
+        "id": "north-avenue",
+
+        "roadName": "North Avenue",
+
+        "namedAfter": "Direction",
+
+        "title": "Directional Name",
+
+        "bio": "This road is on the north side of the Rashtrapati Bhavan and houses the North Block (government offices).",
+
+        "interestingFact": "Monument",
+
+        "sources": [
+            "Proximity to the monument"
+        ],
+
+        "geojson": "data/geojson/north-avenue.geojson"
+    }
+
+    ,{
+        "id": "tyagaraj-marg",
+
+        "roadName": "Tyagaraj Marg",
+
+        "namedAfter": "Sadguru Sri Tyāgarāja Swāmi",
+
+        "title": "Artist",
+
+        "bio": "This road was named after Robert Clive as Clive Road under the colonial era. Sadguru Sri Tyāgarāja Swāmi (1767-1847) was a composer of Carnatic Music, a form of Indian Classical Music. Tyāgarāja and his contemporaries, Śyāma Śāstri and Muthuswāmi Dikshitar, are regarded as the Trinity of Carnatic Music. Tyāgarāja composed hundreds of devotional compositions, mostly in Telugu and in praise of Rāma.",
+
+        "interestingFact": "Post Colonial Renaming Project, Artist",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/tyagaraj-marg.geojson"
+    }
+
+    ,{
+        "id": "doctor-zakir-hussain-marg",
+
+        "roadName": "Doctor Zakir Hussain Marg",
+
+        "namedAfter": "Zakir Hussain",
+
+        "title": "Indian Freedom Fighter, President, Vice President, Governor",
+
+        "bio": "Zakir Hussain Khan (1897-1969) was was an Indian educationist and politician who served as the vice president of India from 1962 to 1967 and president of India from 13 May 1967 until his death on 3 May 1969. Husain was a founding member of the Jamia Millia Islamia which was established as an independent national university in response to the Non-cooperation movement. He served as the university's vice-chancellor from 1926 to 1948. He was opposed to the policy of separate electorates for Muslims and, in 1946, the Muslim League under Muhammad Ali Jinnah vetoed a proposal by the Indian National Congress to include Husain in the Interim Government of India. Following Independence and the Partition of India Husain stayed on in India and, in 1948, was appointed Vice Chancellor of the Aligarh Muslim University which he helped retain as a national institution of higher learning.",
+
+        "interestingFact": "Freedom Fighter, President, Vice President",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/doctor-zakir-hussain-marg.geojson"
+    }
+
+    ,{
+        "id": "kumaraswami-kamaraj-marg",
+
+        "roadName": "Kumaraswami Kamaraj Marg",
+
+        "namedAfter": "Kumaraswami Kamaraj/K. Kamaraj",
+
+        "title": "Indian Freedom Fighter, Chief Minister ex-Congress President",
+
+        "bio": "K. Kamaraj (1903-1975) served as the Chief Minister of Madras from 13 April 1954 to 2 October 1963. He also served as the president of the Indian National Congress from 1964 to 1967 and was responsible for the elevation of Lal Bahadur Shastri and later Indira Gandhi to the position of Prime Minister of India, because of which he was widely acknowledged as the 'Kingmaker' in Indian politics during the 1960s. Later, he became the founder and president of the Indian National Congress (O). He became active in the Indian Independence movement in the 1920s and was imprisoned by the British Raj multiple times due to his activities. He was active during the Quit India Movement in 1942, because of which he was incarcerated for three years until 1945. After Indian Independence in 1947, Kamaraj served as a Member of Parliament in the Lok Sabha from 1952 to 1954 before becoming the Chief Minister of Madras State in April 1954. During his almost decade-long tenure as the chief minister, he played a major role in developing the infrastructure of the state and improving the quality of life of the needy and the disadvantaged.",
+
+        "interestingFact": "Freedom Fighter, Chief Minister",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/kumaraswami-kamaraj-marg.geojson"
+    }
+
+    ,{
+        "id": "sunehri-bagh-road",
+
+        "roadName": "Sunehri Bagh Road",
+
+        "namedAfter": "Sunehri Bagh Mosque",
+
+        "title": "Monument",
+
+        "bio": "Sunehri translates to golden in English. During the construction of New Delhi under the British colonial government designed by Lutyen's. Currently, a mosque stands in the roundabout which is called Sunehri mosque. There was a recent controversy where the mosque was supposed to be demolised but the order was stayed by the courts.",
+
+        "interestingFact": "Monument, Park/Garden",
+
+        "sources": [
+            "Proximity to the monument"
+        ],
+
+        "geojson": "data/geojson/sunehri-bagh-road.geojson"
+    }
+
+    ,{
+        "id": "sikandra-road",
+
+        "roadName": "Sikandra Road",
+
+        "namedAfter": "Sikander Lodhi",
+
+        "title": "Indian Medivial King",
+
+        "bio": "Sikandar Khan Lodi born Nizam Khan was the was second Sultan of the Delhi Sultanate between 1489 and 1517. He was also a poet of the Persian language and prepared a diwan of 9000 verses.",
+
+        "interestingFact": "Medivial Empire, Emperor/King/Prince",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/sikandra-road.geojson"
+    }
+
+    ,{
+        "id": "humayun-road",
+
+        "roadName": "Humayun Road",
+
+        "namedAfter": "Humayun",
+
+        "title": "Indian Emperor",
+
+        "bio": "Nasir al-Din Muhammad or Humayun (1508-1556) was the second Mughal emperor, who ruled much of what is now eastern Afghanistan, Bangladesh, Northern India, and Pakistan from 1530 to 1540 and again from 1555 to his death in 1556.",
+
+        "interestingFact": "",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/humayun-road.geojson"
+    }
+
+    ,{
+        "id": "subramaniyam-bharti-marg",
+
+        "roadName": "Subramaniyam Bharti Marg",
+
+        "namedAfter": "Subramania Bharati",
+
+        "title": "Indian Freedom Fighter and Poet",
+
+        "bio": "Subramania Bharati (1508-1556) was an Indian writer, poet, composer, journalist, teacher, Indian independence activist, social reformer, and polyglot. He was bestowed the title Bharati for his poetry and was a pioneer of modern Tamil poetry. He is popularly known by his title Bharati or Bharatiyar and also by the other title 'Mahakavi Bharati' (the great poet Bharati). His works included patriotic songs composed during the Indian Independence movement. He fought for the emancipation of women, against child marriage, opposed the caste system, and advocated reforms of the society and religion.",
+
+        "interestingFact": "Freedom Fighter, Author, Artist",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/subramaniyam-bharti-marg.geojson"
+    }
+
+    ,{
+        "id": "raisina-road",
+
+        "roadName": "Raisina Road",
+
+        "namedAfter": "Raisina Hill",
+
+        "title": "Monument",
+
+        "bio": "Raisina road leads to the Raisina Hill on top which Rashtrapati Bhava, the house of the President is built.",
+
+        "interestingFact": "",
+
+        "sources": [
+            "Proximity to the monument"
+        ],
+
+        "geojson": "data/geojson/raisina-road.geojson"
+    }
+
+    ,{
+        "id": "kartavya-path",
+
+        "roadName": "Kartavya Path",
+
+        "namedAfter": "One's duty",
+
+        "title": "Ceremonial Boulevard",
+
+        "bio": "Post independence it was named Rajpath and under the Modi government it was named as Kartavya Path. ",
+
+        "interestingFact": "Post Colonial Renaming Project, Hindutva Renaming Project",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/kartavya-path.geojson"
+    }
+    
+    ,{
+        "id": "swami-vivekanada-road",
+
+        "roadName": "Swami Vivekanada Road ",
+
+        "namedAfter": "Swami Vivekanada",
+
+        "title": "Religious Figure and Philosopher",
+
+        "bio": "Swami Vivekanada (1863-1902) was an Indian Hindu monk, philosopher, author, religious teacher, and the chief disciple of the Indian mystic Ramakrishna.",
+
+        "interestingFact": "Religious Figure, Philosopher",
+
+        "sources": [
+            "Wikipedia"
+        ],
+
+        "geojson": "data/geojson/swami-vivekanada-road.geojson"
+    }
+
+]
+

@@ -1,0 +1,754 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-22T10:50:42Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/712992079",
+        "highway": "secondary",
+        "lane_markings": "yes",
+        "lanes": "2",
+        "name": "Firoz Shah Road",
+        "name:etymology:wikidata": "Q455442",
+        "name:hi": "फिरोज शाह रोड",
+        "name:ur": "فیروز شاہ روڈ",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2315694,
+            28.6253926
+          ],
+          [
+            77.2314921,
+            28.6253907
+          ],
+          [
+            77.2313821,
+            28.6253813
+          ],
+          [
+            77.231299,
+            28.6253625
+          ],
+          [
+            77.2312547,
+            28.6253495
+          ],
+          [
+            77.2308421,
+            28.6252051
+          ]
+        ]
+      },
+      "id": "way/712992079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/998790351",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Firoz Shah Road",
+        "name:etymology:wikidata": "Q455442",
+        "name:hi": "फ़िरोज शाह रोड",
+        "name:ur": "فیروز شاہ روڈ",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2302338,
+            28.6249687
+          ],
+          [
+            77.2302818,
+            28.6250177
+          ],
+          [
+            77.2308156,
+            28.6252488
+          ],
+          [
+            77.2312086,
+            28.6254177
+          ],
+          [
+            77.2312836,
+            28.6254591
+          ],
+          [
+            77.2313533,
+            28.625508
+          ],
+          [
+            77.2314037,
+            28.6255604
+          ],
+          [
+            77.2314481,
+            28.6256163
+          ]
+        ]
+      },
+      "id": "way/998790351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/998790352",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Firoz Shah Road",
+        "name:etymology:wikidata": "Q455442",
+        "name:hi": "फ़िरोज शाह रोड",
+        "name:ur": "فیروز شاہ روڈ",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.225325,
+            28.6228308
+          ],
+          [
+            77.2254223,
+            28.6228747
+          ],
+          [
+            77.2256434,
+            28.6229681
+          ],
+          [
+            77.226026,
+            28.6231298
+          ],
+          [
+            77.2261175,
+            28.6231366
+          ]
+        ]
+      },
+      "id": "way/998790352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/998790353",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Firoz Shah Road",
+        "name:etymology:wikidata": "Q455442",
+        "name:hi": "फ़िरोज शाह रोड",
+        "name:ur": "فیروز شاہ روڈ",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2261175,
+            28.6231366
+          ],
+          [
+            77.2260804,
+            28.6230749
+          ],
+          [
+            77.2256852,
+            28.6228954
+          ],
+          [
+            77.2255897,
+            28.622852
+          ],
+          [
+            77.225527,
+            28.6228242
+          ],
+          [
+            77.2254662,
+            28.6227972
+          ]
+        ]
+      },
+      "id": "way/998790353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/998790354",
+        "highway": "secondary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Firoz Shah Road",
+        "name:etymology:wikidata": "Q455442",
+        "name:hi": "फ़िरोज शाह रोड",
+        "name:ur": "فیروز شاہ روڈ",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2222157,
+            28.6213859
+          ],
+          [
+            77.222404,
+            28.6214711
+          ],
+          [
+            77.2227661,
+            28.6216348
+          ],
+          [
+            77.2228059,
+            28.6216528
+          ],
+          [
+            77.223221,
+            28.6218405
+          ],
+          [
+            77.2237755,
+            28.6220912
+          ],
+          [
+            77.2240245,
+            28.6222002
+          ],
+          [
+            77.2243874,
+            28.6223591
+          ],
+          [
+            77.2244359,
+            28.6223803
+          ],
+          [
+            77.2246224,
+            28.622462
+          ]
+        ]
+      },
+      "id": "way/998790354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/998790355",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Firoz Shah Road",
+        "name:etymology:wikidata": "Q455442",
+        "name:hi": "फ़िरोज शाह रोड",
+        "name:ur": "فیروز شاہ روڈ",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2216853,
+            28.6211611
+          ],
+          [
+            77.2218894,
+            28.621292
+          ],
+          [
+            77.2222157,
+            28.6213859
+          ]
+        ]
+      },
+      "id": "way/998790355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/998790356",
+        "highway": "secondary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Firoz Shah Road",
+        "name:etymology:wikidata": "Q455442",
+        "name:hi": "फ़िरोज शाह रोड",
+        "name:ur": "فیروز شاہ روڈ",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2197189,
+            28.6202892
+          ],
+          [
+            77.2197748,
+            28.6203143
+          ],
+          [
+            77.2199672,
+            28.6204009
+          ],
+          [
+            77.2204914,
+            28.6206367
+          ],
+          [
+            77.2206053,
+            28.6206879
+          ],
+          [
+            77.2208797,
+            28.6208113
+          ],
+          [
+            77.2210155,
+            28.6208703
+          ],
+          [
+            77.2212026,
+            28.6209515
+          ],
+          [
+            77.2213782,
+            28.6210277
+          ],
+          [
+            77.2215918,
+            28.6211205
+          ],
+          [
+            77.2216853,
+            28.6211611
+          ]
+        ]
+      },
+      "id": "way/998790356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/998790357",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Firoz Shah Road",
+        "name:etymology:wikidata": "Q455442",
+        "name:hi": "फ़िरोज शाह रोड",
+        "name:ur": "فیروز شاہ روڈ",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2222157,
+            28.6213859
+          ],
+          [
+            77.2219287,
+            28.621206
+          ],
+          [
+            77.2216853,
+            28.6211611
+          ]
+        ]
+      },
+      "id": "way/998790357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/998790358",
+        "highway": "secondary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Firoz Shah Road",
+        "name:etymology:wikidata": "Q455442",
+        "name:hi": "फ़िरोज शाह रोड",
+        "name:ur": "فیروز شاہ روڈ",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2261175,
+            28.6231366
+          ],
+          [
+            77.2264094,
+            28.6232581
+          ],
+          [
+            77.2265222,
+            28.6233046
+          ],
+          [
+            77.2268189,
+            28.6234297
+          ],
+          [
+            77.2269291,
+            28.6234791
+          ],
+          [
+            77.227043,
+            28.6235302
+          ],
+          [
+            77.2272692,
+            28.6236317
+          ],
+          [
+            77.2274444,
+            28.6237103
+          ],
+          [
+            77.227809,
+            28.6238738
+          ],
+          [
+            77.2278667,
+            28.6238997
+          ],
+          [
+            77.2278984,
+            28.6239139
+          ],
+          [
+            77.2280049,
+            28.6239616
+          ],
+          [
+            77.2282588,
+            28.6240753
+          ],
+          [
+            77.2284267,
+            28.6241505
+          ],
+          [
+            77.2284851,
+            28.6241766
+          ],
+          [
+            77.2288588,
+            28.624344
+          ],
+          [
+            77.2289079,
+            28.624366
+          ],
+          [
+            77.2291537,
+            28.6244761
+          ],
+          [
+            77.229294,
+            28.6245389
+          ],
+          [
+            77.2295433,
+            28.6246506
+          ],
+          [
+            77.2296809,
+            28.624711
+          ],
+          [
+            77.2298665,
+            28.6247975
+          ],
+          [
+            77.2302338,
+            28.6249687
+          ]
+        ]
+      },
+      "id": "way/998790358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/998790359",
+        "highway": "secondary",
+        "lane_markings": "no",
+        "name": "Firoz Shah Road",
+        "name:etymology:wikidata": "Q455442",
+        "name:hi": "फिरोज शाह रोड",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2192988,
+            28.6202516
+          ],
+          [
+            77.2193725,
+            28.6202445
+          ],
+          [
+            77.2194403,
+            28.6202431
+          ],
+          [
+            77.219511,
+            28.6202465
+          ],
+          [
+            77.2195771,
+            28.6202564
+          ],
+          [
+            77.2196522,
+            28.62028
+          ],
+          [
+            77.2197189,
+            28.6202892
+          ]
+        ]
+      },
+      "id": "way/998790359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/998790360",
+        "highway": "secondary",
+        "lane_markings": "no",
+        "name": "Firoz Shah Road",
+        "name:etymology:wikidata": "Q455442",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2197189,
+            28.6202892
+          ],
+          [
+            77.2196864,
+            28.6202347
+          ],
+          [
+            77.2196535,
+            28.6201969
+          ],
+          [
+            77.2195804,
+            28.6201404
+          ],
+          [
+            77.2195053,
+            28.6200745
+          ],
+          [
+            77.2194479,
+            28.6200065
+          ]
+        ]
+      },
+      "id": "way/998790360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1202691839",
+        "highway": "secondary",
+        "lane_markings": "yes",
+        "lanes": "2",
+        "name": "Firoz Shah Road",
+        "name:etymology:wikidata": "Q455442",
+        "name:hi": "फ़िरोज शाह रोड",
+        "name:ur": "فیروز شاہ روڈ",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2308421,
+            28.6252051
+          ],
+          [
+            77.2303429,
+            28.6249904
+          ],
+          [
+            77.2303005,
+            28.6249708
+          ],
+          [
+            77.2302338,
+            28.6249687
+          ]
+        ]
+      },
+      "id": "way/1202691839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1533060170",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Firoz Shah Road",
+        "name:etymology:wikidata": "Q455442",
+        "name:hi": "फ़िरोज शाह रोड",
+        "name:ur": "فیروز شاہ روڈ",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2254662,
+            28.6227972
+          ],
+          [
+            77.2253716,
+            28.6227553
+          ]
+        ]
+      },
+      "id": "way/1533060170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1533060172",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Firoz Shah Road",
+        "name:etymology:wikidata": "Q455442",
+        "name:hi": "फ़िरोज शाह रोड",
+        "name:ur": "فیروز شاہ روڈ",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2253716,
+            28.6227553
+          ],
+          [
+            77.2251657,
+            28.622664
+          ],
+          [
+            77.2251031,
+            28.6226362
+          ],
+          [
+            77.2248952,
+            28.622544
+          ],
+          [
+            77.2247369,
+            28.6224737
+          ],
+          [
+            77.2246224,
+            28.622462
+          ]
+        ]
+      },
+      "id": "way/1533060172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1533060173",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Firoz Shah Road",
+        "name:etymology:wikidata": "Q455442",
+        "name:hi": "फ़िरोज शाह रोड",
+        "name:ur": "فیروز شاہ روڈ",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2246224,
+            28.622462
+          ],
+          [
+            77.2247056,
+            28.6225513
+          ],
+          [
+            77.2248375,
+            28.6226108
+          ],
+          [
+            77.2250624,
+            28.6227123
+          ],
+          [
+            77.225325,
+            28.6228308
+          ]
+        ]
+      },
+      "id": "way/1533060173"
+    }
+  ]
+}

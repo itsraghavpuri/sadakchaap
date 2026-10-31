@@ -1,0 +1,672 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-28T18:27:47Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/24584423",
+      "properties": {
+        "@id": "way/24584423",
+        "highway": "tertiary",
+        "name": "Church Road",
+        "name:hi": "चर्च रोड",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2038762,
+            28.6173486
+          ],
+          [
+            77.2032086,
+            28.6173792
+          ],
+          [
+            77.2030562,
+            28.6173861
+          ],
+          [
+            77.2029348,
+            28.6173967
+          ],
+          [
+            77.2027074,
+            28.6174169
+          ],
+          [
+            77.2020176,
+            28.6174445
+          ],
+          [
+            77.2010339,
+            28.6174957
+          ],
+          [
+            77.2007431,
+            28.6175108
+          ],
+          [
+            77.1998284,
+            28.6175639
+          ],
+          [
+            77.1997019,
+            28.6176147
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24584501",
+      "properties": {
+        "@id": "way/24584501",
+        "highway": "tertiary",
+        "name": "Church Road",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.1979691,
+            28.6177808
+          ],
+          [
+            77.1981178,
+            28.6177002
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24584502",
+      "properties": {
+        "@id": "way/24584502",
+        "highway": "tertiary",
+        "name": "Church Road",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.1981178,
+            28.6177002
+          ],
+          [
+            77.1979666,
+            28.6176389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35152830",
+      "properties": {
+        "@id": "way/35152830",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lit": "yes",
+        "name": "Church Road",
+        "oneway": "yes",
+        "sidewalk:left": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.181576,
+            28.5658527
+          ],
+          [
+            77.1816936,
+            28.565805
+          ],
+          [
+            77.1819853,
+            28.5656642
+          ],
+          [
+            77.1829811,
+            28.5651772
+          ],
+          [
+            77.1838072,
+            28.5647626
+          ],
+          [
+            77.1840278,
+            28.5646483
+          ],
+          [
+            77.1845378,
+            28.5643975
+          ],
+          [
+            77.1849129,
+            28.5642149
+          ],
+          [
+            77.1851905,
+            28.5640535
+          ],
+          [
+            77.1854266,
+            28.5639039
+          ],
+          [
+            77.1861025,
+            28.5634434
+          ],
+          [
+            77.1864184,
+            28.5632574
+          ],
+          [
+            77.1865262,
+            28.5631984
+          ],
+          [
+            77.1866376,
+            28.5631387
+          ],
+          [
+            77.1874648,
+            28.5628017
+          ],
+          [
+            77.1882663,
+            28.5625771
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/80678182",
+      "properties": {
+        "@id": "way/80678182",
+        "highway": "tertiary",
+        "name": "Church Road",
+        "name:hi": "चर्च रोड"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.1997019,
+            28.6176147
+          ],
+          [
+            77.1993242,
+            28.6176323
+          ],
+          [
+            77.1986494,
+            28.6176555
+          ],
+          [
+            77.1981178,
+            28.6177002
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/169421700",
+      "properties": {
+        "@id": "way/169421700",
+        "highway": "residential",
+        "name": "Church Road",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2465796,
+            28.5839773
+          ],
+          [
+            77.2466212,
+            28.5839361
+          ],
+          [
+            77.2481138,
+            28.5822648
+          ],
+          [
+            77.2489098,
+            28.5813246
+          ],
+          [
+            77.2492236,
+            28.5809181
+          ],
+          [
+            77.2495159,
+            28.5805918
+          ],
+          [
+            77.2497278,
+            28.5803481
+          ],
+          [
+            77.2502079,
+            28.5797758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/567831195",
+      "properties": {
+        "@id": "way/567831195",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lit": "yes",
+        "name": "Church Road",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.1882663,
+            28.5625771
+          ],
+          [
+            77.1885195,
+            28.5625095
+          ],
+          [
+            77.1886601,
+            28.5624787
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/567831199",
+      "properties": {
+        "@id": "way/567831199",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lit": "yes",
+        "name": "Church Road",
+        "oneway": "yes",
+        "sidewalk:left": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.1865935,
+            28.5630729
+          ],
+          [
+            77.1861454,
+            28.5633308
+          ],
+          [
+            77.1860536,
+            28.5633884
+          ],
+          [
+            77.1855667,
+            28.5637296
+          ],
+          [
+            77.1853293,
+            28.5638827
+          ],
+          [
+            77.1850507,
+            28.5640488
+          ],
+          [
+            77.1848693,
+            28.5641554
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/570413587",
+      "properties": {
+        "@id": "way/570413587",
+        "highway": "tertiary",
+        "name": "Church Road",
+        "name:hi": "चर्च रोड",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2056356,
+            28.6172874
+          ],
+          [
+            77.2055722,
+            28.6172893
+          ],
+          [
+            77.205482,
+            28.6172919
+          ],
+          [
+            77.2050785,
+            28.6173057
+          ],
+          [
+            77.2047515,
+            28.6173168
+          ],
+          [
+            77.203963,
+            28.6173457
+          ],
+          [
+            77.2038762,
+            28.6173486
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/581245357",
+      "properties": {
+        "@id": "way/581245357",
+        "highway": "tertiary",
+        "name": "Church Road",
+        "name:hi": "चर्च रोड",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.1997019,
+            28.6176147
+          ],
+          [
+            77.1998253,
+            28.6176294
+          ],
+          [
+            77.2001102,
+            28.6176162
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/581245359",
+      "properties": {
+        "@id": "way/581245359",
+        "highway": "tertiary",
+        "name": "Church Road",
+        "name:hi": "चर्च रोड",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2001102,
+            28.6176162
+          ],
+          [
+            77.2007625,
+            28.617572
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/581245363",
+      "properties": {
+        "@id": "way/581245363",
+        "highway": "tertiary",
+        "name": "Church Road",
+        "name:hi": "चर्च रोड",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2007625,
+            28.617572
+          ],
+          [
+            77.2009755,
+            28.6175629
+          ],
+          [
+            77.201035,
+            28.6175603
+          ],
+          [
+            77.2020368,
+            28.6175176
+          ],
+          [
+            77.20294,
+            28.6174774
+          ],
+          [
+            77.2032107,
+            28.6174614
+          ],
+          [
+            77.2038794,
+            28.617422
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/581522562",
+      "properties": {
+        "@id": "way/581522562",
+        "highway": "tertiary",
+        "name": "Church Road",
+        "name:hi": "चर्च रोड",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2038794,
+            28.617422
+          ],
+          [
+            77.2039769,
+            28.6174189
+          ],
+          [
+            77.2047654,
+            28.61739
+          ],
+          [
+            77.2050823,
+            28.6173789
+          ],
+          [
+            77.2055272,
+            28.6173632
+          ],
+          [
+            77.2056421,
+            28.6173585
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/732888989",
+      "properties": {
+        "@id": "way/732888989",
+        "highway": "tertiary",
+        "name": "Mall/Church Road"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.1610948,
+            28.5157009
+          ],
+          [
+            77.1613443,
+            28.5158446
+          ],
+          [
+            77.1614574,
+            28.5159279
+          ],
+          [
+            77.1615488,
+            28.5160033
+          ],
+          [
+            77.1617889,
+            28.5162416
+          ],
+          [
+            77.1618596,
+            28.5163117
+          ],
+          [
+            77.1619023,
+            28.5163488
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1152693007",
+      "properties": {
+        "@id": "way/1152693007",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lit": "yes",
+        "name": "Church Road",
+        "oneway": "yes",
+        "sidewalk:left": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.1848693,
+            28.5641554
+          ],
+          [
+            77.1844969,
+            28.5643482
+          ],
+          [
+            77.1844791,
+            28.5643574
+          ],
+          [
+            77.184005,
+            28.5645959
+          ],
+          [
+            77.1836288,
+            28.5647773
+          ],
+          [
+            77.1829663,
+            28.5651112
+          ],
+          [
+            77.1819712,
+            28.56558
+          ],
+          [
+            77.1817278,
+            28.5656955
+          ],
+          [
+            77.1816346,
+            28.5657408
+          ],
+          [
+            77.1815302,
+            28.5657949
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1246766405",
+      "properties": {
+        "@id": "way/1246766405",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lit": "yes",
+        "name": "Church Road",
+        "oneway": "yes",
+        "sidewalk:left": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.1886443,
+            28.5624036
+          ],
+          [
+            77.1885062,
+            28.5624423
+          ],
+          [
+            77.1883819,
+            28.5624729
+          ],
+          [
+            77.1874295,
+            28.5627353
+          ],
+          [
+            77.187167,
+            28.5628383
+          ],
+          [
+            77.1865935,
+            28.5630729
+          ]
+        ]
+      }
+    }
+  ]
+}

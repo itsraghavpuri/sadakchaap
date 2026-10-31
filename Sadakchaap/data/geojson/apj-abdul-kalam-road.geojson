@@ -1,0 +1,716 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-22T10:11:51Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28121215",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Doctor A.P.J. Abdul Kalam Marg",
+        "name:etymology:wikidata": "Q9513",
+        "name:hi": "डॉक्टर ए. पी. जे. अब्दुल कलाम मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2173235,
+            28.6003114
+          ],
+          [
+            77.2170586,
+            28.600238
+          ]
+        ]
+      },
+      "id": "way/28121215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/37222903",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Doctor A.P.J. Abdul Kalam Marg",
+        "name:etymology:wikidata": "Q9513",
+        "name:hi": "डॉक्टर ए. पी. जे. अब्दुल कलाम मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2179443,
+            28.6008756
+          ],
+          [
+            77.2180233,
+            28.6008681
+          ],
+          [
+            77.218195,
+            28.6008622
+          ],
+          [
+            77.2183449,
+            28.6008888
+          ],
+          [
+            77.2186321,
+            28.6010262
+          ],
+          [
+            77.2191478,
+            28.6012723
+          ],
+          [
+            77.2193415,
+            28.6013485
+          ],
+          [
+            77.2194511,
+            28.6014036
+          ],
+          [
+            77.2194865,
+            28.6014171
+          ],
+          [
+            77.2199311,
+            28.6016226
+          ],
+          [
+            77.220029,
+            28.6016632
+          ],
+          [
+            77.2201213,
+            28.6017012
+          ],
+          [
+            77.2206587,
+            28.6019355
+          ],
+          [
+            77.2207659,
+            28.6019802
+          ],
+          [
+            77.2210114,
+            28.602088
+          ],
+          [
+            77.2212791,
+            28.6022096
+          ],
+          [
+            77.2223253,
+            28.6026903
+          ],
+          [
+            77.2229391,
+            28.6029688
+          ],
+          [
+            77.2231785,
+            28.6030582
+          ],
+          [
+            77.2234228,
+            28.6031681
+          ],
+          [
+            77.223556,
+            28.6032703
+          ],
+          [
+            77.2235968,
+            28.603338
+          ]
+        ]
+      },
+      "id": "way/37222903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/37222906",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Doctor A.P.J. Abdul Kalam Marg",
+        "name:etymology:wikidata": "Q9513",
+        "name:hi": "डॉक्टर ए. पी. जे. अब्दुल कलाम मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2107896,
+            28.5974426
+          ],
+          [
+            77.2106928,
+            28.597411
+          ],
+          [
+            77.2096639,
+            28.596949
+          ],
+          [
+            77.2093412,
+            28.5968042
+          ],
+          [
+            77.2089191,
+            28.5966147
+          ],
+          [
+            77.2082782,
+            28.5963269
+          ],
+          [
+            77.2080182,
+            28.5962102
+          ]
+        ]
+      },
+      "id": "way/37222906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/37222914",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Doctor A.P.J. Abdul Kalam Marg",
+        "name:etymology:wikidata": "Q9513",
+        "name:hi": "डॉक्टर ए. पी. जे. अब्दुल कलाम मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2073915,
+            28.5960773
+          ],
+          [
+            77.2075782,
+            28.5961006
+          ],
+          [
+            77.2076873,
+            28.596149
+          ]
+        ]
+      },
+      "id": "way/37222914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/37222918",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Doctor A.P.J. Abdul Kalam Marg",
+        "name:etymology:wikidata": "Q9513",
+        "name:hi": "डॉक्टर ए. पी. जे. अब्दुल कलाम मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2236446,
+            28.6032453
+          ],
+          [
+            77.223505,
+            28.6031455
+          ],
+          [
+            77.2233488,
+            28.6030693
+          ],
+          [
+            77.2233119,
+            28.6030513
+          ],
+          [
+            77.223206,
+            28.6029997
+          ],
+          [
+            77.2229444,
+            28.6028723
+          ],
+          [
+            77.2221451,
+            28.6025167
+          ],
+          [
+            77.2215443,
+            28.6022483
+          ],
+          [
+            77.220798,
+            28.6019254
+          ],
+          [
+            77.2206753,
+            28.6018644
+          ],
+          [
+            77.2201582,
+            28.6016363
+          ],
+          [
+            77.2199681,
+            28.6015525
+          ],
+          [
+            77.2194881,
+            28.6013386
+          ],
+          [
+            77.2190982,
+            28.6011627
+          ],
+          [
+            77.2186697,
+            28.600957
+          ],
+          [
+            77.2183758,
+            28.600825
+          ],
+          [
+            77.2183694,
+            28.6008216
+          ],
+          [
+            77.2182055,
+            28.6007398
+          ],
+          [
+            77.2180952,
+            28.6006526
+          ]
+        ]
+      },
+      "id": "way/37222918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1271885130",
+        "highway": "secondary",
+        "name": "Doctor A.P.J. Abdul Kalam Marg",
+        "name:etymology:wikidata": "Q9513",
+        "name:hi": "डॉक्टर ए. पी. जे. अब्दुल कलाम मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2110299,
+            28.5974679
+          ],
+          [
+            77.2107896,
+            28.5974426
+          ]
+        ]
+      },
+      "id": "way/1271885130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1290450966",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Doctor A.P.J. Abdul Kalam Marg",
+        "name:etymology:wikidata": "Q9513",
+        "name:hi": "डॉक्टर ए. पी. जे. अब्दुल कलाम मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2115405,
+            28.5978666
+          ],
+          [
+            77.2118774,
+            28.5980257
+          ],
+          [
+            77.2127321,
+            28.5984211
+          ],
+          [
+            77.212973,
+            28.5985294
+          ],
+          [
+            77.2130686,
+            28.5985711
+          ],
+          [
+            77.2138757,
+            28.598917
+          ],
+          [
+            77.2139175,
+            28.5989359
+          ],
+          [
+            77.2143261,
+            28.5991308
+          ],
+          [
+            77.2146689,
+            28.5992908
+          ],
+          [
+            77.215006,
+            28.5994432
+          ],
+          [
+            77.215992,
+            28.5998738
+          ],
+          [
+            77.2166302,
+            28.6001473
+          ],
+          [
+            77.2168094,
+            28.6002235
+          ],
+          [
+            77.2170161,
+            28.6003158
+          ]
+        ]
+      },
+      "id": "way/1290450966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1290450967",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Doctor A.P.J. Abdul Kalam Marg",
+        "name:etymology:wikidata": "Q9513",
+        "name:hi": "डॉक्टर ए. पी. जे. अब्दुल कलाम मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2170586,
+            28.600238
+          ],
+          [
+            77.216674,
+            28.6000706
+          ],
+          [
+            77.2162451,
+            28.5998834
+          ],
+          [
+            77.215637,
+            28.5996159
+          ],
+          [
+            77.2150483,
+            28.5993592
+          ],
+          [
+            77.2147133,
+            28.5992133
+          ],
+          [
+            77.2143689,
+            28.5990606
+          ],
+          [
+            77.2139122,
+            28.5988545
+          ],
+          [
+            77.213591,
+            28.5987084
+          ],
+          [
+            77.2130192,
+            28.5984523
+          ],
+          [
+            77.2127876,
+            28.5983506
+          ],
+          [
+            77.2122696,
+            28.5981252
+          ],
+          [
+            77.212107,
+            28.5980519
+          ],
+          [
+            77.2115733,
+            28.5978027
+          ]
+        ]
+      },
+      "id": "way/1290450967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1290450968",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Doctor A.P.J. Abdul Kalam Marg",
+        "name:etymology:wikidata": "Q9513",
+        "name:hi": "डॉक्टर ए. पी. जे. अब्दुल कलाम मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2170161,
+            28.6003158
+          ],
+          [
+            77.2172339,
+            28.6004439
+          ]
+        ]
+      },
+      "id": "way/1290450968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1502797502",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Doctor A.P.J. Abdul Kalam Marg",
+        "name:etymology:wikidata": "Q9513",
+        "name:hi": "डॉक्टर ए. पी. जे. अब्दुल कलाम मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2079798,
+            28.5962789
+          ],
+          [
+            77.2088114,
+            28.5966482
+          ],
+          [
+            77.209516,
+            28.5969611
+          ],
+          [
+            77.2096251,
+            28.5970096
+          ],
+          [
+            77.2102903,
+            28.597305
+          ],
+          [
+            77.2106419,
+            28.5974611
+          ],
+          [
+            77.2107498,
+            28.5975229
+          ],
+          [
+            77.2109383,
+            28.5976382
+          ]
+        ]
+      },
+      "id": "way/1502797502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1536739165",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Doctor A.P.J. Abdul Kalam Marg",
+        "name:etymology:wikidata": "Q9513",
+        "name:hi": "डॉक्टर ए. पी. जे. अब्दुल कलाम मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2076873,
+            28.596149
+          ],
+          [
+            77.2079006,
+            28.5962437
+          ]
+        ]
+      },
+      "id": "way/1536739165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1536739166",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Doctor A.P.J. Abdul Kalam Marg",
+        "name:etymology:wikidata": "Q9513",
+        "name:hi": "डॉक्टर ए. पी. जे. अब्दुल कलाम मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2077929,
+            28.596109
+          ],
+          [
+            77.20764,
+            28.5960403
+          ],
+          [
+            77.2074654,
+            28.5960158
+          ],
+          [
+            77.2074141,
+            28.5960086
+          ]
+        ]
+      },
+      "id": "way/1536739166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1536739167",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Doctor A.P.J. Abdul Kalam Marg",
+        "name:etymology:wikidata": "Q9513",
+        "name:hi": "डॉक्टर ए. पी. जे. अब्दुल कलाम मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2079408,
+            28.5961754
+          ],
+          [
+            77.2077929,
+            28.596109
+          ]
+        ]
+      },
+      "id": "way/1536739167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1542810460",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Doctor A.P.J. Abdul Kalam Marg",
+        "name:etymology:wikidata": "Q9513",
+        "name:hi": "डॉक्टर ए. पी. जे. अब्दुल कलाम मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2080182,
+            28.5962102
+          ],
+          [
+            77.2079408,
+            28.5961754
+          ]
+        ]
+      },
+      "id": "way/1542810460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1542810461",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Doctor A.P.J. Abdul Kalam Marg",
+        "name:etymology:wikidata": "Q9513",
+        "name:hi": "डॉक्टर ए. पी. जे. अब्दुल कलाम मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2079006,
+            28.5962437
+          ],
+          [
+            77.2079798,
+            28.5962789
+          ]
+        ]
+      },
+      "id": "way/1542810461"
+    }
+  ]
+}

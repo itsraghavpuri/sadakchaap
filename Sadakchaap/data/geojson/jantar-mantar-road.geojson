@@ -1,0 +1,189 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-27T10:31:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/24583493",
+      "properties": {
+        "@id": "way/24583493",
+        "highway": "residential",
+        "lane_markings": "no",
+        "name": "Jantar Mantar Road",
+        "name:etymology:wikidata": "Q2045115",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2157512,
+            28.6219251
+          ],
+          [
+            77.2158234,
+            28.6221029
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24583494",
+      "properties": {
+        "@id": "way/24583494",
+        "highway": "residential",
+        "lane_markings": "no",
+        "name": "Jantar Mantar Road",
+        "name:etymology:wikidata": "Q2045115",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2158234,
+            28.6221029
+          ],
+          [
+            77.215909,
+            28.6219119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24583495",
+      "properties": {
+        "@id": "way/24583495",
+        "highway": "residential",
+        "name": "Jantar Mantar Road",
+        "name:etymology:wikidata": "Q2045115",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2158234,
+            28.6221029
+          ],
+          [
+            77.2158254,
+            28.6221388
+          ],
+          [
+            77.2158787,
+            28.623096
+          ],
+          [
+            77.2158815,
+            28.6231459
+          ],
+          [
+            77.2158873,
+            28.6232495
+          ],
+          [
+            77.2159011,
+            28.623498
+          ],
+          [
+            77.2159089,
+            28.6236379
+          ],
+          [
+            77.2158969,
+            28.6238786
+          ],
+          [
+            77.2158739,
+            28.6240339
+          ],
+          [
+            77.2158482,
+            28.6242077
+          ],
+          [
+            77.2157504,
+            28.6247676
+          ],
+          [
+            77.2157458,
+            28.624856
+          ],
+          [
+            77.2157378,
+            28.6250077
+          ],
+          [
+            77.215744,
+            28.6251647
+          ],
+          [
+            77.2157652,
+            28.6253112
+          ],
+          [
+            77.2158713,
+            28.6260455
+          ],
+          [
+            77.2158836,
+            28.6261306
+          ],
+          [
+            77.2159548,
+            28.6261796
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24583768",
+      "properties": {
+        "@id": "way/24583768",
+        "highway": "residential",
+        "lanes": "4",
+        "name": "Jantar Mantar Road",
+        "name:etymology:wikidata": "Q2045115",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2158063,
+            28.621334
+          ],
+          [
+            77.2157952,
+            28.6211818
+          ],
+          [
+            77.2156848,
+            28.6196697
+          ],
+          [
+            77.2156731,
+            28.6195092
+          ],
+          [
+            77.2156395,
+            28.6190498
+          ],
+          [
+            77.2155939,
+            28.6184247
+          ]
+        ]
+      }
+    }
+  ]
+}

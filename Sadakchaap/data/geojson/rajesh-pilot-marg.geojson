@@ -1,0 +1,417 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-28T12:38:36Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/28121481",
+      "properties": {
+        "@id": "way/28121481",
+        "highway": "secondary",
+        "name": "Rajesh Pilot Marg",
+        "name:etymology:wikidata": "Q7286080",
+        "old_name": "South End Road",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2229658,
+            28.5971124
+          ],
+          [
+            77.2226985,
+            28.5970408
+          ],
+          [
+            77.2226541,
+            28.5970334
+          ],
+          [
+            77.2223684,
+            28.5970327
+          ],
+          [
+            77.2207927,
+            28.5970856
+          ],
+          [
+            77.2207627,
+            28.5970838
+          ],
+          [
+            77.2205901,
+            28.5970737
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37222917",
+      "properties": {
+        "@id": "way/37222917",
+        "highway": "secondary",
+        "lane_markings": "no",
+        "name": "Rajesh Pilot Marg",
+        "name:etymology:wikidata": "Q7286080",
+        "old_name": "South End Road",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2190133,
+            28.5981597
+          ],
+          [
+            77.2189547,
+            28.5982554
+          ],
+          [
+            77.2188853,
+            28.5983689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311742565",
+      "properties": {
+        "@id": "way/311742565",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Rajesh Pilot Marg",
+        "name:etymology:wikidata": "Q7286080",
+        "old_name": "South End Road",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2179421,
+            28.6002719
+          ],
+          [
+            77.217986,
+            28.6000722
+          ],
+          [
+            77.2180458,
+            28.5999604
+          ],
+          [
+            77.2181605,
+            28.5997656
+          ],
+          [
+            77.2184948,
+            28.5992019
+          ],
+          [
+            77.2187391,
+            28.5987672
+          ],
+          [
+            77.2188865,
+            28.5985091
+          ],
+          [
+            77.2189864,
+            28.5983617
+          ],
+          [
+            77.2190333,
+            28.5982908
+          ],
+          [
+            77.2190757,
+            28.5982267
+          ],
+          [
+            77.2191332,
+            28.5981444
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/563791816",
+      "properties": {
+        "@id": "way/563791816",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "name": "Rajesh Pilot Marg",
+        "name:etymology:wikidata": "Q7286080",
+        "old_name": "South End Road",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2205727,
+            28.597211
+          ],
+          [
+            77.2206381,
+            28.597177
+          ],
+          [
+            77.2207097,
+            28.5971529
+          ],
+          [
+            77.2207613,
+            28.5971443
+          ],
+          [
+            77.2207875,
+            28.59714
+          ],
+          [
+            77.2218426,
+            28.5971028
+          ],
+          [
+            77.2222098,
+            28.5970971
+          ],
+          [
+            77.2224637,
+            28.597097
+          ],
+          [
+            77.222608,
+            28.5971064
+          ],
+          [
+            77.2227291,
+            28.5971404
+          ],
+          [
+            77.2228641,
+            28.5971849
+          ],
+          [
+            77.2229486,
+            28.5972285
+          ],
+          [
+            77.223175,
+            28.5973454
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/710522944",
+      "properties": {
+        "@id": "way/710522944",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Rajesh Pilot Marg",
+        "name:etymology:wikidata": "Q7286080",
+        "old_name": "South End Road",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2191332,
+            28.5981444
+          ],
+          [
+            77.2192166,
+            28.5980655
+          ],
+          [
+            77.219281,
+            28.5980046
+          ],
+          [
+            77.2193681,
+            28.5979262
+          ],
+          [
+            77.2197882,
+            28.597617
+          ],
+          [
+            77.2200832,
+            28.597383
+          ],
+          [
+            77.2201894,
+            28.5973059
+          ],
+          [
+            77.2202172,
+            28.5972857
+          ],
+          [
+            77.2202901,
+            28.5972473
+          ],
+          [
+            77.2203321,
+            28.5972468
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/710522945",
+      "properties": {
+        "@id": "way/710522945",
+        "highway": "secondary",
+        "name": "Rajesh Pilot Marg",
+        "name:etymology:wikidata": "Q7286080",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2202661,
+            28.5971511
+          ],
+          [
+            77.220223,
+            28.5971932
+          ],
+          [
+            77.2201381,
+            28.597254
+          ],
+          [
+            77.2199468,
+            28.597391
+          ],
+          [
+            77.2195471,
+            28.5977089
+          ],
+          [
+            77.2193226,
+            28.5978963
+          ],
+          [
+            77.2191609,
+            28.5980133
+          ],
+          [
+            77.2190764,
+            28.5980769
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/722082927",
+      "properties": {
+        "@id": "way/722082927",
+        "highway": "secondary",
+        "name": "Rajesh Pilot Marg",
+        "name:etymology:wikidata": "Q7286080",
+        "old_name": "South End Road",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2232305,
+            28.5972676
+          ],
+          [
+            77.2229898,
+            28.5971264
+          ],
+          [
+            77.2229658,
+            28.5971124
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/758753876",
+      "properties": {
+        "@id": "way/758753876",
+        "highway": "secondary",
+        "name": "Rajesh Pilot Marg",
+        "name:etymology:wikidata": "Q7286080",
+        "old_name": "South End Road",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2188853,
+            28.5983689
+          ],
+          [
+            77.218402,
+            28.5991589
+          ],
+          [
+            77.2179367,
+            28.5999205
+          ],
+          [
+            77.2177694,
+            28.6001942
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/758753879",
+      "properties": {
+        "@id": "way/758753879",
+        "highway": "secondary",
+        "lane_markings": "no",
+        "name": "Rajesh Pilot Marg",
+        "name:etymology:wikidata": "Q7286080",
+        "old_name": "South End Road",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2190764,
+            28.5980769
+          ],
+          [
+            77.2190133,
+            28.5981597
+          ]
+        ]
+      }
+    }
+  ]
+}

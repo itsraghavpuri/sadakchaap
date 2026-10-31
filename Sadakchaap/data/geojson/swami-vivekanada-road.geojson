@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-31T21:07:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/361709658",
+      "properties": {
+        "@id": "way/361709658",
+        "highway": "pedestrian",
+        "name": "Swami Vivekanada Road",
+        "name:etymology:wikidata": "Q47478",
+        "name:hi": "स्वामी विवेकानंद रोड",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2307644,
+            28.6134435
+          ],
+          [
+            77.2300967,
+            28.6145939
+          ],
+          [
+            77.2297796,
+            28.6151215
+          ]
+        ]
+      }
+    }
+  ]
+}

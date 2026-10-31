@@ -1,0 +1,289 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-31T21:00:51Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/24577106",
+      "properties": {
+        "@id": "way/24577106",
+        "highway": "secondary",
+        "lanes": "4",
+        "name": "Raisina Road",
+        "name:etymology:wikidata": "Q3630462",
+        "name:hi": "रायसीना रोड",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2155939,
+            28.6184247
+          ],
+          [
+            77.2167188,
+            28.6189263
+          ],
+          [
+            77.2168453,
+            28.6189826
+          ],
+          [
+            77.2169125,
+            28.6190124
+          ],
+          [
+            77.2172449,
+            28.61916
+          ],
+          [
+            77.2177815,
+            28.6193983
+          ],
+          [
+            77.218,
+            28.6194953
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/267446576",
+      "properties": {
+        "@id": "way/267446576",
+        "access": "no",
+        "highway": "secondary",
+        "name": "Raisina Road",
+        "name:etymology:wikidata": "Q3630462",
+        "name:hi": "रायसीना रोड",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2092243,
+            28.6156219
+          ],
+          [
+            77.2101131,
+            28.6160086
+          ],
+          [
+            77.2116304,
+            28.6166686
+          ],
+          [
+            77.2117884,
+            28.6167373
+          ],
+          [
+            77.2118903,
+            28.6167817
+          ],
+          [
+            77.2119747,
+            28.6168184
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/717907815",
+      "properties": {
+        "@id": "way/717907815",
+        "highway": "secondary",
+        "name": "Raisina Road",
+        "name:etymology:wikidata": "Q3630462",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2183974,
+            28.619508
+          ],
+          [
+            77.2183101,
+            28.6195267
+          ],
+          [
+            77.2182598,
+            28.6195297
+          ],
+          [
+            77.2182162,
+            28.6195309
+          ],
+          [
+            77.2181586,
+            28.619528
+          ],
+          [
+            77.2181023,
+            28.6195191
+          ],
+          [
+            77.218,
+            28.6194953
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/998790361",
+      "properties": {
+        "@id": "way/998790361",
+        "highway": "secondary",
+        "name": "Raisina Road",
+        "name:etymology:wikidata": "Q3630462",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.218,
+            28.6194953
+          ],
+          [
+            77.2181091,
+            28.6195709
+          ],
+          [
+            77.2181395,
+            28.6195949
+          ],
+          [
+            77.2181634,
+            28.6196205
+          ],
+          [
+            77.2181847,
+            28.6196486
+          ],
+          [
+            77.2182462,
+            28.6197489
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/998790362",
+      "properties": {
+        "@id": "way/998790362",
+        "highway": "secondary",
+        "name": "Raisina Road",
+        "name:etymology:wikidata": "Q3630462",
+        "name:hi": "रायसीना रोड",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2126653,
+            28.6171987
+          ],
+          [
+            77.2127645,
+            28.6172338
+          ],
+          [
+            77.2130578,
+            28.617335
+          ],
+          [
+            77.2131356,
+            28.6173637
+          ],
+          [
+            77.2132387,
+            28.6173986
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1327208477",
+      "properties": {
+        "@id": "way/1327208477",
+        "highway": "secondary",
+        "lanes": "4",
+        "name": "Raisina Road",
+        "name:etymology:wikidata": "Q3630462",
+        "name:hi": "रायसीना रोड",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2132387,
+            28.6173986
+          ],
+          [
+            77.2135142,
+            28.6175151
+          ],
+          [
+            77.2136322,
+            28.617565
+          ],
+          [
+            77.2137187,
+            28.6175978
+          ],
+          [
+            77.2138369,
+            28.6176426
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1493678699",
+      "properties": {
+        "@id": "way/1493678699",
+        "highway": "secondary",
+        "lanes": "4",
+        "name": "Raisina Road",
+        "name:etymology:wikidata": "Q3630462",
+        "name:hi": "रायसीना रोड",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2138369,
+            28.6176426
+          ],
+          [
+            77.2140546,
+            28.6177439
+          ],
+          [
+            77.2155939,
+            28.6184247
+          ]
+        ]
+      }
+    }
+  ]
+}

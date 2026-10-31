@@ -1,0 +1,523 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-28T19:13:19Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/24577131",
+      "properties": {
+        "@id": "way/24577131",
+        "highway": "secondary",
+        "name": "Rafi Ahmed Kidwai Marg",
+        "name:etymology:wikidata": "Q7282619",
+        "name:hi": "रफी अहमद किदवई मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2125041,
+            28.6166677
+          ],
+          [
+            77.2124264,
+            28.6165751
+          ],
+          [
+            77.2123959,
+            28.6165044
+          ],
+          [
+            77.2123808,
+            28.616431
+          ],
+          [
+            77.2123587,
+            28.6162872
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/570413591",
+      "properties": {
+        "@id": "way/570413591",
+        "highway": "secondary",
+        "lanes": "6",
+        "name": "Rafi Ahmed Kidwai Marg",
+        "name:etymology:wikidata": "Q7282619",
+        "name:hi": "रफी अहमद किदवई मार्ग",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2122908,
+            28.6152361
+          ],
+          [
+            77.2122556,
+            28.6146708
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/570413594",
+      "properties": {
+        "@id": "way/570413594",
+        "highway": "secondary",
+        "name": "Rafi Ahmed Kidwai Marg",
+        "name:etymology:wikidata": "Q7282619",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2117867,
+            28.6108638
+          ],
+          [
+            77.2118517,
+            28.6109284
+          ],
+          [
+            77.2119114,
+            28.6110137
+          ],
+          [
+            77.211935,
+            28.6110773
+          ],
+          [
+            77.2119368,
+            28.6111051
+          ],
+          [
+            77.2119689,
+            28.6116042
+          ],
+          [
+            77.2119869,
+            28.6119532
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/714992549",
+      "properties": {
+        "@id": "way/714992549",
+        "highway": "secondary",
+        "lanes": "6",
+        "name": "Rafi Ahmed Kidwai Marg",
+        "name:etymology:wikidata": "Q7282619",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2122556,
+            28.6146708
+          ],
+          [
+            77.2122119,
+            28.6139362
+          ],
+          [
+            77.2122049,
+            28.6137551
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/722082946",
+      "properties": {
+        "@id": "way/722082946",
+        "highway": "secondary",
+        "lanes": "4",
+        "name": "Rafi Ahmed Kidwai Marg",
+        "name:etymology:wikidata": "Q7282619",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.212092,
+            28.6120909
+          ],
+          [
+            77.2120612,
+            28.6116139
+          ],
+          [
+            77.2120393,
+            28.6112755
+          ],
+          [
+            77.2120264,
+            28.6110908
+          ],
+          [
+            77.2120242,
+            28.6110586
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/722082947",
+      "properties": {
+        "@id": "way/722082947",
+        "highway": "secondary",
+        "lanes": "6",
+        "name": "Rafi Ahmed Kidwai Marg",
+        "name:etymology:wikidata": "Q7282619",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2121435,
+            28.6128676
+          ],
+          [
+            77.2121039,
+            28.6122699
+          ],
+          [
+            77.212092,
+            28.6120909
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/760536610",
+      "properties": {
+        "@id": "way/760536610",
+        "highway": "secondary",
+        "lanes": "6",
+        "name": "Rafi Ahmed Kidwai Marg",
+        "name:etymology:wikidata": "Q7282619",
+        "name:hi": "रफी अहमद किदवई मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2123587,
+            28.6162872
+          ],
+          [
+            77.2123355,
+            28.6159
+          ],
+          [
+            77.2122908,
+            28.6152361
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/760536611",
+      "properties": {
+        "@id": "way/760536611",
+        "highway": "secondary",
+        "name": "Rafi Ahmed Kidwai Marg",
+        "name:etymology:wikidata": "Q7282619",
+        "name:hi": "रफी अहमद किदवई मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.212197,
+            28.6152391
+          ],
+          [
+            77.2122041,
+            28.6153487
+          ],
+          [
+            77.2122111,
+            28.6154592
+          ],
+          [
+            77.2122119,
+            28.6154714
+          ],
+          [
+            77.2122636,
+            28.6162909
+          ],
+          [
+            77.2122667,
+            28.6163402
+          ],
+          [
+            77.2122686,
+            28.6163693
+          ],
+          [
+            77.2122651,
+            28.6164601
+          ],
+          [
+            77.212244,
+            28.616542
+          ],
+          [
+            77.2121862,
+            28.6166226
+          ],
+          [
+            77.2121181,
+            28.6166904
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/760536612",
+      "properties": {
+        "@id": "way/760536612",
+        "highway": "secondary",
+        "name": "Rafi Ahmed Kidwai Marg",
+        "name:etymology:wikidata": "Q7282619",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2120242,
+            28.6110586
+          ],
+          [
+            77.2120455,
+            28.6109623
+          ],
+          [
+            77.212071,
+            28.6109089
+          ],
+          [
+            77.2121057,
+            28.6108517
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1307222667",
+      "properties": {
+        "@id": "way/1307222667",
+        "highway": "secondary",
+        "lanes": "6",
+        "name": "Rafi Ahmed Kidwai Marg",
+        "name:etymology:wikidata": "Q7282619",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2122049,
+            28.6137551
+          ],
+          [
+            77.2121876,
+            28.6135518
+          ],
+          [
+            77.2121435,
+            28.6128676
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1307222668",
+      "properties": {
+        "@id": "way/1307222668",
+        "highway": "secondary",
+        "lane_markings": "yes",
+        "lanes": "2",
+        "name": "Rafi Ahmed Kidwai Marg",
+        "name:etymology:wikidata": "Q7282619",
+        "name:hi": "रफी अहमद किदवई मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2120463,
+            28.6128615
+          ],
+          [
+            77.212072,
+            28.6132539
+          ],
+          [
+            77.212088,
+            28.6135566
+          ],
+          [
+            77.2121071,
+            28.6137596
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1493678682",
+      "properties": {
+        "@id": "way/1493678682",
+        "highway": "secondary",
+        "name": "Rafi Ahmed Kidwai Marg",
+        "name:etymology:wikidata": "Q7282619",
+        "name:hi": "रफी अहमद किदवई मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2121635,
+            28.6147162
+          ],
+          [
+            77.212197,
+            28.6152391
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1493678683",
+      "properties": {
+        "@id": "way/1493678683",
+        "highway": "secondary",
+        "name": "Rafi Ahmed Kidwai Marg",
+        "name:etymology:wikidata": "Q7282619",
+        "name:hi": "रफी अहमद किदवई मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2121071,
+            28.6137596
+          ],
+          [
+            77.2121171,
+            28.6139379
+          ],
+          [
+            77.2121416,
+            28.6143746
+          ],
+          [
+            77.2121635,
+            28.6147162
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1493678684",
+      "properties": {
+        "@id": "way/1493678684",
+        "highway": "secondary",
+        "lane_markings": "yes",
+        "lanes": "2",
+        "name": "Rafi Ahmed Kidwai Marg",
+        "name:etymology:wikidata": "Q7282619",
+        "name:hi": "रफी अहमद किदवई मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2120065,
+            28.612253
+          ],
+          [
+            77.2120463,
+            28.6128615
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1493678685",
+      "properties": {
+        "@id": "way/1493678685",
+        "highway": "secondary",
+        "lane_markings": "yes",
+        "lanes": "2",
+        "name": "Rafi Ahmed Kidwai Marg",
+        "name:etymology:wikidata": "Q7282619",
+        "name:hi": "रफी अहमद किदवई मार्ग",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2119869,
+            28.6119532
+          ],
+          [
+            77.2120065,
+            28.612253
+          ]
+        ]
+      }
+    }
+  ]
+}

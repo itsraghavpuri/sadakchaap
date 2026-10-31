@@ -1,0 +1,586 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-21T16:29:51Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/445329854",
+        "building": "yes",
+        "name": "Dr. Rajendra Prasad Krishak Hostel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1597627,
+              28.6358671
+            ],
+            [
+              77.1599666,
+              28.6355352
+            ],
+            [
+              77.1603796,
+              28.6357683
+            ],
+            [
+              77.1601221,
+              28.6360719
+            ],
+            [
+              77.1597627,
+              28.6358671
+            ]
+          ]
+        ]
+      },
+      "id": "way/445329854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/24577108",
+        "highway": "residential",
+        "name": "Doctor Rajendra Prasad Lane",
+        "name:etymology:wikidata": "Q197736",
+        "name:hi": "डौक्टर राजेन्द्र प्रसाद लेन"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.218738,
+            28.6183027
+          ],
+          [
+            77.2188299,
+            28.6183013
+          ],
+          [
+            77.21926,
+            28.6182777
+          ],
+          [
+            77.2195216,
+            28.6182367
+          ],
+          [
+            77.2197715,
+            28.6181513
+          ],
+          [
+            77.2200285,
+            28.6180241
+          ],
+          [
+            77.2206413,
+            28.6176496
+          ],
+          [
+            77.2206881,
+            28.6176038
+          ],
+          [
+            77.2207131,
+            28.6175557
+          ],
+          [
+            77.220719,
+            28.6174825
+          ],
+          [
+            77.2207113,
+            28.6172456
+          ],
+          [
+            77.220724,
+            28.6171901
+          ],
+          [
+            77.2207396,
+            28.6171536
+          ],
+          [
+            77.2207696,
+            28.6171254
+          ],
+          [
+            77.2208211,
+            28.6171168
+          ],
+          [
+            77.2210657,
+            28.6171072
+          ],
+          [
+            77.2213837,
+            28.6170947
+          ],
+          [
+            77.2215573,
+            28.6170836
+          ],
+          [
+            77.2226992,
+            28.6170322
+          ],
+          [
+            77.2227781,
+            28.6170076
+          ],
+          [
+            77.222802,
+            28.6169469
+          ],
+          [
+            77.2227633,
+            28.6165108
+          ]
+        ]
+      },
+      "id": "way/24577108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/44257669",
+        "highway": "secondary",
+        "name": "Doctor Rajendra Prasad Road",
+        "name:etymology:wikidata": "Q197736",
+        "name:hi": "डॉक्टर राजेंद्र प्रसाद रोड",
+        "old_name": "Queen Victoria Road",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2225699,
+            28.6164433
+          ],
+          [
+            77.2204758,
+            28.6165347
+          ],
+          [
+            77.219062,
+            28.6166244
+          ],
+          [
+            77.2189385,
+            28.6166322
+          ],
+          [
+            77.2188861,
+            28.6166186
+          ],
+          [
+            77.2188051,
+            28.6166036
+          ]
+        ]
+      },
+      "id": "way/44257669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/712992074",
+        "access": "no",
+        "highway": "secondary",
+        "name": "Doctor Rajendra Prasad Road",
+        "name:etymology:wikidata": "Q197736",
+        "name:hi": "डॉक्टर राजेंद्र प्रसाद रोड",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2188103,
+            28.6167452
+          ],
+          [
+            77.2188809,
+            28.6167078
+          ],
+          [
+            77.2189641,
+            28.6166866
+          ],
+          [
+            77.2190609,
+            28.6166836
+          ],
+          [
+            77.2191982,
+            28.6166794
+          ],
+          [
+            77.2193475,
+            28.6166691
+          ],
+          [
+            77.2194876,
+            28.6166652
+          ],
+          [
+            77.2198694,
+            28.6166513
+          ],
+          [
+            77.2201091,
+            28.6166347
+          ],
+          [
+            77.2203226,
+            28.6166247
+          ],
+          [
+            77.2205696,
+            28.6166115
+          ],
+          [
+            77.2210635,
+            28.6165891
+          ],
+          [
+            77.2213701,
+            28.6165751
+          ],
+          [
+            77.2218302,
+            28.6165541
+          ],
+          [
+            77.2221471,
+            28.6165397
+          ],
+          [
+            77.2222618,
+            28.6165332
+          ],
+          [
+            77.2225752,
+            28.6165192
+          ]
+        ]
+      },
+      "id": "way/712992074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1053851211",
+        "highway": "secondary",
+        "lanes": "4",
+        "name": "Doctor Rajendra Prasad Road",
+        "name:etymology:wikidata": "Q197736",
+        "name:hi": "डॉक्टर राजेंद्र प्रसाद रोड",
+        "old_name": "Queen Victoria Road",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.217925,
+            28.616708
+          ],
+          [
+            77.2172489,
+            28.6167417
+          ],
+          [
+            77.2169658,
+            28.6167558
+          ],
+          [
+            77.2167326,
+            28.6167674
+          ],
+          [
+            77.2163619,
+            28.6167872
+          ],
+          [
+            77.2160688,
+            28.6168028
+          ],
+          [
+            77.2155579,
+            28.6168301
+          ],
+          [
+            77.2154618,
+            28.6168352
+          ],
+          [
+            77.2149948,
+            28.6168602
+          ],
+          [
+            77.2146329,
+            28.6168795
+          ],
+          [
+            77.2143104,
+            28.6168942
+          ],
+          [
+            77.2142675,
+            28.6168962
+          ],
+          [
+            77.2140599,
+            28.616898
+          ],
+          [
+            77.2139674,
+            28.6168995
+          ]
+        ]
+      },
+      "id": "way/1053851211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1053851214",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Doctor Rajendra Prasad Road",
+        "name:etymology:wikidata": "Q197736",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2181959,
+            28.6167052
+          ],
+          [
+            77.2182648,
+            28.6167313
+          ],
+          [
+            77.2184281,
+            28.6167504
+          ],
+          [
+            77.2185127,
+            28.6167575
+          ],
+          [
+            77.2185753,
+            28.6167742
+          ]
+        ]
+      },
+      "id": "way/1053851214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1053851215",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Doctor Rajendra Prasad Road",
+        "name:etymology:wikidata": "Q197736",
+        "old_name": "Queen Victoria Road",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2185665,
+            28.6165898
+          ],
+          [
+            77.2184255,
+            28.616638
+          ],
+          [
+            77.2182649,
+            28.6166716
+          ],
+          [
+            77.2181959,
+            28.6167052
+          ]
+        ]
+      },
+      "id": "way/1053851215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1553810503",
+        "highway": "secondary",
+        "name": "Doctor Rajendra Prasad Road",
+        "name:etymology:wikidata": "Q197736",
+        "name:hi": "डॉक्टर राजेंद्र प्रसाद रोड",
+        "old_name": "Queen Victoria Road",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2246817,
+            28.6163292
+          ],
+          [
+            77.224564,
+            28.6163837
+          ],
+          [
+            77.2244331,
+            28.6164026
+          ],
+          [
+            77.2241883,
+            28.6164056
+          ],
+          [
+            77.222762,
+            28.6164349
+          ]
+        ]
+      },
+      "id": "way/1553810503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1553810509",
+        "highway": "secondary",
+        "name": "Doctor Rajendra Prasad Road",
+        "name:etymology:wikidata": "Q197736",
+        "name:hi": "डॉक्टर राजेंद्र प्रसाद रोड",
+        "old_name": "Queen Victoria Road",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.222762,
+            28.6164349
+          ],
+          [
+            77.2225699,
+            28.6164433
+          ]
+        ]
+      },
+      "id": "way/1553810509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1553810510",
+        "highway": "residential",
+        "name": "Doctor Rajendra Prasad Lane",
+        "name:etymology:wikidata": "Q197736",
+        "name:hi": "डौक्टर राजेन्द्र प्रसाद लेन"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2227633,
+            28.6165108
+          ],
+          [
+            77.222762,
+            28.6164349
+          ]
+        ]
+      },
+      "id": "way/1553810510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1553810511",
+        "access": "no",
+        "highway": "secondary",
+        "name": "Doctor Rajendra Prasad Road",
+        "name:etymology:wikidata": "Q197736",
+        "name:hi": "डॉक्टर राजेंद्र प्रसाद रोड",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2227633,
+            28.6165108
+          ],
+          [
+            77.223795,
+            28.6164807
+          ],
+          [
+            77.2244381,
+            28.6164633
+          ],
+          [
+            77.2245471,
+            28.6164583
+          ],
+          [
+            77.2246249,
+            28.6164535
+          ],
+          [
+            77.2246954,
+            28.6164611
+          ]
+        ]
+      },
+      "id": "way/1553810511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1553810512",
+        "access": "no",
+        "highway": "secondary",
+        "name": "Doctor Rajendra Prasad Road",
+        "name:etymology:wikidata": "Q197736",
+        "name:hi": "डॉक्टर राजेंद्र प्रसाद रोड",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2225752,
+            28.6165192
+          ],
+          [
+            77.2227633,
+            28.6165108
+          ]
+        ]
+      },
+      "id": "way/1553810512"
+    }
+  ]
+}

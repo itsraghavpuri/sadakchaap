@@ -1,0 +1,401 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-28T19:34:41Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/24563433",
+      "properties": {
+        "@id": "way/24563433",
+        "highway": "tertiary",
+        "lane_markings": "no",
+        "name": "Copernicus Marg",
+        "name:etymology:wikidata": "Q619",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2314044,
+            28.6166748
+          ],
+          [
+            77.2314285,
+            28.6165675
+          ],
+          [
+            77.2314593,
+            28.6164733
+          ],
+          [
+            77.2314936,
+            28.6164028
+          ],
+          [
+            77.2315586,
+            28.6163014
+          ],
+          [
+            77.2317714,
+            28.6160961
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24563436",
+      "properties": {
+        "@id": "way/24563436",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Copernicus Marg",
+        "name:etymology:wikidata": "Q619",
+        "name:hi": "कॉपरनिकस मार्ग",
+        "name:ur": "کوپرنیکس مارگ",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2312989,
+            28.6166789
+          ],
+          [
+            77.2313035,
+            28.6167299
+          ],
+          [
+            77.2313647,
+            28.6176403
+          ],
+          [
+            77.2314147,
+            28.6183704
+          ],
+          [
+            77.2314566,
+            28.6189831
+          ],
+          [
+            77.2314967,
+            28.6195692
+          ],
+          [
+            77.2315854,
+            28.6208641
+          ],
+          [
+            77.2316058,
+            28.6211612
+          ],
+          [
+            77.2316377,
+            28.6216283
+          ],
+          [
+            77.2316395,
+            28.6216543
+          ],
+          [
+            77.2316429,
+            28.621701
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24563437",
+      "properties": {
+        "@id": "way/24563437",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "Copernicus Marg",
+        "name:etymology:wikidata": "Q619",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2307818,
+            28.6160632
+          ],
+          [
+            77.2308631,
+            28.6161066
+          ],
+          [
+            77.2309126,
+            28.6161551
+          ],
+          [
+            77.2310745,
+            28.6163137
+          ],
+          [
+            77.2310887,
+            28.6163268
+          ],
+          [
+            77.2311348,
+            28.6163697
+          ],
+          [
+            77.2311965,
+            28.6164451
+          ],
+          [
+            77.2312501,
+            28.616538
+          ],
+          [
+            77.2312989,
+            28.6166789
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/656933874",
+      "properties": {
+        "@id": "way/656933874",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "Copernicus Marg",
+        "name:etymology:wikidata": "Q619",
+        "name:ur": "کوپرنیکس مارگ",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2318777,
+            28.625133
+          ],
+          [
+            77.2318577,
+            28.6252474
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/656933875",
+      "properties": {
+        "@id": "way/656933875",
+        "highway": "tertiary",
+        "lane_markings": "yes",
+        "lanes": "1",
+        "name": "Copernicus Marg",
+        "name:etymology:wikidata": "Q619",
+        "name:ur": "کوپرنیکس مارگ",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2319706,
+            28.6252425
+          ],
+          [
+            77.2319421,
+            28.6251319
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/656933877",
+      "properties": {
+        "@id": "way/656933877",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Copernicus Marg",
+        "name:etymology:wikidata": "Q619",
+        "name:hi": "कॉपरनिकस मार्ग",
+        "name:ur": "کوپرنیکس مارگ",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2319421,
+            28.6251319
+          ],
+          [
+            77.2319348,
+            28.6249958
+          ],
+          [
+            77.2318747,
+            28.6240602
+          ],
+          [
+            77.2318314,
+            28.6233849
+          ],
+          [
+            77.2318077,
+            28.6230165
+          ],
+          [
+            77.2317968,
+            28.622846
+          ],
+          [
+            77.2317868,
+            28.6226896
+          ],
+          [
+            77.2317776,
+            28.622545
+          ],
+          [
+            77.2317284,
+            28.6217835
+          ],
+          [
+            77.2317249,
+            28.6217149
+          ],
+          [
+            77.2317192,
+            28.6216263
+          ],
+          [
+            77.2317118,
+            28.6215095
+          ],
+          [
+            77.2316897,
+            28.621161
+          ],
+          [
+            77.2316732,
+            28.6209014
+          ],
+          [
+            77.2316641,
+            28.6207586
+          ],
+          [
+            77.2316411,
+            28.6203973
+          ],
+          [
+            77.2316212,
+            28.620084
+          ],
+          [
+            77.2315965,
+            28.6196959
+          ],
+          [
+            77.2315345,
+            28.6187206
+          ],
+          [
+            77.2314654,
+            28.6176343
+          ],
+          [
+            77.2314044,
+            28.6166748
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1306148229",
+      "properties": {
+        "@id": "way/1306148229",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Copernicus Marg",
+        "name:etymology:wikidata": "Q619",
+        "name:hi": "कॉपरनिकस मार्ग",
+        "name:ur": "کوپرنیکس مارگ",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2316429,
+            28.621701
+          ],
+          [
+            77.231646,
+            28.6217774
+          ],
+          [
+            77.2316673,
+            28.6220591
+          ],
+          [
+            77.2316893,
+            28.6223817
+          ],
+          [
+            77.2317192,
+            28.6228176
+          ],
+          [
+            77.2317341,
+            28.6230399
+          ],
+          [
+            77.2317374,
+            28.6230897
+          ],
+          [
+            77.2317556,
+            28.623361
+          ],
+          [
+            77.2318446,
+            28.6246903
+          ],
+          [
+            77.2318609,
+            28.6249078
+          ],
+          [
+            77.2318677,
+            28.6249989
+          ],
+          [
+            77.2318777,
+            28.625133
+          ]
+        ]
+      }
+    }
+  ]
+}

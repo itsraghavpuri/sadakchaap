@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-28T17:17:52Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/24617991",
+      "properties": {
+        "@id": "way/24617991",
+        "highway": "residential",
+        "name": "Kushak Road"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2036762,
+            28.606885
+          ],
+          [
+            77.2031749,
+            28.606657
+          ],
+          [
+            77.2026736,
+            28.6064312
+          ],
+          [
+            77.2021434,
+            28.606193
+          ],
+          [
+            77.2015856,
+            28.6059422
+          ],
+          [
+            77.2010822,
+            28.6057161
+          ],
+          [
+            77.2005151,
+            28.6054679
+          ],
+          [
+            77.1996788,
+            28.6050778
+          ],
+          [
+            77.1993873,
+            28.6049439
+          ],
+          [
+            77.1992971,
+            28.6049028
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/582454141",
+      "properties": {
+        "@id": "way/582454141",
+        "highway": "residential",
+        "name": "Kushak Road"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2034354,
+            28.6072395
+          ],
+          [
+            77.204325,
+            28.6082359
+          ]
+        ]
+      }
+    }
+  ]
+}
